@@ -1,0 +1,9 @@
+{
+  "pid": 25096,
+  "startedAt": 1778631556785,
+  "command": "dev",
+  "cwd": "D:/WorkSpace/wuyoai",
+  "port": 3000,
+  "hostname": "::1",
+  "url": "http://[::1]:3000"
+}

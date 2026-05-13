@@ -1,0 +1,24 @@
+{
+  "name": "wuyoai",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.17.0",
+    "vue": "^3.5.0",
+    "vue-router": "^4.5.0",
+    "flexsearch": "^0.7.43"
+  },
+  "devDependencies": {
+    "@unocss/nuxt": "^66.0.0",
+    "@nuxtjs/i18n": "^9.5.0",
+    "@nuxtjs/sitemap": "^7.0.0",
+    "typescript": "^5.8.0"
+  }
+}

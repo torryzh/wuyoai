@@ -1,0 +1,74 @@
+[
+  {
+    "id": "chat",
+    "icon": "🤖",
+    "name": { "zh": "AI对话聊天", "en": "AI Chat" },
+    "description": { "zh": "ChatGPT、Claude、文心一言等通用大模型", "en": "ChatGPT, Claude, and other general-purpose LLMs" }
+  },
+  {
+    "id": "writing",
+    "icon": "✍️",
+    "name": { "zh": "AI写作创作", "en": "AI Writing" },
+    "description": { "zh": "写文章、写文案、小说写作", "en": "Articles, copywriting, and fiction writing" }
+  },
+  {
+    "id": "image",
+    "icon": "🎨",
+    "name": { "zh": "AI绘画图像", "en": "AI Image" },
+    "description": { "zh": "Midjourney、DALL-E、图像生成", "en": "Midjourney, DALL-E, and image generation" }
+  },
+  {
+    "id": "video",
+    "icon": "🎬",
+    "name": { "zh": "AI视频生成", "en": "AI Video" },
+    "description": { "zh": "文字生成视频、视频剪辑、数字人", "en": "Text-to-video, video editing, and digital humans" }
+  },
+  {
+    "id": "audio",
+    "icon": "🎵",
+    "name": { "zh": "AI音频音乐", "en": "AI Audio" },
+    "description": { "zh": "语音合成、音乐生成、AI配音", "en": "Voice synthesis, music generation, and AI dubbing" }
+  },
+  {
+    "id": "code",
+    "icon": "💻",
+    "name": { "zh": "AI编程开发", "en": "AI Code" },
+    "description": { "zh": "GitHub Copilot、代码生成、Debug工具", "en": "GitHub Copilot, code generation, and debugging tools" }
+  },
+  {
+    "id": "office",
+    "icon": "📊",
+    "name": { "zh": "AI办公效率", "en": "AI Office" },
+    "description": { "zh": "PPT生成、Excel公式、文档总结", "en": "PPT generation, Excel formulas, and document summarization" }
+  },
+  {
+    "id": "search",
+    "icon": "🔍",
+    "name": { "zh": "AI搜索研究", "en": "AI Search" },
+    "description": { "zh": "AI搜索引擎、学术研究、文献总结", "en": "AI search engines, academic research, and literature review" }
+  },
+  {
+    "id": "education",
+    "icon": "🎓",
+    "name": { "zh": "AI教育学习", "en": "AI Education" },
+    "description": { "zh": "语言学习、AI老师、作业辅导", "en": "Language learning, AI tutoring, and homework help" }
+  },
+  {
+    "id": "design",
+    "icon": "👔",
+    "name": { "zh": "AI设计工具", "en": "AI Design" },
+    "description": { "zh": "UI设计、LOGO设计、平面设计", "en": "UI design, logo design, and graphic design" }
+  },
+  {
+    "id": "tools",
+    "icon": "🧰",
+    "name": { "zh": "AI效率工具", "en": "AI Tools" },
+    "description": { "zh": "翻译、OCR、PDF处理、数据整理", "en": "Translation, OCR, PDF processing, and data organization" }
+  },
+  {
+    "id": "research",
+    "icon": "🔬",
+    "name": { "zh": "AI前沿研究", "en": "AI Research" },
+    "description": { "zh": "论文、开源模型、技术动态", "en": "Papers, open-source models, and tech trends" }
+  }
+]

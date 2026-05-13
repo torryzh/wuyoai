@@ -1,0 +1,34 @@
+export default defineNuxtConfig({
+  modules: [
+    '@unocss/nuxt',
+    '@nuxtjs/i18n',
+    '@nuxtjs/sitemap',
+  ],
+  css: ['~/assets/css/main.css'],
+  devtools: { enabled: true },
+  i18n: {
+    locales: ['zh', 'en'],
+    defaultLocale: 'zh',
+    strategy: 'prefix',
+    vueI18n: './i18n.config.ts',
+  },
+  nitro: {
+    prerender: {
+      routes: ['/zh/', '/en/', '/zh/about', '/en/about', '/zh/submit', '/en/submit'],
+      crawlLinks: true,
+    },
+  },
+  app: {
+    head: {
+      title: '无忧AI - 发现最好用的 AI 工具',
+      meta: [
+        { name: 'description', content: '中文 AI 工具导航站，收录 150+ AI 写作、绘图、编程等工具' },
+      ],
+      link: [
+        { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
+        { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
+        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap' },
+      ],
+    },
+  },
+})

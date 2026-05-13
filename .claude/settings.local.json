@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npx nuxt *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000/)",
+      "Bash(pkill -f \"nuxt dev\")",
+      "Bash(curl -s -L http://localhost:3000/zh/categories/chat)",
+      "Bash(curl -s -L -o /dev/null -w \"%{http_code}\" http://localhost:3000/zh/categories/chat)",
+      "Bash(curl -s -L -o /dev/null -w \"%{http_code}\" http://localhost:3000/en/categories/image)",
+      "Bash(npm run *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code} %{size_download}\" http://localhost:3000/Logo.png)",
+      "Bash(curl -s http://localhost:3000/zh/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code} %{size_download}\" http://localhost:3000/_nuxt/Logo.png)"
+    ]
+  }
+}

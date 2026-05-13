@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wuyoai.com/sitemap.xml
