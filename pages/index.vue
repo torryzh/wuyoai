@@ -3,6 +3,15 @@ const { t, locale } = useI18n()
 const { getFeaturedTools, data: tools } = useTools()
 const localePath = useLocalePath()
 
+useHead({
+  title: '无忧AI - 发现最好用的 AI 工具',
+  meta: [
+    { name: 'description', content: '中文 AI 工具导航站，收录 150+ AI 写作、绘图、编程等工具，帮你发现最好用的 AI 工具' },
+    { property: 'og:title', content: '无忧AI - 发现最好用的 AI 工具' },
+    { property: 'og:description', content: '收录 150+ 精选 AI 工具，覆盖对话、写作、绘画、编程等 12 大类别' },
+  ],
+})
+
 const featuredTools = getFeaturedTools()
 
 const { data: categories } = await useAsyncData('categories', () =>

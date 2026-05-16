@@ -8,7 +8,20 @@ const slug = route.params.slug as string
 const tool = getToolBySlug(slug)
 
 useHead({
-  title: () => tool.value?.name || t('noResults'),
+  title: () => tool.value ? `${tool.value.name} - 无忧AI` : t('noResults'),
+  meta: [
+    { name: 'description', content: () => tool.value?.description?.substring(0, 160) || '' },
+    { property: 'og:title', content: () => tool.value ? `${tool.value.name} - 无忧AI` : '' },
+    { property: 'og:description', content: () => tool.value?.description?.substring(0, 160) || '' },
+    { property: 'og:type', content: 'article' },
+    { property: 'og:url', content: () => `https://wuyoai.com/zh/tools/${slug}` },
+    { name: 'twitter:card', content: 'summary' },
+    { name: 'twitter:title', content: () => tool.value ? `${tool.value.name} - 无忧AI` : '' },
+    { name: 'twitter:description', content: () => tool.value?.description?.substring(0, 160) || '' },
+  ],
+  link: [
+    { rel: 'canonical', href: () => `https://wuyoai.com/zh/tools/${slug}` },
+  ],
 })
 
 const relatedTools = computed(() => {
