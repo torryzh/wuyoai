@@ -1,0 +1,46 @@
+{
+  "id": "rytr",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://rytr.me"],
+  "confidence": "high",
+  "description": "Rytr 是一款 AI 写作助手，拥有超过 800 万用户，TrustPilot 评分 4.9/5。支持 40+ 内容用例和模板，包括邮件、SEO、社交媒体、营销文案等。提供 AI 自动补全、续写、扩写、语法检查、段落生成、改写等功能。支持浏览器扩展和 API 访问，已为用户节省超过 2500 万小时和 5 亿美元的内容写作成本。",
+  "features": [
+    { "name": "40+ 模板", "desc": "涵盖邮件、SEO、社交媒体、营销文案等多种场景", "confidence": "high", "source": "official" },
+    { "name": "AI 自动补全", "desc": "自动完成句子和段落，提升写作流畅度", "confidence": "high", "source": "official" },
+    { "name": "续写功能", "desc": "Continue Ryting 自动续写内容", "confidence": "high", "source": "official" },
+    { "name": "内容扩写", "desc": "将一句话或一段扩展为两段", "confidence": "high", "source": "official" },
+    { "name": "语法检查", "desc": "优化内容的清晰度、语法和语气", "confidence": "high", "source": "official" },
+    { "name": "浏览器扩展", "desc": "支持浏览器扩展，随时使用", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Saver", "price": "$9/月", "features": ["100K 字符/月", "所有模板", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Unlimited", "price": "$29/月", "features": ["无限字符", "专属账户经理", "API 访问"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "800 万+ 用户，TrustPilot 4.9/5 评分",
+    "40+ 模板覆盖多种写作场景",
+    "浏览器扩展支持",
+    "价格亲民（$9/月起）",
+    "已节省 2500 万小时写作时间"
+  ],
+  "cons": [
+    "免费版字符限制",
+    "中文支持相对较弱",
+    "创意写作能力有限",
+    "高级功能需付费"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面简洁直观",
+  "useCases": [
+    "邮件写作",
+    "社交媒体内容",
+    "营销文案",
+    "SEO 优化内容",
+    "博客文章",
+    "产品描述"
+  ],
+  "needsReview": []
+}

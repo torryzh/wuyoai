@@ -1,0 +1,45 @@
+{
+  "id": "playground-ai",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://playground.com", "https://baike.baidu.com/item/Playground AI"],
+  "confidence": "high",
+  "description": "Playground AI 是一个免费的 AI 图像创作平台，支持文生图、图生图、图像编辑等功能。提供多种 AI 模型选择，包括 Stable Diffusion 等。界面友好，适合初学者和专业用户。支持社区分享和协作，提供大量预设模板和风格。",
+  "features": [
+    { "name": "免费使用", "desc": "提供慷慨的免费使用额度", "confidence": "high", "source": "official" },
+    { "name": "多模型", "desc": "支持多种 AI 模型选择", "confidence": "high", "source": "official" },
+    { "name": "文生图", "desc": "文字描述生成图像", "confidence": "high", "source": "official" },
+    { "name": "图生图", "desc": "基于现有图像进行修改", "confidence": "high", "source": "official" },
+    { "name": "社区分享", "desc": "支持社区分享和协作", "confidence": "high", "source": "official" },
+    { "name": "预设模板", "desc": "提供大量预设模板和风格", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$15/月", "features": ["无限生成", "高级模型", "无水印", "优先处理"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "免费版功能丰富",
+    "多种 AI 模型选择",
+    "界面友好易用",
+    "社区活跃",
+    "适合初学者"
+  ],
+  "cons": [
+    "免费版有水印",
+    "高级模型需付费",
+    "生成速度受负载影响",
+    "部分功能需要 Pro"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面直观",
+  "useCases": [
+    "创意设计",
+    "社交媒体内容",
+    "个人艺术创作",
+    "学习 AI 绘画",
+    "快速原型设计",
+    "社区协作"
+  ],
+  "needsReview": []
+}

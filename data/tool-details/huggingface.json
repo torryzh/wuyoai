@@ -1,0 +1,27 @@
+{
+  "id": "huggingface",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://huggingface.co"],
+  "confidence": "high",
+  "description": "Hugging Face 是全球最大的AI模型社区和平台，提供模型托管、数据集、Spaces应用托管等服务。被数百万开发者和研究者使用，是AI开源生态的核心平台。",
+  "features": [
+    { "name": "模型托管", "desc": "托管和分享AI模型", "confidence": "high", "source": "official" },
+    { "name": "数据集", "desc": "海量公开数据集", "confidence": "high", "source": "official" },
+    { "name": "Spaces", "desc": "AI应用托管和演示", "confidence": "high", "source": "official" },
+    { "name": "Transformers", "desc": "主流AI模型库", "confidence": "high", "source": "official" },
+    { "name": "社区", "desc": "活跃的AI社区", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "基础功能免费", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础功能免费",
+    "plans": [
+      { "name": "Pro", "price": "$9/月", "features": ["更多存储", "优先支持", "高级功能"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["AI社区最大", "模型资源丰富", "免费使用", "开源生态核心", "社区活跃"],
+  "cons": ["需要技术背景", "英文为主", "部分功能需付费", "依赖网络"],
+  "difficulty": "medium",
+  "difficultyNote": "需要一定的AI/编程基础",
+  "useCases": ["模型下载", "AI研究", "模型部署", "数据集获取", "AI学习"],
+  "needsReview": []
+}

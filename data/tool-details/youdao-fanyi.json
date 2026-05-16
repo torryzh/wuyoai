@@ -1,0 +1,45 @@
+{
+  "id": "youdao-fanyi",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://fanyi.youdao.com", "https://baike.baidu.com/item/有道翻译"],
+  "confidence": "high",
+  "description": "有道翻译是网易推出的翻译工具，支持文本、语音、图像等多种翻译方式。基于神经网络翻译技术，翻译质量高。支持 100+ 语言，被众多用户使用。提供网页版、桌面版、移动版等多种使用方式。",
+  "features": [
+    { "name": "多模态翻译", "desc": "支持文本、语音、图像翻译", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持 100+ 语言", "confidence": "high", "source": "baike" },
+    { "name": "高质量", "desc": "基于神经网络翻译技术", "confidence": "high", "source": "baike" },
+    { "name": "多平台", "desc": "网页、桌面、移动多平台", "confidence": "high", "source": "baike" },
+    { "name": "实时翻译", "desc": "支持实时语音翻译", "confidence": "high", "source": "baike" },
+    { "name": "文档翻译", "desc": "支持整篇文档翻译", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "VIP", "price": "¥98/年", "features": ["无限翻译", "高级功能", "无广告"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "中文翻译质量高",
+    "多模态翻译",
+    "100+ 语言支持",
+    "多平台支持",
+    "免费版功能丰富"
+  ],
+  "cons": [
+    "部分语言翻译可能不准确",
+    "高级功能需付费",
+    "依赖网络",
+    "部分功能有广告"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站或下载应用即可使用",
+  "useCases": [
+    "文本翻译",
+    "语音翻译",
+    "图像翻译",
+    "文档翻译",
+    "学习外语",
+    "商务翻译"
+  ],
+  "needsReview": []
+}

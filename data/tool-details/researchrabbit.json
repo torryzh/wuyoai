@@ -1,0 +1,43 @@
+{
+  "id": "researchrabbit",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.researchrabbit.ai", "https://baike.baidu.com/item/ResearchRabbit"],
+  "confidence": "high",
+  "description": "ResearchRabbit 是一款 AI 文献发现工具，帮助研究人员发现相关论文。支持基于种子论文推荐相关文献，可视化论文关系网络。被众多研究人员和学生使用。",
+  "features": [
+    { "name": "文献推荐", "desc": "基于种子论文推荐相关文献", "confidence": "high", "source": "baike" },
+    { "name": "关系可视化", "desc": "可视化论文关系网络", "confidence": "high", "source": "baike" },
+    { "name": "智能发现", "desc": "AI 驱动的文献发现", "confidence": "high", "source": "baike" },
+    { "name": "免费使用", "desc": "完全免费使用", "confidence": "high", "source": "baike" },
+    { "name": "多数据库", "desc": "支持多个学术数据库", "confidence": "high", "source": "baike" },
+    { "name": "协作功能", "desc": "支持团队协作和分享", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "完全免费使用",
+    "plans": []
+  },
+  "pros": [
+    "完全免费使用",
+    "文献推荐准确",
+    "关系可视化直观",
+    "多数据库支持",
+    "协作功能"
+  ],
+  "cons": [
+    "依赖学术数据库",
+    "部分学科覆盖有限",
+    "界面相对简单",
+    "功能相对单一"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面简洁",
+  "useCases": [
+    "文献发现",
+    "论文推荐",
+    "研究方向探索",
+    "学术研究",
+    "文献综述",
+    "团队协作"
+  ],
+  "needsReview": []
+}

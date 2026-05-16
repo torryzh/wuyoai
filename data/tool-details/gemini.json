@@ -1,0 +1,47 @@
+{
+  "id": "gemini",
+  "fetchedAt": "2026-05-16T05:30:00Z",
+  "sources": ["https://gemini.google.com", "https://baike.baidu.com/item/Gemini"],
+  "confidence": "high",
+  "description": "Gemini 是谷歌 DeepMind 团队开发的多模态大模型，2023 年 12 月 6 日正式发布。基于 Transformer 架构，采用原生多模态设计，支持文本、图像、音频、视频及代码的联合处理。初代 Gemini 1.0 包含 Ultra（复杂任务）、Pro（通用场景）和 Nano（移动端）三个版本。技术亮点包括 TPU v5p 芯片加速训练、稀疏专家混合（MoE）架构提升效率、支持 100 万 token 长上下文窗口。2025 年 11 月发布的 Gemini 3 进一步提升性能，模型生态整合至谷歌搜索、广告系统、Chrome 浏览器、智能家居及 Android Auto 车载系统。苹果已宣布使用 Gemini 驱动下一代基础模型和改款 Siri。",
+  "features": [
+    { "name": "原生多模态", "desc": "支持文本、图像、音频、视频及代码的联合处理", "confidence": "high", "source": "baike" },
+    { "name": "100 万 token 上下文", "desc": "支持超长上下文窗口，适合处理长文档和复杂任务", "confidence": "high", "source": "baike" },
+    { "name": "MoE 架构", "desc": "稀疏专家混合架构提升效率，降低计算成本", "confidence": "high", "source": "baike" },
+    { "name": "TPU v5p 加速", "desc": "谷歌自研芯片加速训练和推理", "confidence": "high", "source": "baike" },
+    { "name": "三版本覆盖", "desc": "Ultra（复杂任务）、Pro（通用）、Nano（移动端）全覆盖", "confidence": "high", "source": "baike" },
+    { "name": "谷歌生态整合", "desc": "整合至搜索、Chrome、智能家居、Android Auto 等", "confidence": "high", "source": "baike" },
+    { "name": "苹果合作", "desc": "驱动苹果下一代基础模型和改款 Siri", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "Gemini Pro 版本免费使用",
+    "plans": [
+      { "name": "Gemini Advanced", "price": "$19.99/月", "features": ["Gemini Ultra 完整访问", "更高用量", "优先响应"], "confidence": "high", "source": "official" },
+      { "name": "API", "price": "按量计费", "features": ["开发者 API 访问", "Vertex AI 集成"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "深度整合谷歌生态（搜索、Chrome、Android）",
+    "原生多模态设计，非后期拼接",
+    "100 万 token 超长上下文",
+    "TPU 自研芯片，推理效率高",
+    "苹果合作，生态影响力大"
+  ],
+  "cons": [
+    "国内访问受限",
+    "曾出现图像生成偏见争议",
+    "与 ChatGPT 相比生态较小",
+    "部分功能仍在迭代中"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册 Google 账号即可使用，界面简洁",
+  "useCases": [
+    "多模态内容理解",
+    "长文档分析",
+    "代码生成和调试",
+    "谷歌生态集成",
+    "移动端 AI 应用",
+    "搜索增强"
+  ],
+  "needsReview": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "google-translate",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://translate.google.com"],
+  "confidence": "high",
+  "description": "Google翻译是Google推出的翻译工具，支持133种语言。基于神经机器翻译技术，翻译质量高。支持文本、语音、图像、网页翻译。被全球数十亿用户使用，是翻译领域的领导者。",
+  "features": [
+    { "name": "133种语言", "desc": "支持133种语言", "confidence": "high", "source": "official" },
+    { "name": "多模态", "desc": "文本、语音、图像、网页翻译", "confidence": "high", "source": "official" },
+    { "name": "实时翻译", "desc": "实时语音翻译", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "完全免费", "confidence": "high", "source": "official" },
+    { "name": "多平台", "desc": "网页、移动、桌面多平台", "confidence": "high", "source": "official" },
+    { "name": "离线翻译", "desc": "支持离线翻译", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "完全免费",
+    "plans": []
+  },
+  "pros": ["完全免费", "133种语言", "多模态翻译", "用户量最大", "离线支持"],
+  "cons": ["部分语言翻译不准", "依赖网络", "专业翻译有限", "隐私 concerns"],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站或下载App即可使用",
+  "useCases": ["文本翻译", "语音翻译", "图像翻译", "网页翻译", "学习外语"],
+  "needsReview": []
+}

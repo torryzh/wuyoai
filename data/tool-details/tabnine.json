@@ -1,0 +1,48 @@
+{
+  "id": "tabnine",
+  "fetchedAt": "2026-05-16T05:00:00Z",
+  "sources": ["https://www.tabnine.com", "https://baike.baidu.com/item/Tabnine"],
+  "confidence": "high",
+  "description": "Tabnine 是一款由 Codota 推出的 AI 代码助手，最初名为 Codota，基于深度学习技术为开发者提供智能化代码补全服务。支持行级代码预测与多语言补全，集成于 VS Code、IntelliJ 等主流 IDE。通过分析代码上下文实现智能补全，内置代码数据库支持语法预测、代码片段生成及实时错误检查。企业版支持本地化部署与企业定制化训练，提供 SOC 2 认证的代码隐私保护机制，允许在私有代码库微调模型以适配团队编码规范。在测试生成领域能自动创建基础边界测试用例，支持 pytest/unittest 格式，适用于遗留项目测试补全。",
+  "features": [
+    { "name": "智能代码补全", "desc": "基于上下文预测代码片段，支持行级代码预测", "confidence": "high", "source": "baike" },
+    { "name": "多语言支持", "desc": "覆盖 20+ 主流编程语言", "confidence": "high", "source": "baike" },
+    { "name": "个性化学习", "desc": "适配开发者编码习惯，提供个性化代码建议", "confidence": "high", "source": "baike" },
+    { "name": "IDE 集成", "desc": "支持 VS Code、IntelliJ 等主流编辑器", "confidence": "high", "source": "baike" },
+    { "name": "企业安全部署", "desc": "支持本地化部署，SOC 2 认证的代码隐私保护", "confidence": "high", "source": "baike" },
+    { "name": "测试生成", "desc": "自动创建基础边界测试用例，支持 pytest/unittest 格式", "confidence": "high", "source": "baike" },
+    { "name": "实时错误检查", "desc": "内置代码数据库支持语法预测和实时错误检查", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "基础版免费，支持基本代码补全",
+    "plans": [
+      { "name": "Pro", "price": "$12/月", "features": ["完整代码补全", "多语言支持", "IDE 集成"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["本地化部署", "企业定制训练", "SOC 2 认证", "私有代码库微调"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "支持 20+ 主流编程语言",
+    "企业级安全认证（SOC 2）",
+    "支持本地化部署，代码不出企业网络",
+    "可在私有代码库微调模型，适配团队编码规范",
+    "IDE 集成广泛（VS Code、IntelliJ 等）",
+    "自动生成测试用例，提高代码质量"
+  ],
+  "cons": [
+    "免费版功能有限",
+    "相比 GitHub Copilot 生态较小",
+    "企业版价格较高",
+    "中文文档和社区支持较少"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "安装 IDE 插件即可使用，无需复杂配置",
+  "useCases": [
+    "日常代码编写",
+    "代码补全和预测",
+    "遗留项目测试补全",
+    "团队编码规范统一",
+    "企业级代码安全保护",
+    "多语言开发"
+  ],
+  "needsReview": []
+}

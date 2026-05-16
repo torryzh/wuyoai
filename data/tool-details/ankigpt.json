@@ -1,0 +1,45 @@
+{
+  "id": "ankigpt",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://ankigpt.com", "https://baike.baidu.com/item/AnkiGPT"],
+  "confidence": "high",
+  "description": "AnkiGPT 是一款 AI 闪卡生成工具，支持从文本内容自动生成记忆卡片。基于大语言模型，可智能提取关键知识点并生成问答对。支持导出到 Anki 等闪卡应用，被众多学生和学习者使用。",
+  "features": [
+    { "name": "AI 闪卡生成", "desc": "从文本自动生成记忆卡片", "confidence": "high", "source": "baike" },
+    { "name": "知识提取", "desc": "智能提取关键知识点", "confidence": "high", "source": "baike" },
+    { "name": "问答对", "desc": "自动生成问答对", "confidence": "high", "source": "baike" },
+    { "name": "Anki 导出", "desc": "支持导出到 Anki 应用", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持多种语言内容", "confidence": "high", "source": "baike" },
+    { "name": "快速生成", "desc": "快速生成大量闪卡", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$4.99/月", "features": ["无限闪卡", "高级功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "AI 闪卡生成独特",
+    "知识提取准确",
+    "Anki 导出支持",
+    "多语言支持",
+    "免费版功能丰富"
+  ],
+  "cons": [
+    "免费版有闪卡限制",
+    "依赖文本质量",
+    "部分知识可能遗漏",
+    "高级功能需付费"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面简洁",
+  "useCases": [
+    "学习记忆",
+    "考试复习",
+    "知识整理",
+    "语言学习",
+    "概念记忆",
+    "快速学习"
+  ],
+  "needsReview": []
+}

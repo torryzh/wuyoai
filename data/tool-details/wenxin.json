@@ -1,0 +1,47 @@
+{
+  "id": "wenxin",
+  "fetchedAt": "2026-05-16T06:00:00Z",
+  "sources": ["https://baike.baidu.com/item/文心一言"],
+  "confidence": "high",
+  "description": "文心一言（ERNIE Bot）是百度推出的知识增强大语言模型，2023年3月16日启动邀测，8月31日全面开放。基于飞桨深度学习平台训练，采用有监督精调、人类反馈强化学习等技术，具备知识增强、检索增强和对话增强三大技术优势。支持文本生成、语言理解、知识问答、逻辑推理、代码能力及多模态交互。截至2024年11月用户规模达4.3亿，API日均调用量突破16.5亿次。2025年发布文心大模型4.5和X1系列，4月起全面免费开放。",
+  "features": [
+    { "name": "知识增强", "desc": "基于5500亿事实知识图谱，从海量数据和知识中融合学习", "confidence": "high", "source": "baike" },
+    { "name": "检索增强", "desc": "结合百度搜索引擎，提供时效性强、准确率高的参考信息", "confidence": "high", "source": "baike" },
+    { "name": "多模态生成", "desc": "支持文本、图片、音频和视频生成，可生成方言语音", "confidence": "high", "source": "baike" },
+    { "name": "深度思考", "desc": "文心X1系列支持自主运用工具的深度思考模型", "confidence": "high", "source": "baike" },
+    { "name": "插件生态", "desc": "支持百度搜索、览卷文档、E言易图等多个官方插件", "confidence": "high", "source": "baike" },
+    { "name": "智能体", "desc": "具备理解、规划、反思和进化能力，可自主完成复杂任务", "confidence": "high", "source": "baike" },
+    { "name": "全面免费", "desc": "2025年4月起所有用户可免费使用文心系列最新模型", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "2025年4月起全面免费，可使用文心4.5和X1系列模型",
+    "plans": [
+      { "name": "专业版", "price": "49.9元/月（连续包月）", "features": ["文心大模型4.0完整访问", "更高用量", "优先响应"], "confidence": "medium", "source": "baike" },
+      { "name": "API", "price": "按token计费", "features": ["开发者API访问", "千帆平台集成"], "confidence": "high", "source": "baike" }
+    ]
+  },
+  "pros": [
+    "用户基数大，4.3亿用户验证",
+    "中文理解能力强，针对中文优化",
+    "全面免费，使用门槛低",
+    "百度生态整合，搜索增强能力强",
+    "国产自主可控，基于飞桨平台"
+  ],
+  "cons": [
+    "英文能力相对ChatGPT较弱",
+    "创意写作能力有待提升",
+    "部分高级功能仍需付费",
+    "海外访问受限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册百度账号即可使用，支持网页端和移动端APP",
+  "useCases": [
+    "中文知识问答和信息查询",
+    "文案写作和内容创作",
+    "代码编写和调试",
+    "多模态内容生成",
+    "企业智能客服",
+    "教育和学习辅导"
+  ],
+  "needsReview": []
+}

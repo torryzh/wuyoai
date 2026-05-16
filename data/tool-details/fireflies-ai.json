@@ -1,0 +1,50 @@
+{
+  "id": "fireflies-ai",
+  "fetchedAt": "2026-05-16T05:00:00Z",
+  "sources": ["https://fireflies.ai", "https://baike.baidu.com/item/fireflies.ai"],
+  "confidence": "high",
+  "description": "Fireflies.ai 是一个人工智能会议效率平台，由 Krish Ramineni 和 Sam Udotong 于 2016 年创立。利用生成式 AI 技术，提供自动录制、转录、总结、搜索和分析语音对话的功能，支持超过 100 种语言。可与 Zoom、Google Meet、Microsoft Teams、Webex 等主流会议平台集成，并支持将会议记录同步至 CRM、项目管理等系统。2025 年估值突破 10 亿美元成为独角兽，服务超过 2000 万用户及 50 多万个组织，覆盖约 75% 的《财富》500 强企业。公司自 2023 年起持续盈利，采用混合 ASR 架构，实时转录使用 Deepgram，离线高精度转录使用 OpenAI Whisper 模型。",
+  "features": [
+    { "name": "自动会议录制", "desc": "AI 机器人自动加入会议，全程录制", "confidence": "high", "source": "baike" },
+    { "name": "智能转录", "desc": "支持 100+ 语言，混合 ASR 架构（Deepgram + Whisper）", "confidence": "high", "source": "baike" },
+    { "name": "会议摘要", "desc": "自动生成会议摘要和行动项提取", "confidence": "high", "source": "baike" },
+    { "name": "AI 问答助手", "desc": "基于会议上下文的 AI 问答，支持语音激活网络搜索", "confidence": "high", "source": "baike" },
+    { "name": "多平台集成", "desc": "支持 Zoom、Google Meet、Microsoft Teams、Webex 等主流会议平台", "confidence": "high", "source": "baike" },
+    { "name": "CRM 同步", "desc": "会议记录自动同步至 Salesforce、HubSpot 等 CRM 系统", "confidence": "high", "source": "baike" },
+    { "name": "自定义主题追踪", "desc": "可自定义追踪特定主题和关键词", "confidence": "high", "source": "baike" },
+    { "name": "企业级安全", "desc": "SOC 2 和 HIPAA 合规认证，默认不使用客户数据训练模型", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本转录和摘要功能",
+    "plans": [
+      { "name": "Pro", "price": "$18/月", "features": ["无限转录", "高级摘要", "CRM 集成", "搜索功能"], "confidence": "high", "source": "official" },
+      { "name": "Business", "price": "$29/月", "features": ["团队协作", "自定义主题追踪", "API 访问", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["私有存储", "SSO", "高级安全", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "覆盖 75% 的《财富》500 强企业，市场认可度高",
+    "支持 100+ 语言，国际化能力强",
+    "SOC 2 和 HIPAA 合规，企业级安全",
+    "默认不使用客户数据训练模型，隐私保护好",
+    "自 2023 年起持续盈利，商业模式健康",
+    "产品驱动增长，通过会议邀请自然传播"
+  ],
+  "cons": [
+    "免费版功能有限",
+    "AI 机器人加入会议可能让参会者不适",
+    "中文转录准确率可能不如英文",
+    "依赖第三方 ASR 服务（Deepgram、Whisper）"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册后授权会议平台即可使用，AI 机器人自动加入会议",
+  "useCases": [
+    "会议记录和转录",
+    "会议摘要和行动项提取",
+    "销售会议分析",
+    "团队协作和知识管理",
+    "多语言会议支持",
+    "CRM 数据同步"
+  ],
+  "needsReview": []
+}

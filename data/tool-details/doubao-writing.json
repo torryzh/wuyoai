@@ -1,0 +1,25 @@
+{
+  "id": "doubao-writing",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.doubao.com"],
+  "confidence": "high",
+  "description": "豆包写作是字节跳动推出的AI写作工具，集成在豆包应用中。支持文章生成、改写、润色等功能。针对中文写作优化，被众多中文写作者使用。免费使用，界面简洁。",
+  "features": [
+    { "name": "文章生成", "desc": "AI生成中文文章", "confidence": "high", "source": "official" },
+    { "name": "文章改写", "desc": "智能改写和优化", "confidence": "high", "source": "official" },
+    { "name": "语法纠错", "desc": "中文语法检查", "confidence": "high", "source": "official" },
+    { "name": "多场景", "desc": "支持多种写作场景", "confidence": "high", "source": "official" },
+    { "name": "中文优化", "desc": "针对中文写作优化", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "免费使用", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费使用",
+    "plans": []
+  },
+  "pros": ["免费使用", "中文优化", "多写作场景", "界面简洁", "字节出品"],
+  "cons": ["功能相对简单", "依赖豆包App", "英文支持有限", "高级功能有限"],
+  "difficulty": "easy",
+  "difficultyNote": "豆包App内使用",
+  "useCases": ["中文写作", "文章改写", "语法纠错", "文案撰写", "学习写作"],
+  "needsReview": []
+}

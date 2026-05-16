@@ -1,0 +1,46 @@
+{
+  "id": "play-ht",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://play.ht", "https://baike.baidu.com/item/Play.ht"],
+  "confidence": "high",
+  "description": "Play.ht 是一款 AI 语音合成平台，支持高质量的文本转语音。提供 900+ 语音，支持 142+ 语言。广泛应用于视频配音、播客、有声读物等场景。提供 API 接口，支持商用授权。",
+  "features": [
+    { "name": "多语音", "desc": "900+ 语音可选", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持 142+ 语言", "confidence": "high", "source": "baike" },
+    { "name": "高质量", "desc": "高质量语音合成", "confidence": "high", "source": "baike" },
+    { "name": "API 接口", "desc": "提供 API 接口", "confidence": "high", "source": "baike" },
+    { "name": "商用授权", "desc": "支持商用授权", "confidence": "high", "source": "baike" },
+    { "name": "语音克隆", "desc": "支持语音克隆", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Creator", "price": "$31.2/月", "features": ["3 小时音频/月", "基础功能", "API 访问"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$66/月", "features": ["10 小时音频/月", "高级功能", "语音克隆"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "900+ 语音选择",
+    "142+ 语言支持",
+    "高质量语音合成",
+    "API 接口",
+    "商用授权"
+  ],
+  "cons": [
+    "价格相对较高",
+    "免费试用有限",
+    "依赖网络",
+    "部分语言支持有限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "视频配音",
+    "播客制作",
+    "有声读物",
+    "多语言内容",
+    "产品演示",
+    "语音合成"
+  ],
+  "needsReview": []
+}

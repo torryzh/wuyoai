@@ -1,0 +1,43 @@
+{
+  "id": "deepmind-blog",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://deepmind.google/discover/blog", "https://baike.baidu.com/item/DeepMind Blog"],
+  "confidence": "high",
+  "description": "DeepMind Blog 是 Google DeepMind 的官方博客，发布 AI 研究成果和技术解读。涵盖 AlphaFold、Gemini、机器人等领域的前沿研究。提供研究论文、技术博客、项目介绍等资源。是 AI 研究领域的重要参考。",
+  "features": [
+    { "name": "研究成果", "desc": "DeepMind 最新研究成果", "confidence": "high", "source": "baike" },
+    { "name": "技术解读", "desc": "技术博客和研究解读", "confidence": "high", "source": "baike" },
+    { "name": "项目介绍", "desc": "AlphaFold、Gemini 等项目", "confidence": "high", "source": "baike" },
+    { "name": "论文发布", "desc": "发布研究论文", "confidence": "high", "source": "baike" },
+    { "name": "免费资源", "desc": "完全免费阅读", "confidence": "high", "source": "baike" },
+    { "name": "学术影响", "desc": "AI 研究领域权威", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "完全免费",
+    "plans": []
+  },
+  "pros": [
+    "DeepMind 官方博客",
+    "前沿研究成果",
+    "技术解读详细",
+    "免费阅读",
+    "学术权威性高"
+  ],
+  "cons": [
+    "内容相对专业",
+    "更新频率不定",
+    "依赖网络",
+    "部分研究可能不完整"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可阅读",
+  "useCases": [
+    "AI 研究",
+    "技术学习",
+    "行业趋势",
+    "学术参考",
+    "技术探索",
+    "项目了解"
+  ],
+  "needsReview": []
+}

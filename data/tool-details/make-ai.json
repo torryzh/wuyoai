@@ -1,0 +1,28 @@
+{
+  "id": "make-ai",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://www.make.com"],
+  "confidence": "high",
+  "description": "Make（原Integromat）是一款自动化工作流工具，支持通过可视化界面创建自动化流程。集成1000+应用，支持数据同步、任务自动化等功能。AI功能可辅助创建和优化工作流。",
+  "features": [
+    { "name": "可视化自动化", "desc": "可视化界面创建自动化", "confidence": "high", "source": "official" },
+    { "name": "1000+集成", "desc": "集成1000+应用", "confidence": "high", "source": "official" },
+    { "name": "数据同步", "desc": "跨应用数据同步", "confidence": "high", "source": "official" },
+    { "name": "AI辅助", "desc": "AI辅助创建和优化工作流", "confidence": "high", "source": "official" },
+    { "name": "任务自动化", "desc": "自动化重复任务", "confidence": "high", "source": "official" },
+    { "name": "免费版", "desc": "提供免费版", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基础功能",
+    "plans": [
+      { "name": "Core", "price": "$9/月", "features": ["10000操作/月", "所有应用"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$16/月", "features": ["高级功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["可视化界面直观", "1000+应用集成", "免费版可用", "AI辅助", "功能强大"],
+  "cons": ["学习曲线较陡", "高级功能需付费", "依赖网络", "部分应用集成有限"],
+  "difficulty": "medium",
+  "difficultyNote": "需要了解自动化概念",
+  "useCases": ["工作流自动化", "数据同步", "任务自动化", "营销自动化", "效率提升"],
+  "needsReview": []
+}

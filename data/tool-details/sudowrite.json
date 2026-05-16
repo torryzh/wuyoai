@@ -1,0 +1,47 @@
+{
+  "id": "sudowrite",
+  "fetchedAt": "2026-05-16T06:00:00Z",
+  "sources": ["https://www.sudowrite.com"],
+  "confidence": "high",
+  "description": "Sudowrite 是一款专为小说创作设计的 AI 写作工具，被誉为'最好的 AI 小说写作伙伴'。由 Muse 1.5 专为小说创作训练的 AI 模型驱动，支持从大纲到完稿的全流程写作。提供场景描述、角色对话、情节发展等功能，帮助作家克服写作障碍。被《Silo》作者 Hugh Howey、3 次艾美奖得主 Bernie Su 等知名作家推荐使用。",
+  "features": [
+    { "name": "Muse 1.5 模型", "desc": "专为小说创作训练的 AI 模型，理解故事结构", "confidence": "high", "source": "official" },
+    { "name": "场景描述", "desc": "生成生动的场景描写，增强读者沉浸感", "confidence": "high", "source": "official" },
+    { "name": "角色对话", "desc": "生成符合角色性格的对话", "confidence": "high", "source": "official" },
+    { "name": "情节发展", "desc": "提供情节建议和故事发展方向", "confidence": "high", "source": "official" },
+    { "name": "全文生成", "desc": "从大纲到完稿的全流程支持", "confidence": "high", "source": "official" },
+    { "name": "非评判性", "desc": "无评判的写作伙伴，鼓励创作探索", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Hobby", "price": "$19/月", "features": ["30,000 字/月", "基础功能", "Muse 1.5"], "confidence": "high", "source": "official" },
+      { "name": "Professional", "price": "$29/月", "features": ["90,000 字/月", "高级功能", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Max", "price": "$99/月", "features": ["300,000 字/月", "所有功能", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "专为小说创作优化，理解故事结构",
+    "知名作家推荐（Hugh Howey、Bernie Su）",
+    "全流程写作支持（大纲到完稿）",
+    "非评判性设计，鼓励创作探索",
+    "Muse 1.5 模型专门训练"
+  ],
+  "cons": [
+    "主要面向英文写作",
+    "免费试用有限",
+    "高级功能价格较高",
+    "中文支持相对较弱"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好，适合各水平作家",
+  "useCases": [
+    "小说创作",
+    "短篇故事写作",
+    "剧本创作",
+    "角色开发",
+    "情节设计",
+    "克服写作障碍"
+  ],
+  "needsReview": []
+}

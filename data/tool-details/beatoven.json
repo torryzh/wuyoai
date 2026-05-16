@@ -1,0 +1,46 @@
+{
+  "id": "beatoven",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.beatoven.ai", "https://baike.baidu.com/item/Beatoven"],
+  "confidence": "high",
+  "description": "Beatoven 是一款 AI 音乐生成平台，专注于为视频和播客创建背景音乐。支持根据内容情绪和节奏自动生成音乐。提供多种音乐风格，支持商用授权。",
+  "features": [
+    { "name": "AI 音乐生成", "desc": "根据内容自动生成背景音乐", "confidence": "high", "source": "baike" },
+    { "name": "情绪匹配", "desc": "根据内容情绪生成音乐", "confidence": "high", "source": "baike" },
+    { "name": "多风格", "desc": "支持多种音乐风格", "confidence": "high", "source": "baike" },
+    { "name": "商用授权", "desc": "支持商用授权", "confidence": "high", "source": "baike" },
+    { "name": "自定义", "desc": "可调整音乐参数", "confidence": "high", "source": "baike" },
+    { "name": "快速生成", "desc": "快速生成音乐", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Creator", "price": "$15/月", "features": ["30 分钟音乐/月", "基础功能", "商用授权"], "confidence": "high", "source": "official" },
+      { "name": "Professional", "price": "$30/月", "features": ["2 小时音乐/月", "高级功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "情绪匹配功能独特",
+    "商用授权",
+    "多风格支持",
+    "快速生成",
+    "适合视频和播客"
+  ],
+  "cons": [
+    "免费试用有限",
+    "价格相对较高",
+    "依赖网络",
+    "音乐风格相对固定"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "视频背景音乐",
+    "播客配乐",
+    "广告配乐",
+    "游戏音乐",
+    "个人创作",
+    "商业用途"
+  ],
+  "needsReview": []
+}

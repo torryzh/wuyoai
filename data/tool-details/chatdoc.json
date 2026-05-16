@@ -1,0 +1,45 @@
+{
+  "id": "chatdoc",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://chatdoc.com", "https://baike.baidu.com/item/ChatDOC"],
+  "confidence": "high",
+  "description": "ChatDOC 是一款 AI 文档分析工具，支持与多种文档格式对话。可处理 PDF、Word、Excel 等文档，提取关键信息并回答问题。支持多语言文档，被众多研究人员和专业人士使用。",
+  "features": [
+    { "name": "多格式支持", "desc": "支持 PDF、Word、Excel 等格式", "confidence": "high", "source": "baike" },
+    { "name": "文档对话", "desc": "与文档进行自然语言对话", "confidence": "high", "source": "baike" },
+    { "name": "信息提取", "desc": "自动提取文档关键信息", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持多语言文档", "confidence": "high", "source": "baike" },
+    { "name": "总结功能", "desc": "自动生成文档摘要", "confidence": "high", "source": "baike" },
+    { "name": "快速处理", "desc": "快速处理和分析文档", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$8.99/月", "features": ["无限文档", "高级功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "多格式文档支持",
+    "对话式交互",
+    "多语言支持",
+    "快速处理",
+    "免费版功能丰富"
+  ],
+  "cons": [
+    "免费版有文档限制",
+    "复杂文档可能处理慢",
+    "依赖网络",
+    "部分格式支持有限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "上传文档即可使用",
+  "useCases": [
+    "文档分析",
+    "研究论文阅读",
+    "合同审查",
+    "报告总结",
+    "信息提取",
+    "学习资料整理"
+  ],
+  "needsReview": []
+}

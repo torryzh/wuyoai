@@ -1,0 +1,27 @@
+{
+  "id": "zuoyebang",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://www.zuoyebang.com"],
+  "confidence": "high",
+  "description": "作业帮AI是作业帮推出的AI学习辅导工具，支持作业批改、题目解析、学习辅导等功能。基于AI技术，可智能分析学生学习情况。被众多学生和家长使用，是国内教育AI的代表产品。",
+  "features": [
+    { "name": "作业批改", "desc": "AI自动批改作业", "confidence": "high", "source": "official" },
+    { "name": "题目解析", "desc": "智能解析题目答案", "confidence": "high", "source": "official" },
+    { "name": "学习辅导", "desc": "个性化学习辅导", "confidence": "high", "source": "official" },
+    { "name": "学情分析", "desc": "分析学生学习情况", "confidence": "high", "source": "official" },
+    { "name": "多学科", "desc": "支持多学科辅导", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "基础功能免费", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础功能免费",
+    "plans": [
+      { "name": "VIP", "price": "¥198/年", "features": ["无限使用", "高级功能", "专属辅导"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["教育场景优化", "作业批改准确", "多学科支持", "免费版够用", "国内用户多"],
+  "cons": ["高级功能需付费", "依赖网络", "部分功能不稳定", "依赖作业帮平台"],
+  "difficulty": "easy",
+  "difficultyNote": "作业帮用户可直接使用",
+  "useCases": ["作业批改", "题目解析", "学习辅导", "学情分析", "家庭教育"],
+  "needsReview": []
+}

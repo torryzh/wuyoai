@@ -1,0 +1,27 @@
+{
+  "id": "writesonic",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://writesonic.com"],
+  "confidence": "high",
+  "description": "Writesonic 是一款多功能AI写作工具，支持博客、营销文案、学术论文等多种场景。提供65+模板，支持24种语言，集成实时SEO优化。被众多内容创作者和营销团队使用。",
+  "features": [
+    { "name": "65+模板", "desc": "覆盖多种写作场景", "confidence": "high", "source": "official" },
+    { "name": "24种语言", "desc": "支持多语言内容生成", "confidence": "high", "source": "official" },
+    { "name": "SEO优化", "desc": "实时SEO建议", "confidence": "high", "source": "official" },
+    { "name": "长文生成", "desc": "支持5000字长文", "confidence": "high", "source": "official" },
+    { "name": "品牌风格", "desc": "定制品牌写作风格", "confidence": "high", "source": "official" },
+    { "name": "实时数据", "desc": "联网搜索确保时效性", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基础功能",
+    "plans": [
+      { "name": "Pro", "price": "$12/月", "features": ["无限字数", "所有模板", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["模板丰富（65+）", "多语言支持（24种）", "SEO优化集成", "价格亲民", "长文生成"],
+  "cons": ["免费版功能有限", "中文支持一般", "依赖网络", "部分功能需付费"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["博客写作", "营销文案", "SEO内容", "社交媒体", "邮件营销"],
+  "needsReview": []
+}

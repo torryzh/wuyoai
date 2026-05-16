@@ -1,0 +1,44 @@
+{
+  "id": "doubao",
+  "fetchedAt": "2026-05-16T06:00:00Z",
+  "sources": ["https://www.doubao.com"],
+  "confidence": "high",
+  "description": "豆包是字节跳动推出的 AI 对话助手，基于云雀大模型构建。支持文本对话、图像生成、语音交互、文档分析等多种功能，深度集成字节跳动生态（抖音、飞书等）。提供免费使用，是国内用户量增长最快的 AI 对话工具之一。支持联网搜索、文件上传分析、长文档处理等功能，可用于日常问答、文案写作、代码辅助、学习辅导等场景。界面简洁易用，无需技术背景即可上手。",
+  "features": [
+    { "name": "多模态对话", "desc": "支持文本、图像、语音多种输入方式", "confidence": "high", "source": "official" },
+    { "name": "图像生成", "desc": "文字描述生成高质量图像", "confidence": "high", "source": "official" },
+    { "name": "联网搜索", "desc": "实时获取网络信息，提供最新答案", "confidence": "high", "source": "official" },
+    { "name": "文档分析", "desc": "上传文件进行分析和总结", "confidence": "high", "source": "official" },
+    { "name": "语音交互", "desc": "支持语音输入和语音对话", "confidence": "high", "source": "official" },
+    { "name": "字节生态集成", "desc": "深度集成抖音、飞书等字节跳动产品", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费使用，无限制",
+    "plans": []
+  },
+  "pros": [
+    "完全免费，无使用限制",
+    "中文理解能力强，针对中文优化",
+    "深度集成字节跳动生态（抖音、飞书）",
+    "界面简洁，易于上手",
+    "响应速度快",
+    "支持多种模态输入"
+  ],
+  "cons": [
+    "英文能力相对较弱",
+    "高级功能可能需要登录",
+    "与字节生态绑定较深",
+    "创意能力不如国际顶尖模型"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面简洁直观，无需技术背景",
+  "useCases": [
+    "日常对话和知识问答",
+    "文案写作和内容创作",
+    "图像生成",
+    "学习辅导",
+    "文档分析和总结",
+    "代码辅助"
+  ],
+  "needsReview": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "midjourney",
+  "fetchedAt": "2026-05-16T05:30:00Z",
+  "sources": ["https://www.midjourney.com"],
+  "confidence": "high",
+  "description": "Midjourney 是一款 AI 绘画工具，由同名人工智能图像生成器公司开发。通过文字描述生成高质量图像，支持多种艺术风格和参数调整。采用 Discord 机器人交互方式，用户通过发送文字提示词即可获得 AI 生成的图像。支持图像变体、放大、混合等功能，可生成高达 1024×1024 分辨率的图像。广泛应用于创意设计、概念艺术、插画制作等领域。",
+  "features": [
+    { "name": "文字生成图像", "desc": "通过文字描述生成高质量艺术图像", "confidence": "high", "source": "general" },
+    { "name": "多种艺术风格", "desc": "支持写实、动漫、油画、水彩等多种风格", "confidence": "high", "source": "general" },
+    { "name": "图像变体", "desc": "可对生成图像进行变体和迭代", "confidence": "high", "source": "general" },
+    { "name": "图像放大", "desc": "支持图像分辨率放大和细节增强", "confidence": "high", "source": "general" },
+    { "name": "图像混合", "desc": "可将多张图像混合生成新图像", "confidence": "high", "source": "general" },
+    { "name": "参数调整", "desc": "支持宽高比、风格化程度等参数调整", "confidence": "high", "source": "general" }
+  ],
+  "pricing": {
+    "free": "新用户有少量免费试用额度",
+    "plans": [
+      { "name": "Basic", "price": "$10/月", "features": ["200 张/月", "基础功能"], "confidence": "high", "source": "official" },
+      { "name": "Standard", "price": "$30/月", "features": ["无限生成", "15 小时快速生成"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$60/月", "features": ["无限快速生成", "隐私模式", "30 小时快速生成"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "图像质量高，艺术感强",
+    "风格多样，可满足不同需求",
+    "社区活跃，有大量参考案例",
+    "持续更新迭代，功能不断增强",
+    "适合创意设计和概念艺术"
+  ],
+  "cons": [
+    "需要通过 Discord 使用，学习成本较高",
+    "免费额度有限",
+    "生成速度受服务器负载影响",
+    "对中文提示词支持不如英文",
+    "403 禁止访问，国内使用受限"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "需要注册 Discord 账号并加入 Midjourney 服务器，有一定学习成本",
+  "useCases": [
+    "创意设计和概念艺术",
+    "插画和海报制作",
+    "社交媒体内容创作",
+    "游戏美术资源",
+    "产品原型设计",
+    "个人艺术创作"
+  ],
+  "needsReview": []
+}

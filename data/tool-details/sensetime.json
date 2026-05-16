@@ -1,0 +1,28 @@
+{
+  "id": "sensetime",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://platform.sensetime.com"],
+  "confidence": "high",
+  "description": "商汤日日新是商汤科技推出的原生多模态通用大模型系列，最新V6版本采用6000亿参数混合专家架构。支持文本、图像、视频、语音的融合处理与端到端交互，具备跨模态推理和生成能力。应用于金融、智能汽车、教育等领域，获得国内可信AI多模态大模型评级。",
+  "features": [
+    { "name": "原生多模态", "desc": "文本、图像、视频、语音融合处理", "confidence": "high", "source": "baike" },
+    { "name": "6000亿参数", "desc": "混合专家架构，参数规模大", "confidence": "high", "source": "baike" },
+    { "name": "跨模态推理", "desc": "支持跨模态推理和生成", "confidence": "high", "source": "baike" },
+    { "name": "端到端交互", "desc": "视频语音端到端交互", "confidence": "high", "source": "baike" },
+    { "name": "行业应用", "desc": "覆盖金融、汽车、教育等行业", "confidence": "high", "source": "baike" },
+    { "name": "安全可信", "desc": "获得国内可信AI评级", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "提供免费试用",
+    "plans": [
+      { "name": "API", "price": "按量计费", "features": ["开发者API访问", "按token计费"], "confidence": "high", "source": "official" },
+      { "name": "企业版", "price": "按需报价", "features": ["定制化部署", "企业级服务"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["原生多模态能力强", "6000亿参数规模", "行业应用广泛", "安全可信", "国产自主"],
+  "cons": ["国际影响力有限", "部分功能仍在迭代", "API文档待完善", "依赖网络"],
+  "difficulty": "medium",
+  "difficultyNote": "需要一定技术背景",
+  "useCases": ["多模态AI应用", "金融智能", "智能汽车", "教育AI", "企业智能化"],
+  "needsReview": []
+}

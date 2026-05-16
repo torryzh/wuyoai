@@ -1,0 +1,27 @@
+{
+  "id": "tome",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://tome.app"],
+  "confidence": "high",
+  "description": "Tome 是一款AI演示文稿生成工具，支持从文字描述生成专业的演示文稿和文档。基于AI技术，可快速创建视觉化内容。被众多营销团队和内容创作者使用。",
+  "features": [
+    { "name": "AI生成", "desc": "文字描述生成演示文稿", "confidence": "high", "source": "official" },
+    { "name": "视觉化", "desc": "创建视觉化内容", "confidence": "high", "source": "official" },
+    { "name": "多格式", "desc": "支持演示文稿和文档", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "快速生成内容", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "提供免费使用", "confidence": "high", "source": "official" },
+    { "name": "简洁界面", "desc": "界面简洁易用", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基础功能",
+    "plans": [
+      { "name": "Pro", "price": "$16/月", "features": ["无限生成", "高级功能", "无水印"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["视觉化内容", "快速生成", "免费版可用", "简洁易用", "多格式支持"],
+  "cons": ["免费版功能有限", "模板有限", "依赖网络", "设计自由度低"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["演示文稿", "内容创作", "营销材料", "工作报告", "视觉化展示"],
+  "needsReview": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "coursera-coach",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.coursera.org", "https://baike.baidu.com/item/Coursera Coach"],
+  "confidence": "high",
+  "description": "Coursera Coach 是 Coursera 推出的 AI 学习助手，集成在 Coursera 在线课程平台中。支持课程问答、学习建议、作业辅导等功能。基于 AI 技术，提供个性化的学习辅助。",
+  "features": [
+    { "name": "课程问答", "desc": "AI 回答课程相关问题", "confidence": "high", "source": "baike" },
+    { "name": "学习建议", "desc": "提供个性化学习建议", "confidence": "high", "source": "baike" },
+    { "name": "作业辅导", "desc": "辅助完成课程作业", "confidence": "high", "source": "baike" },
+    { "name": "Coursera 集成", "desc": "深度集成 Coursera 平台", "confidence": "high", "source": "baike" },
+    { "name": "个性化", "desc": "根据学习进度个性化", "confidence": "high", "source": "baike" },
+    { "name": "实时帮助", "desc": "提供实时学习帮助", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "Coursera 用户可免费使用",
+    "plans": [
+      { "name": "Coursera Plus", "price": "$59/月", "features": ["无限课程", "AI 助手", "证书"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "深度集成 Coursera",
+    "AI 学习辅助",
+    "个性化建议",
+    "实时帮助",
+    "免费使用"
+  ],
+  "cons": [
+    "依赖 Coursera 平台",
+    "部分课程可能不支持",
+    "AI 回答可能不准确",
+    "依赖网络"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "Coursera 用户可直接使用",
+  "useCases": [
+    "在线学习",
+    "课程问答",
+    "作业辅导",
+    "学习建议",
+    "知识理解",
+    "考试准备"
+  ],
+  "needsReview": []
+}

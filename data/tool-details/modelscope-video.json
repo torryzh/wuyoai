@@ -1,0 +1,25 @@
+{
+  "id": "modelscope-video",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://modelscope.cn"],
+  "confidence": "high",
+  "description": "ModelScope 文本生成视频是阿里达摩院推出的AI视频生成工具，基于ModelScope平台。支持文生视频功能，可生成多种风格的视频。开源免费，被众多开发者和研究者使用。",
+  "features": [
+    { "name": "文生视频", "desc": "文字描述生成视频", "confidence": "high", "source": "official" },
+    { "name": "开源免费", "desc": "完全开源免费", "confidence": "high", "source": "official" },
+    { "name": "多风格", "desc": "支持多种视频风格", "confidence": "high", "source": "official" },
+    { "name": "ModelScope平台", "desc": "基于ModelScope平台", "confidence": "high", "source": "official" },
+    { "name": "国产自主", "desc": "阿里达摩院出品", "confidence": "high", "source": "official" },
+    { "name": "社区支持", "desc": "社区活跃", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "完全免费开源",
+    "plans": []
+  },
+  "pros": ["完全免费开源", "国产自主", "社区活跃", "多风格支持", "基于ModelScope平台"],
+  "cons": ["需要技术背景", "依赖本地环境", "部分功能不稳定", "文档不够完善"],
+  "difficulty": "hard",
+  "difficultyNote": "需要一定的技术背景",
+  "useCases": ["视频生成", "AI研究", "开源项目", "学习开发", "创意探索"],
+  "needsReview": []
+}

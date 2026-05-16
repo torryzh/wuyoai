@@ -1,0 +1,28 @@
+{
+  "id": "haiper",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://haiper.ai"],
+  "confidence": "high",
+  "description": "Haiper 是一款AI视频生成工具，支持文生视频、图生视频等功能。以简洁易用和快速生成著称，适合快速创作短视频。提供免费使用额度，被众多视频创作者使用。",
+  "features": [
+    { "name": "文生视频", "desc": "文字描述生成视频", "confidence": "high", "source": "official" },
+    { "name": "图生视频", "desc": "图像转动态视频", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "生成速度快", "confidence": "high", "source": "official" },
+    { "name": "简洁易用", "desc": "界面简洁，操作简单", "confidence": "high", "source": "official" },
+    { "name": "免费额度", "desc": "提供免费使用额度", "confidence": "high", "source": "official" },
+    { "name": "多风格", "desc": "支持多种视频风格", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版有限额度",
+    "plans": [
+      { "name": "Explorer", "price": "$8/月", "features": ["更多额度", "无水印"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$24/月", "features": ["无限额度", "优先生成"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["简洁易用", "生成速度快", "免费额度", "价格亲民", "多风格支持"],
+  "cons": ["免费额度有限", "视频时长较短", "依赖网络", "复杂场景效果一般"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["短视频创作", "社交媒体内容", "创意探索", "视频编辑", "快速原型"],
+  "needsReview": []
+}

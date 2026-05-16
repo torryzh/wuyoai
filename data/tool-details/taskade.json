@@ -1,0 +1,46 @@
+{
+  "id": "taskade",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.taskade.com", "https://baike.baidu.com/item/Taskade"],
+  "confidence": "high",
+  "description": "Taskade 是一款 AI 驱动的项目管理和协作工具，支持任务管理、笔记、聊天等功能。集成 AI 助手，可自动生成任务、总结内容。支持团队协作，被众多团队使用。",
+  "features": [
+    { "name": "AI 助手", "desc": "集成 AI 助手自动生成任务", "confidence": "high", "source": "baike" },
+    { "name": "任务管理", "desc": "支持任务创建和管理", "confidence": "high", "source": "baike" },
+    { "name": "笔记功能", "desc": "支持笔记和文档", "confidence": "high", "source": "baike" },
+    { "name": "团队协作", "desc": "支持团队实时协作", "confidence": "high", "source": "baike" },
+    { "name": "聊天功能", "desc": "内置聊天功能", "confidence": "high", "source": "baike" },
+    { "name": "多视图", "desc": "支持列表、看板、日历等视图", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$8/月", "features": ["无限任务", "AI 助手", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Business", "price": "$16/月", "features": ["团队管理", "高级功能", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "AI 助手集成",
+    "多功能合一",
+    "团队协作",
+    "价格亲民",
+    "多视图支持"
+  ],
+  "cons": [
+    "免费版功能有限",
+    "学习曲线较陡",
+    "依赖网络",
+    "部分高级功能需付费"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "需要一定的项目管理知识",
+  "useCases": [
+    "项目管理",
+    "任务跟踪",
+    "团队协作",
+    "笔记管理",
+    "内容创作",
+    "效率提升"
+  ],
+  "needsReview": []
+}

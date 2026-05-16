@@ -1,0 +1,43 @@
+{
+  "id": "google-sge",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://labs.google", "https://baike.baidu.com/item/Google SGE"],
+  "confidence": "high",
+  "description": "Google SGE（Search Generative Experience）是 Google 推出的 AI 搜索体验，将生成式 AI 集成到搜索结果中。支持自然语言提问，AI 生成综合回答。提供相关链接和来源，被众多用户使用。",
+  "features": [
+    { "name": "AI 搜索", "desc": "生成式 AI 集成搜索", "confidence": "high", "source": "baike" },
+    { "name": "自然语言", "desc": "支持自然语言提问", "confidence": "high", "source": "baike" },
+    { "name": "综合回答", "desc": "AI 生成综合回答", "confidence": "high", "source": "baike" },
+    { "name": "来源引用", "desc": "提供相关链接和来源", "confidence": "high", "source": "baike" },
+    { "name": "Google 集成", "desc": "深度集成 Google 搜索", "confidence": "high", "source": "baike" },
+    { "name": "实时信息", "desc": "获取实时网络信息", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费使用",
+    "plans": []
+  },
+  "pros": [
+    "Google 搜索集成",
+    "AI 生成回答",
+    "来源引用完整",
+    "免费使用",
+    "实时信息"
+  ],
+  "cons": [
+    "可能受地区限制",
+    "AI 回答可能不准确",
+    "依赖网络",
+    "部分功能可能不稳定"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问 Google 搜索即可使用",
+  "useCases": [
+    "信息搜索",
+    "知识问答",
+    "实时资讯",
+    "研究查询",
+    "学习研究",
+    "日常查询"
+  ],
+  "needsReview": []
+}

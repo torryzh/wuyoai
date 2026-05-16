@@ -1,0 +1,46 @@
+{
+  "id": "looka",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://looka.com", "https://baike.baidu.com/item/Looka"],
+  "confidence": "high",
+  "description": "Looka 是一款 AI Logo 设计工具，支持从品牌名称生成专业 Logo 和品牌套件。基于 AI 技术，可快速生成多种 Logo 方案。提供品牌色彩、字体、名片等完整品牌设计。被众多创业者和中小企业使用。",
+  "features": [
+    { "name": "AI Logo 生成", "desc": "品牌名称生成专业 Logo", "confidence": "high", "source": "baike" },
+    { "name": "品牌套件", "desc": "提供完整品牌设计套件", "confidence": "high", "source": "baike" },
+    { "name": "多方案", "desc": "生成多种 Logo 方案", "confidence": "high", "source": "baike" },
+    { "name": "品牌色彩", "desc": "提供品牌色彩方案", "confidence": "high", "source": "baike" },
+    { "name": "名片设计", "desc": "配套名片设计", "confidence": "high", "source": "baike" },
+    { "name": "多格式", "desc": "支持多种文件格式", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费预览",
+    "plans": [
+      { "name": "Basic", "price": "$20", "features": ["基础 Logo", "PNG 格式"], "confidence": "high", "source": "official" },
+      { "name": "Premium", "price": "$65", "features": ["完整品牌套件", "多格式", "无限制修改"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "品牌套件完整",
+    "AI 生成快速",
+    "多方案选择",
+    "适合创业者",
+    "价格相对亲民"
+  ],
+  "cons": [
+    "免费仅预览",
+    "复杂 Logo 需人工调整",
+    "依赖网络",
+    "部分设计可能需付费"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "输入品牌名称即可使用",
+  "useCases": [
+    "品牌 Logo 设计",
+    "创业公司品牌",
+    "个人品牌",
+    "品牌套件",
+    "快速设计",
+    "设计探索"
+  ],
+  "needsReview": []
+}

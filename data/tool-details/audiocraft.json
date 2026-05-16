@@ -1,0 +1,25 @@
+{
+  "id": "audiocraft",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://github.com/facebookresearch/audiocraft"],
+  "confidence": "high",
+  "description": "AudioCraft 是Meta推出的开源AI音频生成框架，支持音乐生成、音效生成、音频压缩等功能。基于深度学习技术，可生成高质量的音频内容。开源免费，被众多研究者和开发者使用。",
+  "features": [
+    { "name": "音乐生成", "desc": "AI生成音乐", "confidence": "high", "source": "official" },
+    { "name": "音效生成", "desc": "AI生成音效", "confidence": "high", "source": "official" },
+    { "name": "音频压缩", "desc": "AI音频压缩", "confidence": "high", "source": "official" },
+    { "name": "开源免费", "desc": "完全开源免费", "confidence": "high", "source": "official" },
+    { "name": "Meta出品", "desc": "Meta研究团队开发", "confidence": "high", "source": "official" },
+    { "name": "高质量", "desc": "生成高质量音频", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "完全免费开源",
+    "plans": []
+  },
+  "pros": ["完全免费开源", "Meta出品", "功能全面", "社区活跃", "研究价值高"],
+  "cons": ["需要技术背景", "依赖本地环境", "部署复杂", "部分功能需GPU"],
+  "difficulty": "hard",
+  "difficultyNote": "需要Python和深度学习基础",
+  "useCases": ["音乐生成", "音效制作", "AI研究", "音频处理", "开源开发"],
+  "needsReview": []
+}

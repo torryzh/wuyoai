@@ -1,0 +1,46 @@
+{
+  "id": "otter-ai",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://otter.ai", "https://baike.baidu.com/item/Otter.ai"],
+  "confidence": "high",
+  "description": "Otter.ai 是一款 AI 会议记录工具，支持实时转录和总结会议内容。可自动识别发言人，生成会议摘要和行动项。支持多种会议平台集成，被众多企业和团队使用。",
+  "features": [
+    { "name": "实时转录", "desc": "实时转录会议内容", "confidence": "high", "source": "baike" },
+    { "name": "发言人识别", "desc": "自动识别不同发言人", "confidence": "high", "source": "baike" },
+    { "name": "会议摘要", "desc": "自动生成会议摘要", "confidence": "high", "source": "baike" },
+    { "name": "行动项提取", "desc": "自动提取会议行动项", "confidence": "high", "source": "baike" },
+    { "name": "多平台集成", "desc": "支持 Zoom、Teams 等平台", "confidence": "high", "source": "baike" },
+    { "name": "搜索功能", "desc": "支持会议内容搜索", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$16.99/月", "features": ["无限转录", "高级功能", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Business", "price": "$30/月", "features": ["团队管理", "企业安全", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "实时转录准确",
+    "发言人识别",
+    "多平台集成",
+    "自动摘要",
+    "免费版功能丰富"
+  ],
+  "cons": [
+    "免费版有转录限制",
+    "依赖网络",
+    "部分语言支持有限",
+    "高级功能需付费"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "会议记录",
+    "会议总结",
+    "行动项提取",
+    "团队协作",
+    "访谈记录",
+    "学习笔记"
+  ],
+  "needsReview": []
+}

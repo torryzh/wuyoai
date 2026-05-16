@@ -1,0 +1,45 @@
+{
+  "id": "metaphor",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://metaphor.systems", "https://baike.baidu.com/item/Metaphor"],
+  "confidence": "high",
+  "description": "Metaphor 是一款 AI 搜索引擎，专注于语义搜索。支持自然语言提问，通过理解查询意图提供精准搜索结果。基于大语言模型，可搜索网页、文章、论文等多种内容。",
+  "features": [
+    { "name": "语义搜索", "desc": "理解查询意图的语义搜索", "confidence": "high", "source": "baike" },
+    { "name": "自然语言", "desc": "支持自然语言提问", "confidence": "high", "source": "baike" },
+    { "name": "多内容", "desc": "搜索网页、文章、论文等", "confidence": "high", "source": "baike" },
+    { "name": "AI 驱动", "desc": "基于大语言模型", "confidence": "high", "source": "baike" },
+    { "name": "精准结果", "desc": "提供精准搜索结果", "confidence": "high", "source": "baike" },
+    { "name": "API 接口", "desc": "提供 API 接口", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$10/月", "features": ["无限搜索", "高级功能", "API 访问"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "语义搜索准确",
+    "自然语言交互",
+    "多内容搜索",
+    "API 接口",
+    "免费版功能丰富"
+  ],
+  "cons": [
+    "免费版有搜索限制",
+    "依赖网络",
+    "部分搜索可能不全",
+    "高级功能需付费"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可使用",
+  "useCases": [
+    "语义搜索",
+    "信息检索",
+    "研究查询",
+    "内容发现",
+    "API 集成",
+    "知识探索"
+  ],
+  "needsReview": []
+}

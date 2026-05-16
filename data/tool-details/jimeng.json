@@ -1,0 +1,43 @@
+{
+  "id": "jimeng",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://jimeng.jianying.com"],
+  "confidence": "high",
+  "description": "即梦 AI 是字节跳动推出的 AI 创作平台，支持文生图、视频生成、智能画布等功能。基于字节跳动自研的 AI 技术，生成速度快，质量高。深度集成抖音生态，支持一键发布到抖音。提供「未来影像计划」等创意活动，激发用户创作灵感。",
+  "features": [
+    { "name": "文生图", "desc": "文字描述生成高质量图像", "confidence": "high", "source": "official" },
+    { "name": "视频生成", "desc": "文字或图像生成视频", "confidence": "high", "source": "official" },
+    { "name": "智能画布", "desc": "AI 辅助的画布创作工具", "confidence": "high", "source": "official" },
+    { "name": "抖音集成", "desc": "支持一键发布到抖音", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "生成速度快，体验流畅", "confidence": "high", "source": "official" },
+    { "name": "创意活动", "desc": "「未来影像计划」等创意活动", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "提供免费使用额度",
+    "plans": []
+  },
+  "pros": [
+    "完全免费使用",
+    "生成速度快",
+    "深度集成抖音生态",
+    "支持视频生成",
+    "界面简洁易用"
+  ],
+  "cons": [
+    "功能相对简单",
+    "高级功能有限",
+    "依赖字节账号",
+    "国际化程度低"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "抖音账号登录即可使用",
+  "useCases": [
+    "抖音内容创作",
+    "社交媒体素材",
+    "个人艺术创作",
+    "视频制作",
+    "创意探索",
+    "营销素材"
+  ],
+  "needsReview": []
+}

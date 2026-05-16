@@ -1,0 +1,46 @@
+{
+  "id": "stable-diffusion",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://stability.ai"],
+  "confidence": "high",
+  "description": "Stable Diffusion 是 Stability AI 推出的开源文生图模型，是目前最流行的开源图像生成模型之一。支持文生图、图生图、图像编辑等多种功能。提供自托管许可、平台 API 和云平台等多种部署方式。广泛应用于品牌风格、产品摄影、创意制作等企业场景。支持图像、视频、音频、3D 等多种模态的内容生成。",
+  "features": [
+    { "name": "开源模型", "desc": "完全开源，支持自托管部署", "confidence": "high", "source": "official" },
+    { "name": "多模态生成", "desc": "支持图像、视频、音频、3D 内容生成", "confidence": "high", "source": "official" },
+    { "name": "企业级应用", "desc": "支持品牌风格、产品摄影等企业场景", "confidence": "high", "source": "official" },
+    { "name": "多种部署", "desc": "自托管许可、平台 API、云平台", "confidence": "high", "source": "official" },
+    { "name": "文生图", "desc": "文字描述生成高质量图像", "confidence": "high", "source": "official" },
+    { "name": "图生图", "desc": "基于现有图像进行修改和优化", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "开源版本免费使用",
+    "plans": [
+      { "name": "API", "price": "按量计费", "features": ["平台 API 访问", "多种模型选择"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["自托管许可", "企业支持", "定制服务"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "完全开源，社区活跃",
+    "支持自托管部署，数据可控",
+    "多模态生成能力（图像/视频/音频/3D）",
+    "企业级应用场景丰富",
+    "持续更新迭代"
+  ],
+  "cons": [
+    "自托管需要 GPU 硬件",
+    "模型参数调整有一定门槛",
+    "部分功能需要 API 付费",
+    "生成质量参差不齐"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "使用在线版本简单，自托管需要技术背景",
+  "useCases": [
+    "创意设计和概念艺术",
+    "品牌风格素材制作",
+    "产品摄影优化",
+    "游戏和动画素材",
+    "个人艺术创作",
+    "企业内容生产"
+  ],
+  "needsReview": []
+}

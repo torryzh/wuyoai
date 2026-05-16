@@ -1,0 +1,49 @@
+{
+  "id": "elevenlabs",
+  "fetchedAt": "2026-05-16T05:30:00Z",
+  "sources": ["https://elevenlabs.io", "https://baike.baidu.com/item/Eleven Labs"],
+  "confidence": "high",
+  "description": "ElevenLabs 是由波兰工程师皮奥特·达布科夫斯基（前谷歌机器学习工程师）和马蒂·斯塔尼舍夫斯基（前 Palantir 部署策略师）于 2022 年创立的英国人工智能公司，总部位于伦敦，专注于开发文本转语音（TTS）、语音克隆及 AI 音频生成技术。核心产品包括支持 70 种语言的语音合成模型 Eleven v3，可通过情感标签控制语调，并提供语音克隆、AI 配音、多角色对话生成等功能。2025 年 1 月完成 1.8 亿美元 C 轮融资，投后估值 33 亿美元成为独角兽。截至 2025 年，年度经常性收入（ARR）突破 1 亿美元。2025 年 10 月获英伟达战略投资。",
+  "features": [
+    { "name": "文本转语音", "desc": "支持 70 种语言的高质量语音合成，Eleven v3 模型", "confidence": "high", "source": "baike" },
+    { "name": "语音克隆", "desc": "可克隆特定人物的语音特征", "confidence": "high", "source": "baike" },
+    { "name": "情感控制", "desc": "通过情感标签控制语调和情感表达", "confidence": "high", "source": "baike" },
+    { "name": "AI 配音", "desc": "专业级 AI 配音工作室，支持多角色对话", "confidence": "high", "source": "baike" },
+    { "name": "音乐生成", "desc": "2025 年 8 月上线 Eleven Music 音乐生成服务", "confidence": "high", "source": "baike" },
+    { "name": "声音市场", "desc": "提供声音市场，用户可选择或销售语音模型", "confidence": "high", "source": "baike" },
+    { "name": "移动应用", "desc": "2025 年 6 月推出独立 iOS 和 Android 应用", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本文本转语音功能",
+    "plans": [
+      { "name": "Starter", "price": "$5/月", "features": ["10 分钟语音", "基础语音克隆", "API 访问"], "confidence": "high", "source": "official" },
+      { "name": "Creator", "price": "$22/月", "features": ["100 分钟语音", "高级语音克隆", "商业授权"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$99/月", "features": ["500 分钟语音", "专业配音工作室", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["无限语音", "私有部署", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "语音质量业界领先，接近真人",
+    "支持 70 种语言，国际化能力强",
+    "估值 33 亿美元，获英伟达投资",
+    "ARR 突破 1 亿美元，商业模式健康",
+    "功能全面（TTS、克隆、配音、音乐）"
+  ],
+  "cons": [
+    "免费版额度有限",
+    "语音克隆存在伦理争议",
+    "高级功能价格较高",
+    "依赖网络连接"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面直观，支持网页端和移动端",
+  "useCases": [
+    "有声读物制作",
+    "游戏和动画配音",
+    "多语言内容本地化",
+    "播客和视频旁白",
+    "无障碍辅助工具",
+    "AI 音乐创作"
+  ],
+  "needsReview": []
+}

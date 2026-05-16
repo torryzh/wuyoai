@@ -1,0 +1,28 @@
+{
+  "id": "ideogram",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://ideogram.ai"],
+  "confidence": "high",
+  "description": "Ideogram 是一款AI图像生成工具，以文字渲染能力著称。能够在图像中准确生成文字，解决了AI图像生成中文字变形的难题。支持多种风格，适合设计Logo、海报、社交媒体图片等。",
+  "features": [
+    { "name": "文字渲染", "desc": "在图像中准确生成文字", "confidence": "high", "source": "official" },
+    { "name": "多风格", "desc": "支持多种艺术风格", "confidence": "high", "source": "official" },
+    { "name": "高质量", "desc": "图像质量高", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "生成速度快", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "提供免费使用额度", "confidence": "high", "source": "official" },
+    { "name": "社区分享", "desc": "支持社区分享", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版每天可生成25张",
+    "plans": [
+      { "name": "Basic", "price": "$7/月", "features": ["400张/月", "无水印"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$16/月", "features": ["1000张/月", "优先生成"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["文字渲染准确", "免费额度充足", "图像质量高", "适合设计场景", "社区活跃"],
+  "cons": ["依赖网络", "部分风格有限", "高级功能需付费", "复杂场景需多次尝试"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面简洁",
+  "useCases": ["Logo设计", "海报制作", "社交媒体图片", "文字图像", "创意设计"],
+  "needsReview": []
+}

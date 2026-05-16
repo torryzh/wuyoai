@@ -1,0 +1,27 @@
+{
+  "id": "mindshow",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://www.mindshow.fun"],
+  "confidence": "high",
+  "description": "MindShow 是一款AI演示文稿生成工具，支持从文字描述生成专业PPT。基于AI技术，可快速创建演示文稿，提供多种模板和设计风格。",
+  "features": [
+    { "name": "AI生成PPT", "desc": "文字描述生成演示文稿", "confidence": "high", "source": "official" },
+    { "name": "多模板", "desc": "提供多种模板", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "快速生成演示文稿", "confidence": "high", "source": "official" },
+    { "name": "中文优化", "desc": "针对中文场景优化", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "提供免费使用", "confidence": "high", "source": "official" },
+    { "name": "简洁易用", "desc": "界面简洁，操作简单", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基础功能",
+    "plans": [
+      { "name": "Pro", "price": "¥99/年", "features": ["无限生成", "高级模板", "无水印"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["中文优化", "快速生成", "免费版可用", "简洁易用", "多模板"],
+  "cons": ["免费版功能有限", "模板有限", "依赖网络", "设计自由度低"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["PPT制作", "演示文稿", "工作报告", "学习展示", "快速汇报"],
+  "needsReview": []
+}

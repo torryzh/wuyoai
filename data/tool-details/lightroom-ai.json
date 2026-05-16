@@ -1,0 +1,28 @@
+{
+  "id": "lightroom-ai",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://www.adobe.com/products/photoshop-lightroom.html"],
+  "confidence": "high",
+  "description": "Lightroom AI 是 Adobe 推出的 AI 照片编辑工具，集成在 Lightroom 中。支持 AI 自动调整、智能选择、天空替换等功能。被专业摄影师和摄影爱好者广泛使用。",
+  "features": [
+    { "name": "AI自动调整", "desc": "AI智能调整照片参数", "confidence": "high", "source": "official" },
+    { "name": "智能选择", "desc": "AI智能选择编辑区域", "confidence": "high", "source": "official" },
+    { "name": "天空替换", "desc": "一键替换天空", "confidence": "high", "source": "official" },
+    { "name": "Adobe集成", "desc": "深度集成Adobe生态", "confidence": "high", "source": "official" },
+    { "name": "专业工具", "desc": "专业级照片编辑", "confidence": "high", "source": "official" },
+    { "name": "多平台", "desc": "桌面、移动、网页多平台", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "无免费版",
+    "plans": [
+      { "name": "Lightroom", "price": "$9.99/月", "features": ["完整功能", "100GB云存储"], "confidence": "high", "source": "official" },
+      { "name": "Photography", "price": "$9.99/月", "features": ["Lightroom+Photoshop", "20GB云存储"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["专业级工具", "AI功能强大", "Adobe生态", "多平台支持", "摄影师首选"],
+  "cons": ["无免费版", "依赖Adobe订阅", "学习曲线较陡", "依赖网络"],
+  "difficulty": "medium",
+  "difficultyNote": "需要摄影/后期基础知识",
+  "useCases": ["照片编辑", "摄影后期", "批量处理", "云同步", "专业摄影"],
+  "needsReview": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "arxiv",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://arxiv.org", "https://baike.baidu.com/item/arXiv"],
+  "confidence": "high",
+  "description": "arXiv 是一个开放获取的学术论文预印本平台，涵盖物理、数学、计算机科学、生物学等多个领域。研究人员可以在此发布和获取最新研究成果。被全球数百万研究人员使用，是学术研究的重要资源。",
+  "features": [
+    { "name": "开放获取", "desc": "免费获取学术论文", "confidence": "high", "source": "baike" },
+    { "name": "多学科", "desc": "涵盖物理、数学、计算机等多个领域", "confidence": "high", "source": "baike" },
+    { "name": "预印本", "desc": "发布最新研究成果", "confidence": "high", "source": "baike" },
+    { "name": "搜索功能", "desc": "支持论文搜索和浏览", "confidence": "high", "source": "baike" },
+    { "name": "免费发布", "desc": "研究人员可免费发布论文", "confidence": "high", "source": "baike" },
+    { "name": "学术社区", "desc": "全球学术社区", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "完全免费",
+    "plans": []
+  },
+  "pros": [
+    "完全免费",
+    "多学科覆盖",
+    "学术权威性高",
+    "全球研究人员使用",
+    "开放获取"
+  ],
+  "cons": [
+    "界面相对简单",
+    "部分论文可能未经过同行评审",
+    "搜索功能相对基础",
+    "依赖网络"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可使用",
+  "useCases": [
+    "学术研究",
+    "论文阅读",
+    "最新研究获取",
+    "文献检索",
+    "学术交流",
+    "研究参考"
+  ],
+  "needsReview": []
+}

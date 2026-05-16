@@ -1,0 +1,28 @@
+{
+  "id": "copy-ai",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.copy.ai"],
+  "confidence": "high",
+  "description": "Copy.ai 是一款AI营销文案生成工具，支持博客、广告、社交媒体、邮件等多种内容类型。提供90+模板，支持品牌声音定制和团队协作。被众多营销团队使用，是企业内容营销的首选工具之一。",
+  "features": [
+    { "name": "90+模板", "desc": "覆盖营销全场景", "confidence": "high", "source": "official" },
+    { "name": "品牌声音", "desc": "定制AI写作风格", "confidence": "high", "source": "official" },
+    { "name": "团队协作", "desc": "支持多人协作", "confidence": "high", "source": "official" },
+    { "name": "多语言", "desc": "支持25+语言", "confidence": "high", "source": "official" },
+    { "name": "工作流自动化", "desc": "自动化营销工作流", "confidence": "high", "source": "official" },
+    { "name": "SEO优化", "desc": "生成SEO友好的内容", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持2000字/月",
+    "plans": [
+      { "name": "Starter", "price": "$36/月", "features": ["无限字数", "所有模板", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Advanced", "price": "$186/月", "features": ["工作流自动化", "API访问", "团队管理"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["模板丰富（90+）", "品牌声音定制", "团队协作支持", "多语言支持", "营销场景覆盖全"],
+  "cons": ["价格较高", "免费版字数有限", "中文支持一般", "学习曲线较陡"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": ["营销文案", "博客文章", "广告文案", "社交媒体", "邮件营销"],
+  "needsReview": []
+}

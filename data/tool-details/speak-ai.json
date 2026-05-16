@@ -1,0 +1,27 @@
+{
+  "id": "speak-ai",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://speak.com"],
+  "confidence": "high",
+  "description": "Speak 是一款AI语言学习应用，专注于口语练习。基于AI技术，提供实时的发音纠正和对话练习。支持多种语言，以沉浸式学习体验著称。被众多语言学习者使用。",
+  "features": [
+    { "name": "口语练习", "desc": "AI驱动的口语练习", "confidence": "high", "source": "official" },
+    { "name": "发音纠正", "desc": "实时发音纠正", "confidence": "high", "source": "official" },
+    { "name": "对话练习", "desc": "模拟真实对话场景", "confidence": "high", "source": "official" },
+    { "name": "多语言", "desc": "支持多种语言", "confidence": "high", "source": "official" },
+    { "name": "沉浸体验", "desc": "沉浸式学习体验", "confidence": "high", "source": "official" },
+    { "name": "个性化", "desc": "根据水平个性化", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Premium", "price": "$14.99/月", "features": ["无限练习", "所有课程", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["口语练习专业", "发音纠正准确", "沉浸体验好", "多语言支持", "个性化学习"],
+  "cons": ["价格较高", "免费试用有限", "依赖网络", "部分语言支持有限"],
+  "difficulty": "easy",
+  "difficultyNote": "下载App即可使用",
+  "useCases": ["语言学习", "口语练习", "发音纠正", "对话练习", "考试准备"],
+  "needsReview": []
+}

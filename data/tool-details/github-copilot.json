@@ -1,0 +1,47 @@
+{
+  "id": "github-copilot",
+  "fetchedAt": "2026-05-16T05:30:00Z",
+  "sources": ["https://github.com/copilot", "https://baike.baidu.com/item/GitHub Copilot"],
+  "confidence": "high",
+  "description": "GitHub Copilot 是由微软与 OpenAI 于 2021 年 6 月联合推出的 AI 编程工具，能够通过理解注释内容自动生成代码，实现结对编程功能。2022 年 6 月正式上线，采用订阅制收费。2025 年新增视觉代码生成功能，开源 Copilot Chat 并整合至 Visual Studio Code，整合 GPT-5 模型提升代码生成能力。同年 11 月荣获世界互联网大会领先科技奖，全球超过 2000 万开发者采用，90% 的《财富》百强企业将其纳入开发流程。Visual Studio 2026 已集成 GitHub Copilot 作为核心 AI 功能，付费计划中引入 Anthropic 的 Claude Opus 4.5 模型。",
+  "features": [
+    { "name": "智能代码补全", "desc": "根据上下文自动补全代码，支持行级和函数级补全", "confidence": "high", "source": "baike" },
+    { "name": "多模型支持", "desc": "整合 GPT-5 和 Claude Opus 4.5，提供多种 AI 模型选择", "confidence": "high", "source": "baike" },
+    { "name": "视觉代码生成", "desc": "2025 年新增功能，可通过图像生成代码", "confidence": "high", "source": "baike" },
+    { "name": "Copilot Chat", "desc": "开源的 AI 对话功能，支持代码解释和调试", "confidence": "high", "source": "baike" },
+    { "name": "IDE 深度集成", "desc": "集成至 VS Code、Visual Studio 2026 等主流 IDE", "confidence": "high", "source": "baike" },
+    { "name": "企业级部署", "desc": "90% 的《财富》百强企业采用，支持企业级安全", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "学生和开源项目维护者免费",
+    "plans": [
+      { "name": "Individual", "price": "$10/月", "features": ["代码补全", "Chat 功能", "多语言支持"], "confidence": "high", "source": "baike" },
+      { "name": "Business", "price": "$19/人/月", "features": ["团队管理", "企业安全", "审计日志"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["自定义模型", "私有部署", "高级支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "全球 2000 万开发者采用，市场占有率最高",
+    "90% 的《财富》百强企业使用",
+    "深度集成 VS Code 和 Visual Studio",
+    "支持 GPT-5 和 Claude 双模型",
+    "学生和开源维护者免费"
+  ],
+  "cons": [
+    "面临 Cursor、Claude Code 等新工具竞争",
+    "存在数据泄露风险（美国众议院曾禁用）",
+    "代码质量依赖训练数据",
+    "部分企业已转向其他工具"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "安装 IDE 插件即可使用，无需复杂配置",
+  "useCases": [
+    "日常代码编写",
+    "代码补全和预测",
+    "代码解释和学习",
+    "多语言开发",
+    "团队协作开发",
+    "遗留代码重构"
+  ],
+  "needsReview": []
+}

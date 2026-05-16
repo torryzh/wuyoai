@@ -1,0 +1,28 @@
+{
+  "id": "pika",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://pika.art"],
+  "confidence": "high",
+  "description": "Pika 是一款AI视频生成工具，支持文生视频、图生视频、视频编辑等功能。以简洁易用著称，生成速度快，适合快速创作短视频。支持多种风格和特效，在社交媒体上广泛传播。",
+  "features": [
+    { "name": "文生视频", "desc": "文字描述生成视频", "confidence": "high", "source": "official" },
+    { "name": "图生视频", "desc": "静态图像转动态视频", "confidence": "high", "source": "official" },
+    { "name": "视频编辑", "desc": "AI驱动的视频编辑", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "生成速度快", "confidence": "high", "source": "official" },
+    { "name": "多风格", "desc": "支持多种视频风格", "confidence": "high", "source": "official" },
+    { "name": "简洁易用", "desc": "界面简洁，操作简单", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版有限额度",
+    "plans": [
+      { "name": "Standard", "price": "$8/月", "features": ["300积分/月", "基础功能"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$28/月", "features": ["700积分/月", "无水印", "优先处理"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["简洁易用", "生成速度快", "价格亲民", "多风格支持", "社区活跃"],
+  "cons": ["免费额度有限", "视频时长较短", "复杂场景效果一般", "依赖网络"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面简洁",
+  "useCases": ["短视频创作", "社交媒体内容", "创意探索", "视频编辑", "快速原型"],
+  "needsReview": []
+}

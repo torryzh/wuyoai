@@ -1,0 +1,51 @@
+{
+  "id": "chatgpt",
+  "fetchedAt": "2026-05-16T04:38:14.238Z",
+  "sources": ["https://baike.baidu.com/item/ChatGPT"],
+  "confidence": "high",
+  "description": "ChatGPT（全名：Chat Generative Pre-trained Transformer）是 OpenAI 于 2022 年 11 月推出的 AI 聊天机器人，基于 GPT 系列大模型构建，采用从人类反馈中强化学习（RLHF）的训练方式。能够基于预训练阶段所见的模式和统计规律生成回答，并根据聊天上下文进行互动，真正像人类一样来聊天交流。其强大的自然语言处理能力和多模态转化能力使之可用于多个场景和领域：开发聊天机器人、编写和调试计算机程序、撰写邮件、进行媒体和文学相关领域的创作，还可用作自动客服、语音识别、机器翻译、情感分析、信息检索等。支持文本、图像、音频多模态输入输出，支持 59 种语言。截至 2025 年 10 月，周活跃用户突破 8 亿，是目前全球用户量最大的 AI 对话工具。",
+  "features": [
+    { "name": "GPT-5.5 多模态", "desc": "支持文本、图像、音频输入输出，59 种语言", "confidence": "high", "source": "baike" },
+    { "name": "联网搜索", "desc": "可实时获取网络信息，结合记忆功能优化搜索结果", "confidence": "high", "source": "baike" },
+    { "name": "DALL-E 绘图", "desc": "文字生成图像，免费用户也可使用", "confidence": "high", "source": "baike" },
+    { "name": "代码解释器", "desc": "支持编写、调试程序，处理数据文件", "confidence": "high", "source": "baike" },
+    { "name": "高级语音模式", "desc": "类人语音对话，支持实时交流", "confidence": "high", "source": "baike" },
+    { "name": "记忆功能", "desc": "保存用户偏好和历史对话，提供个性化回复", "confidence": "high", "source": "baike" },
+    { "name": "购物功能", "desc": "查询购物信息，生成产品卡片，支持即时结账", "confidence": "high", "source": "baike" },
+    { "name": "办公文档支持", "desc": "原生支持 Excel (.xlsx) 和 PowerPoint (.pptx) 文件", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版可使用 GPT-4o-mini，支持基础对话、DALL-E 绘图、记忆功能",
+    "plans": [
+      { "name": "Plus", "price": "$20/月", "features": ["GPT-5 完整访问", "高级语音模式", "更高用量"], "confidence": "high", "source": "baike" },
+      { "name": "Pro", "price": "$200/月", "features": ["无限制访问 o1", "GPT-5 Pro", "优先使用新功能"], "confidence": "high", "source": "baike" },
+      { "name": "Team", "price": "$25/人/月", "features": ["团队协作", "更高用量", "管理控制"], "confidence": "medium", "source": "baike" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["无限用量", "企业级安全", "专属支持"], "confidence": "medium", "source": "baike" }
+    ]
+  },
+  "pros": [
+    "生态最完善，插件和集成最丰富",
+    "多模态能力强，支持文本/图像/音频/视频",
+    "用户基数大，社区活跃",
+    "持续快速迭代，功能更新频繁",
+    "支持 59 种语言，中文表现优秀"
+  ],
+  "cons": [
+    "国内访问受限，需要特殊网络",
+    "免费版功能有限制",
+    "存在隐私争议",
+    "Pro 订阅价格较高"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面直观，无需技术背景",
+  "useCases": [
+    "日常问答和知识查询",
+    "文案写作和内容创作",
+    "代码编写和调试",
+    "数据分析和处理",
+    "图像生成和编辑",
+    "语言翻译",
+    "学习辅导"
+  ],
+  "needsReview": []
+}

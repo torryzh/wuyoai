@@ -1,0 +1,46 @@
+{
+  "id": "gaoding",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.gaoding.com", "https://baike.baidu.com/item/稿定设计"],
+  "confidence": "high",
+  "description": "稿定设计是中国领先的在线设计平台，提供海量模板和 AI 设计工具。支持海报、社交媒体图片、视频等多种设计类型。基于 AI 技术，可快速生成专业设计。被众多企业和个人用户使用。",
+  "features": [
+    { "name": "海量模板", "desc": "提供海量设计模板", "confidence": "high", "source": "baike" },
+    { "name": "AI 设计", "desc": "AI 辅助设计生成", "confidence": "high", "source": "baike" },
+    { "name": "多类型", "desc": "支持海报、社交媒体、视频等", "confidence": "high", "source": "baike" },
+    { "name": "在线编辑", "desc": "在线编辑器，无需下载", "confidence": "high", "source": "baike" },
+    { "name": "团队协作", "desc": "支持团队协作", "confidence": "high", "source": "baike" },
+    { "name": "中文优化", "desc": "针对中文设计优化", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "VIP", "price": "¥99/年", "features": ["无限模板", "高级功能", "无水印"], "confidence": "high", "source": "official" },
+      { "name": "SVIP", "price": "¥199/年", "features": ["所有功能", "优先支持", "商用授权"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "海量模板",
+    "中文设计优化",
+    "在线编辑方便",
+    "团队协作",
+    "价格亲民"
+  ],
+  "cons": [
+    "免费版有水印",
+    "部分模板需付费",
+    "依赖网络",
+    "国际影响力有限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "海报设计",
+    "社交媒体图片",
+    "视频制作",
+    "电商图片",
+    "品牌设计",
+    "团队协作"
+  ],
+  "needsReview": []
+}

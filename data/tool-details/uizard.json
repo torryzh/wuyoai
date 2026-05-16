@@ -1,0 +1,27 @@
+{
+  "id": "uizard",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://uizard.io"],
+  "confidence": "high",
+  "description": "UIzard 是一款AI UI设计工具，支持从文字描述或手绘草图生成专业UI设计。基于AI技术，可快速创建App和网页界面。提供多种设计模板和组件，支持导出到Figma等工具。",
+  "features": [
+    { "name": "文字生成UI", "desc": "文字描述生成UI设计", "confidence": "high", "source": "official" },
+    { "name": "草图转设计", "desc": "手绘草图转专业设计", "confidence": "high", "source": "official" },
+    { "name": "多模板", "desc": "提供多种设计模板", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "快速生成UI设计", "confidence": "high", "source": "official" },
+    { "name": "Figma导出", "desc": "支持导出到Figma", "confidence": "high", "source": "official" },
+    { "name": "免费试用", "desc": "提供免费试用", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Pro", "price": "$12/月", "features": ["无限生成", "高级功能", "Figma导出"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["草图转设计独特", "快速生成UI", "Figma导出", "多模板选择", "易用性好"],
+  "cons": ["免费试用有限", "复杂设计需调整", "依赖网络", "部分功能需付费"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["UI设计", "App设计", "网页设计", "快速原型", "设计探索"],
+  "needsReview": []
+}

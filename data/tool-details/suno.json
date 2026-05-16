@@ -1,0 +1,46 @@
+{
+  "id": "suno",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://suno.com"],
+  "confidence": "high",
+  "description": "Suno 是一款AI音乐生成工具，用户输入文字描述即可生成完整歌曲，包括人声、伴奏和歌词。支持多种音乐风格，生成质量高，被众多音乐爱好者和创作者使用。免费版每天可生成一定数量的歌曲，Pro版无限制。被誉为'AI音乐的ChatGPT'，在社交媒体上广泛传播。",
+  "features": [
+    { "name": "文生音乐", "desc": "文字描述生成完整歌曲", "confidence": "high", "source": "official" },
+    { "name": "人声合成", "desc": "AI生成逼真人声演唱", "confidence": "high", "source": "official" },
+    { "name": "多风格", "desc": "支持流行、摇滚、电子等多种风格", "confidence": "high", "source": "official" },
+    { "name": "歌词生成", "desc": "自动生成歌词", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "几分钟即可生成一首歌", "confidence": "high", "source": "official" },
+    { "name": "社区分享", "desc": "支持社区分享和发现", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版每天可生成10首歌",
+    "plans": [
+      { "name": "Pro", "price": "$10/月", "features": ["每天500首", "商用授权", "无水印"], "confidence": "high", "source": "official" },
+      { "name": "Premier", "price": "$30/月", "features": ["每天2000首", "优先生成", "高级功能"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "音乐生成质量高，人声逼真",
+    "免费版每天可生成10首",
+    "支持多种音乐风格",
+    "社区活跃，作品丰富",
+    "操作简单，人人可用"
+  ],
+  "cons": [
+    "歌曲时长有限（约2分钟）",
+    "部分风格生成效果不稳定",
+    "版权问题需注意",
+    "依赖网络"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，输入描述即可生成",
+  "useCases": [
+    "个人音乐创作",
+    "短视频配乐",
+    "播客片头曲",
+    "音乐学习",
+    "娱乐创作",
+    "社交媒体内容"
+  ],
+  "needsReview": []
+}

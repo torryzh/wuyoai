@@ -1,0 +1,25 @@
+{
+  "id": "github-topics",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://github.com/topics/artificial-intelligence"],
+  "confidence": "high",
+  "description": "GitHub Topics AI是GitHub的AI主题页面，汇集了与人工智能相关的开源项目。用户可以浏览、搜索和发现AI相关的代码库。是AI开源项目发现的重要入口。",
+  "features": [
+    { "name": "项目发现", "desc": "发现AI开源项目", "confidence": "high", "source": "official" },
+    { "name": "分类浏览", "desc": "按主题分类浏览", "confidence": "high", "source": "official" },
+    { "name": "搜索功能", "desc": "搜索AI项目", "confidence": "high", "source": "official" },
+    { "name": "社区活跃", "desc": "活跃的开源社区", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "完全免费", "confidence": "high", "source": "official" },
+    { "name": "资源丰富", "desc": "海量AI项目资源", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "完全免费",
+    "plans": []
+  },
+  "pros": ["AI项目发现", "资源丰富", "免费使用", "社区活跃", "GitHub生态"],
+  "cons": ["需要GitHub账号", "英文为主", "项目质量参差", "依赖网络"],
+  "difficulty": "easy",
+  "difficultyNote": "访问GitHub即可使用",
+  "useCases": ["项目发现", "开源探索", "AI学习", "代码参考", "技术调研"],
+  "needsReview": []
+}

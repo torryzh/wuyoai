@@ -1,0 +1,45 @@
+{
+  "id": "jiqizhixin",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.jiqizhixin.com", "https://baike.baidu.com/item/机器之心"],
+  "confidence": "high",
+  "description": "机器之心是中国领先的 AI 媒体和产业服务平台，提供 AI 领域的新闻、技术解读、产业分析等内容。涵盖学术研究、技术应用、产业动态等多个方面。被众多 AI 从业者和研究者使用。",
+  "features": [
+    { "name": "AI 新闻", "desc": "最新 AI 领域新闻", "confidence": "high", "source": "baike" },
+    { "name": "技术解读", "desc": "深度技术文章和解读", "confidence": "high", "source": "baike" },
+    { "name": "产业分析", "desc": "AI 产业分析和趋势", "confidence": "high", "source": "baike" },
+    { "name": "学术报道", "desc": "学术研究报道", "confidence": "high", "source": "baike" },
+    { "name": "免费内容", "desc": "大部分内容免费", "confidence": "high", "source": "baike" },
+    { "name": "中文社区", "desc": "中文 AI 社区", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "大部分内容免费",
+    "plans": [
+      { "name": "VIP", "price": "¥299/年", "features": ["深度报告", "独家内容", "线下活动"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "中文 AI 媒体权威",
+    "内容质量高",
+    "更新频率高",
+    "免费内容丰富",
+    "中文社区活跃"
+  ],
+  "cons": [
+    "部分深度内容需付费",
+    "依赖网络",
+    "部分文章可能较专业",
+    "广告较多"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可阅读",
+  "useCases": [
+    "AI 新闻",
+    "技术学习",
+    "产业了解",
+    "学术参考",
+    "行业趋势",
+    "中文 AI 资讯"
+  ],
+  "needsReview": []
+}

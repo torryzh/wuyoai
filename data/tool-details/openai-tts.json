@@ -1,0 +1,28 @@
+{
+  "id": "openai-tts",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://platform.openai.com/docs/guides/text-to-speech"],
+  "confidence": "high",
+  "description": "OpenAI TTS 是OpenAI推出的文本转语音API，支持高质量的语音合成。提供多种语音选择，支持多语言。被众多开发者集成到应用中，是AI语音合成的主流选择之一。",
+  "features": [
+    { "name": "高质量语音", "desc": "自然流畅的语音合成", "confidence": "high", "source": "official" },
+    { "name": "多语音", "desc": "多种语音可选", "confidence": "high", "source": "official" },
+    { "name": "多语言", "desc": "支持多种语言", "confidence": "high", "source": "official" },
+    { "name": "API接口", "desc": "提供API接口", "confidence": "high", "source": "official" },
+    { "name": "实时生成", "desc": "实时语音生成", "confidence": "high", "source": "official" },
+    { "name": "流式输出", "desc": "支持流式音频输出", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "无免费版",
+    "plans": [
+      { "name": "API", "price": "$15/100万字符", "features": ["标准语音", "API访问"], "confidence": "high", "source": "official" },
+      { "name": "HD", "price": "$30/100万字符", "features": ["高清语音", "API访问"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["语音质量高", "OpenAI出品", "多语言支持", "API接口标准", "流式输出"],
+  "cons": ["无免费版", "价格较高", "依赖API", "需要开发能力"],
+  "difficulty": "medium",
+  "difficultyNote": "需要API开发能力",
+  "useCases": ["语音合成", "应用集成", "有声读物", "语音助手", "多语言内容"],
+  "needsReview": []
+}

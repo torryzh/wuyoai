@@ -1,0 +1,27 @@
+{
+  "id": "kling",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://klingai.com"],
+  "confidence": "high",
+  "description": "可灵（Kling）是快手推出的AI视频生成工具，支持文生视频、图生视频等功能。以高质量和长时长著称，可生成长达2分钟的视频。在国内AI视频工具中表现突出，被众多短视频创作者使用。",
+  "features": [
+    { "name": "文生视频", "desc": "文字描述生成视频", "confidence": "high", "source": "official" },
+    { "name": "图生视频", "desc": "图像转动态视频", "confidence": "high", "source": "official" },
+    { "name": "长视频", "desc": "可生成2分钟视频", "confidence": "high", "source": "official" },
+    { "name": "高质量", "desc": "视频质量高", "confidence": "high", "source": "official" },
+    { "name": "中文优化", "desc": "针对中文场景优化", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "提供免费使用额度", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版有每日额度",
+    "plans": [
+      { "name": "标准版", "price": "¥66/月", "features": ["更多额度", "高清导出", "无水印"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["国内访问稳定", "视频质量高", "支持长视频（2分钟）", "免费额度充足", "中文优化"],
+  "cons": ["依赖网络", "部分功能需付费", "复杂场景需调整", "生成速度较慢"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["短视频创作", "社交媒体内容", "创意视频", "产品展示", "视频制作"],
+  "needsReview": []
+}

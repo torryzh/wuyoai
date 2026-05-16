@@ -1,0 +1,27 @@
+{
+  "id": "codeium",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://codeium.com"],
+  "confidence": "high",
+  "description": "Codeium 是一款免费的AI代码助手，支持代码补全、代码生成、代码解释等功能。支持70+编程语言和40+IDE。以免费和高质量著称，被众多开发者使用。个人版完全免费，是GitHub Copilot的免费替代品。",
+  "features": [
+    { "name": "代码补全", "desc": "智能代码补全", "confidence": "high", "source": "official" },
+    { "name": "代码生成", "desc": "自然语言生成代码", "confidence": "high", "source": "official" },
+    { "name": "代码解释", "desc": "解释代码功能", "confidence": "high", "source": "official" },
+    { "name": "70+语言", "desc": "支持70+编程语言", "confidence": "high", "source": "official" },
+    { "name": "40+IDE", "desc": "支持40+IDE和编辑器", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "个人版完全免费", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "个人版完全免费",
+    "plans": [
+      { "name": "Teams", "price": "$10/人/月", "features": ["团队管理", "企业安全", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["个人版完全免费", "支持语言和IDE广泛", "补全质量高", "隐私保护好", "是Copilot免费替代"],
+  "cons": ["免费版功能有限", "高级功能需付费", "依赖网络", "社区较小"],
+  "difficulty": "easy",
+  "difficultyNote": "安装IDE插件即可使用",
+  "useCases": ["代码补全", "代码生成", "代码学习", "多语言开发", "团队协作"],
+  "needsReview": []
+}

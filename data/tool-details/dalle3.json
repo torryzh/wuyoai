@@ -1,0 +1,46 @@
+{
+  "id": "dalle3",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://openai.com/dall-e-3"],
+  "confidence": "high",
+  "description": "DALL-E 3 是 OpenAI 推出的文生图模型，现已向所有 ChatGPT 用户和开发者开放。相比 DALL-E 2 有显著改进，能够精确遵循用户提供的文本描述生成图像。原生集成在 ChatGPT 中，用户可以用自然语言描述需求，ChatGPT 会自动生成详细的提示词。生成的图像归用户所有，无需 OpenAI 许可即可打印、销售或商业使用。",
+  "features": [
+    { "name": "精确文本遵循", "desc": "能精确理解和遵循用户的文本描述", "confidence": "high", "source": "official" },
+    { "name": "ChatGPT 集成", "desc": "原生集成在 ChatGPT 中，可作为创意伙伴", "confidence": "high", "source": "official" },
+    { "name": "自然语言交互", "desc": "用简单句子或详细段落描述需求即可", "confidence": "high", "source": "official" },
+    { "name": "图像所有权", "desc": "生成的图像归用户所有，可自由使用", "confidence": "high", "source": "official" },
+    { "name": "迭代优化", "desc": "可要求 ChatGPT 用简单词汇调整图像", "confidence": "high", "source": "official" },
+    { "name": "安全防护", "desc": "内置有害内容生成防护机制", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "ChatGPT 免费用户可使用",
+    "plans": [
+      { "name": "ChatGPT Plus", "price": "$20/月", "features": ["完整 DALL-E 3 访问", "更高用量"], "confidence": "high", "source": "official" },
+      { "name": "API", "price": "按量计费", "features": ["开发者 API 访问"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "精确遵循文本描述，减少提示词工程",
+    "原生集成 ChatGPT，交互自然",
+    "图像归用户所有，可商业使用",
+    "免费用户也可使用",
+    "安全防护机制完善"
+  ],
+  "cons": [
+    "生成速度受服务器负载影响",
+    "复杂场景仍需多次尝试",
+    "免费版有使用限额",
+    "风格相对固定"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "在 ChatGPT 中直接描述需求即可，无需额外配置",
+  "useCases": [
+    "创意设计和概念艺术",
+    "社交媒体内容",
+    "营销素材制作",
+    "个人艺术创作",
+    "产品原型设计",
+    "教育和演示"
+  ],
+  "needsReview": []
+}

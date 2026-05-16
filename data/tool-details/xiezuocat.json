@@ -1,0 +1,27 @@
+{
+  "id": "xiezuocat",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://xiezuocat.com"],
+  "confidence": "high",
+  "description": "秘塔写作猫是一款国产AI写作工具，专注于中文写作辅助。支持文章生成、改写、润色、纠错等功能。针对中文语法和表达优化，被众多中文写作者使用。",
+  "features": [
+    { "name": "文章生成", "desc": "AI生成中文文章", "confidence": "high", "source": "official" },
+    { "name": "文章改写", "desc": "智能改写和优化", "confidence": "high", "source": "official" },
+    { "name": "语法纠错", "desc": "中文语法检查和纠错", "confidence": "high", "source": "official" },
+    { "name": "文章润色", "desc": "润色语言表达", "confidence": "high", "source": "official" },
+    { "name": "中文优化", "desc": "针对中文写作优化", "confidence": "high", "source": "official" },
+    { "name": "多场景", "desc": "支持多种写作场景", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基础功能",
+    "plans": [
+      { "name": "VIP", "price": "¥98/年", "features": ["无限使用", "高级功能", "无广告"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["中文写作优化", "语法纠错准确", "多写作场景", "免费版够用", "界面友好"],
+  "cons": ["英文支持有限", "高级功能需付费", "依赖网络", "部分功能不稳定"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["中文写作", "文章改写", "语法纠错", "文案撰写", "学习写作"],
+  "needsReview": []
+}

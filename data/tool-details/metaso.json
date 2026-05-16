@@ -1,0 +1,25 @@
+{
+  "id": "metaso",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://metaso.cn"],
+  "confidence": "high",
+  "description": "秘塔检索是秘塔科技推出的AI搜索引擎，支持自然语言提问和智能回答。基于大语言模型，提供精准的搜索结果和知识问答。支持学术搜索、深度搜索等模式，是国内AI搜索的代表产品之一。",
+  "features": [
+    { "name": "AI搜索", "desc": "大模型驱动的智能搜索", "confidence": "high", "source": "official" },
+    { "name": "学术搜索", "desc": "专门的学术论文搜索", "confidence": "high", "source": "official" },
+    { "name": "深度搜索", "desc": "更深入的搜索分析", "confidence": "high", "source": "official" },
+    { "name": "来源引用", "desc": "搜索结果附带来源", "confidence": "high", "source": "official" },
+    { "name": "中文优化", "desc": "针对中文搜索优化", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "免费使用", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费使用",
+    "plans": []
+  },
+  "pros": ["中文搜索优化", "学术搜索支持", "来源引用完整", "免费使用", "国内访问稳定"],
+  "cons": ["英文搜索相对较弱", "部分搜索结果可能不全", "依赖网络", "功能相对简单"],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可使用",
+  "useCases": ["智能搜索", "学术研究", "信息检索", "知识问答", "日常查询"],
+  "needsReview": []
+}

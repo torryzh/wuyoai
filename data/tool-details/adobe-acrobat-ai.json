@@ -1,0 +1,45 @@
+{
+  "id": "adobe-acrobat-ai",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.adobe.com/acrobat", "https://baike.baidu.com/item/Adobe Acrobat AI"],
+  "confidence": "high",
+  "description": "Adobe Acrobat AI 是 Adobe 推出的 AI 文档处理工具，集成在 Acrobat 中。支持 PDF 文档分析、总结、问答等功能。基于 AI 技术，可智能提取文档信息。被众多企业和专业人士使用。",
+  "features": [
+    { "name": "文档分析", "desc": "AI 分析 PDF 文档", "confidence": "high", "source": "baike" },
+    { "name": "智能总结", "desc": "自动生成文档摘要", "confidence": "high", "source": "baike" },
+    { "name": "问答功能", "desc": "与文档进行对话问答", "confidence": "high", "source": "baike" },
+    { "name": "信息提取", "desc": "智能提取关键信息", "confidence": "high", "source": "baike" },
+    { "name": "Adobe 集成", "desc": "深度集成 Adobe Acrobat", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持多语言文档", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "Acrobat 用户可免费使用基础功能",
+    "plans": [
+      { "name": "Acrobat Pro", "price": "$22.99/月", "features": ["完整 Acrobat 功能", "AI 助手", "高级编辑"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "深度集成 Adobe Acrobat",
+    "文档分析专业",
+    "多语言支持",
+    "信息提取准确",
+    "企业级安全"
+  ],
+  "cons": [
+    "依赖 Adobe 订阅",
+    "部分功能需付费",
+    "依赖网络",
+    "学习曲线较陡"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "需要 Adobe Acrobat 使用基础",
+  "useCases": [
+    "PDF 文档分析",
+    "文档总结",
+    "信息提取",
+    "合同审查",
+    "报告分析",
+    "学术研究"
+  ],
+  "needsReview": []
+}

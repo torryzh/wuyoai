@@ -1,0 +1,46 @@
+{
+  "id": "yige",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://yige.baidu.com", "https://baike.baidu.com/item/文心一格"],
+  "confidence": "high",
+  "description": "文心一格是百度推出的 AI 艺术和创意辅助平台，基于文心大模型技术。支持文生图、图生图、AI 编辑等功能，提供多种艺术风格选择。深度集成百度生态，支持中文提示词优化。广泛应用于创意设计、社交媒体、营销素材等场景。",
+  "features": [
+    { "name": "文生图", "desc": "文字描述生成艺术图像", "confidence": "high", "source": "baike" },
+    { "name": "图生图", "desc": "基于现有图像进行风格转换", "confidence": "high", "source": "baike" },
+    { "name": "多风格", "desc": "支持多种艺术风格选择", "confidence": "high", "source": "baike" },
+    { "name": "中文优化", "desc": "针对中文提示词进行优化", "confidence": "high", "source": "baike" },
+    { "name": "AI 编辑", "desc": "AI 驱动的图像编辑功能", "confidence": "high", "source": "baike" },
+    { "name": "百度生态", "desc": "深度集成百度搜索和其他服务", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "提供免费试用额度",
+    "plans": [
+      { "name": "基础版", "price": "免费", "features": ["基础生图", "有限风格", "有水印"], "confidence": "high", "source": "official" },
+      { "name": "高级版", "price": "按量计费", "features": ["高级生图", "所有风格", "无水印", "高分辨率"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "中文提示词优化，适合国内用户",
+    "深度集成百度生态",
+    "多种艺术风格",
+    "免费试用额度",
+    "持续更新迭代"
+  ],
+  "cons": [
+    "国际影响力有限",
+    "部分风格需要付费",
+    "生成质量参差不齐",
+    "依赖百度账号"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "百度账号登录即可使用，界面简洁",
+  "useCases": [
+    "创意设计",
+    "社交媒体内容",
+    "营销素材",
+    "个人艺术创作",
+    "教育演示",
+    "品牌设计"
+  ],
+  "needsReview": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "remini",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://remini.ai", "https://baike.baidu.com/item/Remini"],
+  "confidence": "high",
+  "description": "Remini 是一款 AI 图像增强工具，专注于修复和增强老照片、模糊图像。基于深度学习技术，可显著提升图像清晰度和质量。支持人脸增强、背景修复、黑白上色等功能。被全球数亿用户使用。",
+  "features": [
+    { "name": "图像增强", "desc": "显著提升图像清晰度", "confidence": "high", "source": "baike" },
+    { "name": "人脸增强", "desc": "专门优化人脸细节", "confidence": "high", "source": "baike" },
+    { "name": "老照片修复", "desc": "修复老照片和模糊图像", "confidence": "high", "source": "baike" },
+    { "name": "黑白上色", "desc": "为黑白照片智能上色", "confidence": "high", "source": "baike" },
+    { "name": "背景修复", "desc": "修复图像背景", "confidence": "high", "source": "baike" },
+    { "name": "批量处理", "desc": "支持批量图像处理", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$4.99/月", "features": ["无限处理", "高清导出", "无水印"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "图像增强效果显著",
+    "人脸增强专业",
+    "老照片修复",
+    "黑白上色",
+    "全球数亿用户"
+  ],
+  "cons": [
+    "免费版有次数限制",
+    "部分功能需付费",
+    "依赖网络",
+    "处理速度受服务器影响"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "上传图片即可使用",
+  "useCases": [
+    "老照片修复",
+    "图像增强",
+    "人脸优化",
+    "黑白上色",
+    "图像清晰化",
+    "照片修复"
+  ],
+  "needsReview": []
+}

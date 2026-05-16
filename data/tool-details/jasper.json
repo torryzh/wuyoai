@@ -1,0 +1,47 @@
+{
+  "id": "jasper",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.jasper.ai"],
+  "confidence": "high",
+  "description": "Jasper 是一款企业级 AI 写作助手，专注于营销内容生成。支持博客、广告、社交媒体、邮件等多种内容类型。提供品牌声音定制、团队协作、内容分析等功能。被众多《财富》500 强企业使用，是营销团队的首选 AI 工具。",
+  "features": [
+    { "name": "品牌声音", "desc": "定制 AI 写作风格，匹配品牌调性", "confidence": "high", "source": "official" },
+    { "name": "多场景支持", "desc": "博客、广告、社交媒体、邮件等", "confidence": "high", "source": "official" },
+    { "name": "团队协作", "desc": "支持多人协作和内容审批流程", "confidence": "high", "source": "official" },
+    { "name": "内容分析", "desc": "分析内容表现和优化建议", "confidence": "high", "source": "official" },
+    { "name": "模板库", "desc": "提供大量预设模板和框架", "confidence": "high", "source": "official" },
+    { "name": "企业级安全", "desc": "支持 SSO、审计日志等企业功能", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "7 天免费试用",
+    "plans": [
+      { "name": "Creator", "price": "$49/月", "features": ["1 用户", "无限内容生成", "品牌声音"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$69/月", "features": ["1 用户", "高级功能", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Business", "price": "联系销售", "features": ["团队协作", "企业安全", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "企业级功能完善",
+    "品牌声音定制独特",
+    "团队协作支持",
+    "被《财富》500 强使用",
+    "内容质量高"
+  ],
+  "cons": [
+    "价格相对较高",
+    "中文支持有限",
+    "学习曲线较陡",
+    "依赖订阅"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "需要一定的营销知识，界面友好",
+  "useCases": [
+    "营销内容创作",
+    "博客文章",
+    "广告文案",
+    "社交媒体",
+    "邮件营销",
+    "品牌内容"
+  ],
+  "needsReview": []
+}

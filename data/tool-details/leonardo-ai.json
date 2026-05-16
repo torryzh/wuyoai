@@ -1,0 +1,28 @@
+{
+  "id": "leonardo-ai",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://leonardo.ai"],
+  "confidence": "high",
+  "description": "Leonardo AI 是一款AI图像生成工具，支持文生图、图生图、图像编辑等功能。提供多种AI模型和风格，支持训练自定义模型。以高质量和易用性著称，被众多设计师和创作者使用。",
+  "features": [
+    { "name": "文生图", "desc": "文字描述生成图像", "confidence": "high", "source": "official" },
+    { "name": "图生图", "desc": "基于图像生成新图", "confidence": "high", "source": "official" },
+    { "name": "自定义模型", "desc": "训练专属AI模型", "confidence": "high", "source": "official" },
+    { "name": "多模型", "desc": "多种AI模型可选", "confidence": "high", "source": "official" },
+    { "name": "高质量", "desc": "图像质量高", "confidence": "high", "source": "official" },
+    { "name": "免费额度", "desc": "提供免费使用额度", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版每天150积分",
+    "plans": [
+      { "name": "Apprentice", "price": "$10/月", "features": ["8500积分/月", "无水印"], "confidence": "high", "source": "official" },
+      { "name": "Artisan", "price": "$24/月", "features": ["25000积分/月", "优先生成"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["图像质量高", "自定义模型", "免费额度充足", "多模型选择", "社区活跃"],
+  "cons": ["依赖网络", "部分功能需付费", "学习曲线较陡", "复杂场景需调整"],
+  "difficulty": "medium",
+  "difficultyNote": "需要一定的AI绘画知识",
+  "useCases": ["创意设计", "概念艺术", "游戏素材", "社交媒体内容", "产品设计"],
+  "needsReview": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "mem-ai",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://mem.ai"],
+  "confidence": "high",
+  "description": "Mem 是一款AI笔记和知识管理工具，支持自动整理和连接笔记。基于AI技术，可智能搜索和关联笔记内容。被众多知识工作者使用，是个人知识管理的利器。",
+  "features": [
+    { "name": "AI笔记", "desc": "AI驱动的笔记管理", "confidence": "high", "source": "official" },
+    { "name": "自动整理", "desc": "自动整理和分类笔记", "confidence": "high", "source": "official" },
+    { "name": "智能搜索", "desc": "AI智能搜索笔记", "confidence": "high", "source": "official" },
+    { "name": "知识关联", "desc": "自动关联相关笔记", "confidence": "high", "source": "official" },
+    { "name": "简洁界面", "desc": "界面简洁易用", "confidence": "high", "source": "official" },
+    { "name": "多平台", "desc": "支持多平台同步", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Mem X", "price": "$10/月", "features": ["无限笔记", "AI功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["AI笔记管理独特", "自动整理高效", "智能搜索准确", "界面简洁", "多平台同步"],
+  "cons": ["免费版功能有限", "依赖网络", "部分功能需付费", "中文支持有限"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["笔记管理", "知识整理", "学习记录", "工作笔记", "个人知识库"],
+  "needsReview": []
+}

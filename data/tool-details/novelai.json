@@ -1,0 +1,28 @@
+{
+  "id": "novelai",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://novelai.net"],
+  "confidence": "high",
+  "description": "NovelAI 是一款AI创意写作和图像生成工具，专注于故事创作和动漫风格图像。支持AI续写、故事生成、角色创建等功能。图像生成以动漫风格著称，被众多二次元爱好者和创作者使用。",
+  "features": [
+    { "name": "AI续写", "desc": "AI续写故事内容", "confidence": "high", "source": "official" },
+    { "name": "故事生成", "desc": "生成完整故事", "confidence": "high", "source": "official" },
+    { "name": "动漫图像", "desc": "生成动漫风格图像", "confidence": "high", "source": "official" },
+    { "name": "角色创建", "desc": "创建和管理角色", "confidence": "high", "source": "official" },
+    { "name": "风格定制", "desc": "定制写作风格", "confidence": "high", "source": "official" },
+    { "name": "隐私保护", "desc": "内容加密存储", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Tablet", "price": "$10/月", "features": ["1000积分/月", "基础功能"], "confidence": "high", "source": "official" },
+      { "name": "Opus", "price": "$25/月", "features": ["10000积分/月", "高级功能", "优先生成"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["动漫图像风格独特", "故事续写能力强", "隐私保护好", "社区活跃", "二次元友好"],
+  "cons": ["价格较高", "免费试用有限", "依赖网络", "部分功能需付费"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["故事创作", "动漫图像", "角色设计", "创意写作", "二次元创作"],
+  "needsReview": []
+}

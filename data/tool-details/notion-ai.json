@@ -1,0 +1,50 @@
+{
+  "id": "notion-ai",
+  "fetchedAt": "2026-05-16T05:00:00Z",
+  "sources": ["https://www.notion.so/product/ai", "https://baike.baidu.com/item/Notion AI"],
+  "confidence": "high",
+  "description": "Notion AI 是由 Notion Labs Inc 于 2022 年底推出的 AI 写作助手，基于 GPT-3 模型构建。提供文本生成、润色、翻译、待办事项识别及智能文档管理功能，支持 Windows、MacOS、Android 等操作系统及 Web 端，具备跨平台协作和权限管理能力。2025 年新增 AI Meeting Notes 功能实现会议摘要自动生成并与日历系统联动存储，同时推出企业级服务 Notion AI for Work 与 Research Mode，整合 Slack、Google Drive 等 10 个外部工具数据。其知识管理模块可构建企业知识图谱，2025 年 7 月入选全球百大 AI 应用榜单。",
+  "features": [
+    { "name": "智能写作", "desc": "支持文本生成、润色、扩写、缩写、改变语气风格", "confidence": "high", "source": "baike" },
+    { "name": "语言指令", "desc": "通过自然语言指令生成文档大纲、会议记录等内容", "confidence": "high", "source": "baike" },
+    { "name": "总结提炼", "desc": "快速梳理、总结文章内容，提取关键信息", "confidence": "high", "source": "baike" },
+    { "name": "行动项识别", "desc": "自动查找页面中的所有行动项，生成复选框列表", "confidence": "high", "source": "baike" },
+    { "name": "多语言翻译", "desc": "支持任意语言之间的翻译", "confidence": "high", "source": "baike" },
+    { "name": "会议摘要", "desc": "AI Meeting Notes 自动生成会议摘要，与日历系统联动", "confidence": "high", "source": "baike" },
+    { "name": "企业知识图谱", "desc": "构建企业知识图谱，通过自然语言交互辅助内容创作", "confidence": "high", "source": "baike" },
+    { "name": "第三方集成", "desc": "整合 Slack、Google Drive、Dropbox 等 10 个外部工具", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "Notion 基础版免费，AI 功能需额外付费",
+    "plans": [
+      { "name": "Notion AI", "price": "$20/月", "features": ["AI 写作助手", "总结提炼", "翻译", "行动项识别"], "confidence": "high", "source": "baike" },
+      { "name": "Notion AI for Work", "price": "联系销售", "features": ["企业级服务", "Research Mode", "知识图谱", "高级集成"], "confidence": "high", "source": "baike" }
+    ]
+  },
+  "pros": [
+    "深度集成 Notion 生态，无缝衔接文档管理",
+    "多平台支持（Windows/Mac/iOS/Android/Web）",
+    "企业级安全认证（GDPR、CCPA）",
+    "2025 年全球百大 AI 应用（办公效率工具类）",
+    "界面简洁易用，按空格即可调出 AI",
+    "支持多种写作风格调整（专业、随意、自信等）"
+  ],
+  "cons": [
+    "AI 功能需额外付费（$20/月）",
+    "创造性相对 ChatGPT 较弱",
+    "可能存在'无中生有'的回答",
+    "对特定领域存在局限性"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "在 Notion 笔记页面按空格即可调出 AI 输入框，操作简单直观",
+  "useCases": [
+    "文档写作和润色",
+    "会议记录和摘要",
+    "多语言翻译",
+    "待办事项管理",
+    "企业知识管理",
+    "内容创作和编辑",
+    "跨平台协作"
+  ],
+  "needsReview": []
+}

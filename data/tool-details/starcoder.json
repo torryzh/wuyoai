@@ -1,0 +1,25 @@
+{
+  "id": "starcoder",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://huggingface.co/blog/starcoder"],
+  "confidence": "high",
+  "description": "StarCoder 是 BigCode 推出的开源代码生成模型，专注于代码补全和生成。基于15万亿token训练，支持80+编程语言。开源免费，被众多开发者使用，是开源代码模型的代表之一。",
+  "features": [
+    { "name": "代码生成", "desc": "AI生成代码", "confidence": "high", "source": "official" },
+    { "name": "代码补全", "desc": "智能代码补全", "confidence": "high", "source": "official" },
+    { "name": "80+语言", "desc": "支持80+编程语言", "confidence": "high", "source": "official" },
+    { "name": "开源免费", "desc": "完全开源免费", "confidence": "high", "source": "official" },
+    { "name": "本地部署", "desc": "支持本地部署", "confidence": "high", "source": "official" },
+    { "name": "BigCode出品", "desc": "BigCode社区开发", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "完全免费开源",
+    "plans": []
+  },
+  "pros": ["完全免费开源", "80+语言支持", "本地部署", "社区活跃", "代码质量高"],
+  "cons": ["需要技术背景", "依赖本地环境", "部署复杂", "部分功能需GPU"],
+  "difficulty": "hard",
+  "difficultyNote": "需要Python和深度学习基础",
+  "useCases": ["代码生成", "代码补全", "本地部署", "AI研究", "开源开发"],
+  "needsReview": []
+}

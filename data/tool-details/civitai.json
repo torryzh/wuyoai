@@ -1,0 +1,27 @@
+{
+  "id": "civitai",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://civitai.com"],
+  "confidence": "high",
+  "description": "Civitai 是一个AI模型分享社区，专注于Stable Diffusion模型。用户可以上传、下载和分享各种AI模型，包括LoRA、Checkpoints等。被众多AI绘画爱好者使用，是AI模型生态的重要平台。",
+  "features": [
+    { "name": "模型分享", "desc": "上传和下载AI模型", "confidence": "high", "source": "official" },
+    { "name": "LoRA模型", "desc": "大量LoRA模型资源", "confidence": "high", "source": "official" },
+    { "name": "社区互动", "desc": "评论、评分、分享", "confidence": "high", "source": "official" },
+    { "name": "在线生成", "desc": "支持在线生成图像", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "基础功能免费", "confidence": "high", "source": "official" },
+    { "name": "资源丰富", "desc": "海量模型资源", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础功能免费",
+    "plans": [
+      { "name": "Supporter", "price": "$5/月", "features": ["更多下载", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["模型资源丰富", "社区活跃", "免费使用", "支持在线生成", "AI绘画生态核心"],
+  "cons": ["依赖网络", "部分模型质量参差", "需要一定技术背景", "英文界面"],
+  "difficulty": "medium",
+  "difficultyNote": "需要了解Stable Diffusion基础知识",
+  "useCases": ["AI模型下载", "AI绘画", "模型分享", "学习研究", "创意设计"],
+  "needsReview": []
+}

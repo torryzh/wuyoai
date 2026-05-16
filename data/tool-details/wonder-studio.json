@@ -1,0 +1,47 @@
+{
+  "id": "wonder-studio",
+  "fetchedAt": "2026-05-16T06:00:00Z",
+  "sources": ["https://wonderdynamics.com"],
+  "confidence": "high",
+  "description": "Wonder Studio（现更名为 Autodesk Flow Studio）是一款云端 AI 驱动的 3D 工具集，可将视频素材转换为完全可控的 CG 场景。支持从文字或图像生成 3D 角色，自动绑定骨骼，放置到实景镜头中，并通过 Neural Layer 即时增强。提供相机追踪、干净底板、Alpha 遮罩等可编辑输出，支持导出到 Maya、Blender、Unreal、3ds Max 等主流 3D 工具。适用于独立创作者和 VFX 团队。",
+  "features": [
+    { "name": "AI 3D 角色生成", "desc": "从文字或图像生成 3D 角色，自动绑定骨骼", "confidence": "high", "source": "official" },
+    { "name": "实景合成", "desc": "将 3D 角色放置到实景镜头中", "confidence": "high", "source": "official" },
+    { "name": "Neural Layer", "desc": "AI 即时增强渲染效果", "confidence": "high", "source": "official" },
+    { "name": "可编辑输出", "desc": "提供相机追踪、干净底板、Alpha 遮罩等", "confidence": "high", "source": "official" },
+    { "name": "3D 资产生成", "desc": "使用 Nano Banana 模型生成图像，Trellis 2.0 转 3D", "confidence": "high", "source": "official" },
+    { "name": "多软件集成", "desc": "支持导出到 Maya、Blender、Unreal、3ds Max", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Creator", "price": "$29/月", "features": ["基础 3D 生成", "有限渲染", "水印"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$99/月", "features": ["高级 3D 生成", "无限渲染", "无水印", "商业授权"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["自定义解决方案", "团队协作", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "AI 驱动的 3D 角色生成，降低 VFX 门槛",
+    "支持主流 3D 软件导出（Maya、Blender、Unreal）",
+    "可编辑输出，保留创作控制权",
+    "云端处理，无需高端硬件",
+    "适用于独立创作者和团队"
+  ],
+  "cons": [
+    "免费试用有限",
+    "高级功能价格较高",
+    "依赖网络连接",
+    "复杂场景仍需专业调整"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "需要基本的 3D 和 VFX 知识，但 AI 大幅降低了技术门槛",
+  "useCases": [
+    "电影和视频 VFX",
+    "游戏角色制作",
+    "广告和营销内容",
+    "独立创作者 3D 内容",
+    "概念艺术和预可视化",
+    "虚拟主播和数字人"
+  ],
+  "needsReview": []
+}

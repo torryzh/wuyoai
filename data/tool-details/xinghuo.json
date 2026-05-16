@@ -1,0 +1,47 @@
+{
+  "id": "xinghuo",
+  "fetchedAt": "2026-05-16T06:00:00Z",
+  "sources": ["https://baike.baidu.com/item/讯飞星火"],
+  "confidence": "high",
+  "description": "讯飞星火是科大讯飞旗下的人工智能大模型应用，2023年5月6日发布。基于transformer神经网络结构和TB级训练数据构建，采用'1+N'架构（通用认知智能大模型与多行业专用模型结合）。具备文本生成、语言理解、知识问答、逻辑推理、数学能力、代码能力及多模态交互七大核心能力。基于全国产化算力平台'飞星一号'训练，联合华为推出星火一体机实现全栈国产化支持。2026年2月发布星火X2大模型，整体能力对标国际顶尖水平。",
+  "features": [
+    { "name": "全国产算力", "desc": "基于飞星一号全国产化算力平台训练，全栈国产化支持", "confidence": "high", "source": "baike" },
+    { "name": "七大核心能力", "desc": "文本生成、语言理解、知识问答、逻辑推理、数学、代码、多模态", "confidence": "high", "source": "baike" },
+    { "name": "深度推理", "desc": "星火X1系列支持深度推理，数学代码效果对标OpenAI o1", "confidence": "high", "source": "baike" },
+    { "name": "语音同传", "desc": "集成星火语音同传大模型，端到端语音同传时延小于5秒", "confidence": "high", "source": "baike" },
+    { "name": "多语言支持", "desc": "覆盖130多种语种，拉美、东盟等地区重点语种效果领先", "confidence": "high", "source": "baike" },
+    { "name": "行业应用", "desc": "在教育、医疗、汽车等高专业性场景提供领先技术方案", "confidence": "high", "source": "baike" },
+    { "name": "星火一体机", "desc": "联合华为推出，实现全栈国产化部署", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "基础功能免费使用",
+    "plans": [
+      { "name": "个人版", "price": "待确认", "features": ["完整功能访问", "更高用量"], "confidence": "medium", "source": "general" },
+      { "name": "企业版", "price": "按需报价", "features": ["私有化部署", "定制化服务", "技术支持"], "confidence": "medium", "source": "general" }
+    ]
+  },
+  "pros": [
+    "全国产自主可控，安全性高",
+    "中文理解能力强，针对国内场景优化",
+    "多语言支持130+语种",
+    "行业应用落地广泛",
+    "语音同传能力突出"
+  ],
+  "cons": [
+    "英文能力相对较弱",
+    "创意写作能力有待提升",
+    "部分高级功能需要付费",
+    "海外访问受限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册科大讯飞账号即可使用，支持网页端和移动端",
+  "useCases": [
+    "中文知识问答和信息查询",
+    "多语言翻译和同传",
+    "教育辅导和学习",
+    "医疗健康咨询",
+    "企业智能客服",
+    "代码编写和调试"
+  ],
+  "needsReview": []
+}

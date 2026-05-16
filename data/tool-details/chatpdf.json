@@ -1,0 +1,45 @@
+{
+  "id": "chatpdf",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.chatpdf.com", "https://baike.baidu.com/item/ChatPDF"],
+  "confidence": "high",
+  "description": "ChatPDF 是一款 AI 文档分析工具，支持与 PDF 文档对话。上传 PDF 文件后，可提问关于文档内容的问题，AI 会自动回答。支持多语言文档，被众多研究人员和学生使用。",
+  "features": [
+    { "name": "PDF 对话", "desc": "与 PDF 文档进行对话", "confidence": "high", "source": "baike" },
+    { "name": "内容提取", "desc": "自动提取文档关键信息", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持多语言文档", "confidence": "high", "source": "baike" },
+    { "name": "问答功能", "desc": "提问关于文档内容的问题", "confidence": "high", "source": "baike" },
+    { "name": "总结功能", "desc": "自动生成文档摘要", "confidence": "high", "source": "baike" },
+    { "name": "快速处理", "desc": "快速处理和分析文档", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Plus", "price": "$5/月", "features": ["无限 PDF", "高级功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "PDF 对话功能独特",
+    "多语言支持",
+    "快速处理",
+    "免费版功能丰富",
+    "界面简洁"
+  ],
+  "cons": [
+    "免费版有页数限制",
+    "复杂文档可能处理慢",
+    "依赖网络",
+    "部分格式支持有限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "上传 PDF 即可使用",
+  "useCases": [
+    "文档分析",
+    "研究论文阅读",
+    "合同审查",
+    "学习资料整理",
+    "报告总结",
+    "信息提取"
+  ],
+  "needsReview": []
+}

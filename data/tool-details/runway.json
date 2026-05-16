@@ -1,0 +1,48 @@
+{
+  "id": "runway",
+  "fetchedAt": "2026-05-16T05:30:00Z",
+  "sources": ["https://runwayml.com"],
+  "confidence": "high",
+  "description": "Runway 是一家专注于 AI 视频生成的公司，致力于构建模拟世界的人工智能。其旗舰产品 Gen-4.5 被誉为'世界上最好的视频模型'，具备最先进的运动质量、提示词遵循度和视觉保真度。公司业务涵盖媒体娱乐、机器人自主性和通用世界模型三大领域，与全球领先组织合作推进各行业发展。支持通过文字描述生成高质量视频，提供视频编辑、风格转换等功能。应用于电影制作、广告创意、社交媒体内容等领域。",
+  "features": [
+    { "name": "Gen-4.5 视频生成", "desc": "世界最佳视频模型，具备顶级运动质量和视觉保真度", "confidence": "high", "source": "official" },
+    { "name": "文字生成视频", "desc": "通过文字描述生成高质量视频内容", "confidence": "high", "source": "official" },
+    { "name": "视频编辑", "desc": "AI 驱动的视频编辑和风格转换", "confidence": "high", "source": "official" },
+    { "name": "世界模型", "desc": "GWM Worlds 交互式可探索世界模型，实时构建无限探索现实", "confidence": "high", "source": "official" },
+    { "name": "机器人模拟", "desc": "GWM Robotics 通用世界模型，模拟物理交互和机器人行为", "confidence": "high", "source": "official" },
+    { "name": "角色生成", "desc": "AI 角色生成和动画", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "新用户有少量免费试用额度",
+    "plans": [
+      { "name": "Standard", "price": "$15/月", "features": ["125 积分/月", "基础视频生成", "720p 分辨率"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$35/月", "features": ["625 积分/月", "高级视频生成", "1080p 分辨率", "无水印"], "confidence": "high", "source": "official" },
+      { "name": "Unlimited", "price": "$95/月", "features": ["无限生成", "4K 分辨率", "优先处理", "商业授权"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["自定义解决方案", "专属支持", "API 访问"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "Gen-4.5 视频质量业界领先",
+    "功能全面（生成、编辑、模拟）",
+    "应用于专业电影和广告制作",
+    "世界模型技术前沿",
+    "与全球领先组织合作"
+  ],
+  "cons": [
+    "免费额度有限",
+    "高级功能价格较高",
+    "生成速度受服务器负载影响",
+    "对复杂场景仍需多次尝试"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "注册即可使用，但需要学习提示词技巧以获得最佳效果",
+  "useCases": [
+    "电影和视频制作",
+    "广告创意和营销",
+    "社交媒体内容",
+    "概念艺术和预可视化",
+    "游戏和动画制作",
+    "机器人行为模拟"
+  ],
+  "needsReview": []
+}

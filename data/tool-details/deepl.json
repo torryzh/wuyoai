@@ -1,0 +1,28 @@
+{
+  "id": "deepl",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://www.deepl.com"],
+  "confidence": "high",
+  "description": "DeepL 是一款AI翻译工具，以翻译质量著称。基于深度学习技术，支持30+语言，翻译质量被广泛认为优于Google翻译。支持文本翻译、文档翻译、API接口。被众多专业人士和企业使用。",
+  "features": [
+    { "name": "高质量翻译", "desc": "翻译质量业界领先", "confidence": "high", "source": "official" },
+    { "name": "30+语言", "desc": "支持30+语言", "confidence": "high", "source": "official" },
+    { "name": "文档翻译", "desc": "支持整篇文档翻译", "confidence": "high", "source": "official" },
+    { "name": "API接口", "desc": "提供API接口", "confidence": "high", "source": "official" },
+    { "name": "术语表", "desc": "支持自定义术语表", "confidence": "high", "source": "official" },
+    { "name": "多平台", "desc": "网页、桌面、移动多平台", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基础翻译",
+    "plans": [
+      { "name": "Starter", "price": "$8.74/月", "features": ["无限翻译", "文档翻译", "术语表"], "confidence": "high", "source": "official" },
+      { "name": "Advanced", "price": "$28.99/月", "features": ["API访问", "团队管理", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["翻译质量业界领先", "支持文档翻译", "术语表功能", "多平台支持", "免费版够用"],
+  "cons": ["免费版有字数限制", "部分语言支持有限", "高级功能需付费", "依赖网络"],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可使用",
+  "useCases": ["文本翻译", "文档翻译", "商务翻译", "学习外语", "跨语言沟通"],
+  "needsReview": []
+}

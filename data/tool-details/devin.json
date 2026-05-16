@@ -1,0 +1,27 @@
+{
+  "id": "devin",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://devin.ai"],
+  "confidence": "high",
+  "description": "Devin 是Cognition推出的AI软件工程师，号称'世界上第一个AI软件工程师'。能够独立完成编程任务，包括代码编写、调试、测试和部署。支持自然语言描述需求，自动规划和执行开发任务。在SWE-bench测试中表现优异，被众多开发团队关注。",
+  "features": [
+    { "name": "自主编程", "desc": "独立完成编程任务", "confidence": "high", "source": "official" },
+    { "name": "任务规划", "desc": "自动规划开发任务", "confidence": "high", "source": "official" },
+    { "name": "代码调试", "desc": "自动发现和修复bug", "confidence": "high", "source": "official" },
+    { "name": "测试部署", "desc": "自动测试和部署", "confidence": "high", "source": "official" },
+    { "name": "自然语言", "desc": "自然语言描述需求", "confidence": "high", "source": "official" },
+    { "name": "持续学习", "desc": "从反馈中持续学习", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "无免费版",
+    "plans": [
+      { "name": "Team", "price": "$500/月", "features": ["完整功能", "团队协作", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["自主编程能力强", "可独立完成复杂任务", "SWE-bench表现优异", "持续学习改进", "减少人工干预"],
+  "cons": ["价格昂贵", "无免费版", "仍需人工监督", "依赖网络"],
+  "difficulty": "medium",
+  "difficultyNote": "需要一定编程背景理解其输出",
+  "useCases": ["自动化开发", "代码编写", "bug修复", "测试部署", "快速原型"],
+  "needsReview": []
+}

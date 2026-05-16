@@ -1,0 +1,45 @@
+{
+  "id": "ocr-space",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://ocr.space", "https://baike.baidu.com/item/OCR.space"],
+  "confidence": "high",
+  "description": "OCR.space 是一款在线 OCR 文字识别工具，支持从图像和 PDF 中提取文字。基于 AI 技术，识别准确率高。支持多语言识别，提供 API 接口。被众多开发者和企业使用。",
+  "features": [
+    { "name": "文字识别", "desc": "从图像和 PDF 提取文字", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持多语言文字识别", "confidence": "high", "source": "baike" },
+    { "name": "高准确率", "desc": "基于 AI 技术，识别准确", "confidence": "high", "source": "baike" },
+    { "name": "API 接口", "desc": "提供 API 接口支持集成", "confidence": "high", "source": "baike" },
+    { "name": "PDF 支持", "desc": "支持 PDF 文档识别", "confidence": "high", "source": "baike" },
+    { "name": "免费使用", "desc": "提供免费使用额度", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$5/月", "features": ["无限识别", "高级功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "识别准确率高",
+    "多语言支持",
+    "API 接口",
+    "免费使用额度",
+    "在线使用方便"
+  ],
+  "cons": [
+    "免费版有次数限制",
+    "复杂排版可能识别不准",
+    "依赖网络",
+    "部分语言支持有限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "上传图片即可使用",
+  "useCases": [
+    "文字识别",
+    "文档数字化",
+    "图片文字提取",
+    "PDF 文字提取",
+    "数据录入",
+    "信息提取"
+  ],
+  "needsReview": []
+}

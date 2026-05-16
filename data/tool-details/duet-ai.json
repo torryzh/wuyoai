@@ -1,0 +1,27 @@
+{
+  "id": "duet-ai",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://workspace.google.com/products/duet-ai"],
+  "confidence": "high",
+  "description": "Duet AI 是 Google 推出的 AI 办公助手，集成在 Google Workspace 中。支持文档写作、表格处理、演示文稿生成等功能。基于 Gemini 模型，提供智能的办公辅助。",
+  "features": [
+    { "name": "文档写作", "desc": "AI辅助文档写作", "confidence": "high", "source": "official" },
+    { "name": "表格处理", "desc": "智能表格数据分析", "confidence": "high", "source": "official" },
+    { "name": "演示文稿", "desc": "AI生成演示文稿", "confidence": "high", "source": "official" },
+    { "name": "Google集成", "desc": "深度集成Google Workspace", "confidence": "high", "source": "official" },
+    { "name": "Gemini模型", "desc": "基于Gemini大模型", "confidence": "high", "source": "official" },
+    { "name": "多场景", "desc": "覆盖多种办公场景", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "Google Workspace用户可使用",
+    "plans": [
+      { "name": "Business Standard", "price": "$14/人/月", "features": ["完整Duet AI功能", "Google Workspace"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["深度集成Google Workspace", "Gemini模型支持", "多办公场景", "团队协作", "Google生态"],
+  "cons": ["依赖Google账号", "部分功能需付费", "国内访问受限", "依赖网络"],
+  "difficulty": "easy",
+  "difficultyNote": "Google Workspace用户可直接使用",
+  "useCases": ["文档写作", "表格处理", "演示文稿", "团队协作", "办公自动化"],
+  "needsReview": []
+}

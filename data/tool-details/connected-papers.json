@@ -1,0 +1,27 @@
+{
+  "id": "connected-papers",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://www.connectedpapers.com"],
+  "confidence": "high",
+  "description": "Connected Papers 是一款学术论文可视化工具，支持以图形方式展示论文之间的引用关系。帮助研究人员快速了解研究领域的发展脉络和相关论文。被众多研究人员和学生使用。",
+  "features": [
+    { "name": "论文可视化", "desc": "图形展示论文引用关系", "confidence": "high", "source": "official" },
+    { "name": "关系图谱", "desc": "展示论文之间的关联", "confidence": "high", "source": "official" },
+    { "name": "领域探索", "desc": "快速了解研究领域", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "基础功能免费", "confidence": "high", "source": "official" },
+    { "name": "直观展示", "desc": "直观的图形界面", "confidence": "high", "source": "official" },
+    { "name": "快速检索", "desc": "快速找到相关论文", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持5张图/月",
+    "plans": [
+      { "name": "Academic", "price": "$3/月", "features": ["无限图", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["论文可视化独特", "直观展示关系", "免费版够用", "价格亲民", "学术研究利器"],
+  "cons": ["免费版有图数限制", "依赖Semantic Scholar", "部分论文可能缺失", "依赖网络"],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可使用",
+  "useCases": ["文献调研", "论文查找", "领域探索", "学术研究", "文献综述"],
+  "needsReview": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "galileo-ai",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.usegalileo.ai", "https://baike.baidu.com/item/Galileo AI"],
+  "confidence": "high",
+  "description": "Galileo AI 是一款 AI 设计工具，支持从文字描述生成高保真设计稿。基于 AI 技术，可快速生成 UI 设计、网页设计等。提供多种设计风格和模板，支持导出到 Figma 等设计工具。",
+  "features": [
+    { "name": "文字生成设计", "desc": "文字描述生成高保真设计稿", "confidence": "high", "source": "baike" },
+    { "name": "高保真", "desc": "生成高保真度的设计稿", "confidence": "high", "source": "baike" },
+    { "name": "多风格", "desc": "支持多种设计风格", "confidence": "high", "source": "baike" },
+    { "name": "模板库", "desc": "提供丰富的设计模板", "confidence": "high", "source": "baike" },
+    { "name": "Figma 导出", "desc": "支持导出到 Figma", "confidence": "high", "source": "baike" },
+    { "name": "快速生成", "desc": "快速生成设计稿", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Pro", "price": "$19/月", "features": ["无限生成", "高级功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "文字生成设计独特",
+    "高保真度",
+    "多风格支持",
+    "Figma 导出",
+    "快速生成"
+  ],
+  "cons": [
+    "免费版功能有限",
+    "复杂设计需调整",
+    "依赖网络",
+    "部分风格可能不理想"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "UI 设计",
+    "网页设计",
+    "快速原型",
+    "设计探索",
+    "创意设计",
+    "设计迭代"
+  ],
+  "needsReview": []
+}

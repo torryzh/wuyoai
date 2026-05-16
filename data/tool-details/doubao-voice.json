@@ -1,0 +1,25 @@
+{
+  "id": "doubao-voice",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.doubao.com"],
+  "confidence": "high",
+  "description": "豆包AI语音是字节跳动推出的AI语音合成工具，集成在豆包应用中。支持文本转语音、语音克隆等功能。针对中文语音优化，被众多用户使用。免费使用，界面简洁。",
+  "features": [
+    { "name": "文本转语音", "desc": "文字转自然语音", "confidence": "high", "source": "official" },
+    { "name": "多语音", "desc": "多种语音可选", "confidence": "high", "source": "official" },
+    { "name": "中文优化", "desc": "针对中文语音优化", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "免费使用", "confidence": "high", "source": "official" },
+    { "name": "简洁易用", "desc": "界面简洁，操作简单", "confidence": "high", "source": "official" },
+    { "name": "字节出品", "desc": "字节跳动出品", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费使用",
+    "plans": []
+  },
+  "pros": ["免费使用", "中文优化", "多语音选择", "简洁易用", "字节出品"],
+  "cons": ["功能相对简单", "依赖豆包App", "英文支持有限", "高级功能有限"],
+  "difficulty": "easy",
+  "difficultyNote": "豆包App内使用",
+  "useCases": ["语音合成", "有声读物", "语音助手", "学习辅助", "内容朗读"],
+  "needsReview": []
+}

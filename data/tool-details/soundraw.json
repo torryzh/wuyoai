@@ -1,0 +1,46 @@
+{
+  "id": "soundraw",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://soundraw.io", "https://baike.baidu.com/item/Soundraw"],
+  "confidence": "high",
+  "description": "Soundraw 是一款 AI 音乐生成平台，支持创建自定义的背景音乐。提供多种音乐风格、情绪、节奏等参数选择。生成的音乐可用于视频、播客、游戏等场景。支持商用授权，无版权问题。",
+  "features": [
+    { "name": "AI 音乐生成", "desc": "AI 自动生成背景音乐", "confidence": "high", "source": "baike" },
+    { "name": "多风格", "desc": "支持多种音乐风格选择", "confidence": "high", "source": "baike" },
+    { "name": "参数调整", "desc": "可调整情绪、节奏、乐器等", "confidence": "high", "source": "baike" },
+    { "name": "商用授权", "desc": "生成的音乐可商用，无版权问题", "confidence": "high", "source": "baike" },
+    { "name": "自定义", "desc": "根据需求定制音乐", "confidence": "high", "source": "baike" },
+    { "name": "快速生成", "desc": "几分钟即可生成音乐", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Personal", "price": "$16.99/月", "features": ["无限下载", "个人使用", "基础功能"], "confidence": "high", "source": "official" },
+      { "name": "Commercial", "price": "$29.99/月", "features": ["无限下载", "商业授权", "高级功能"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "AI 音乐生成质量高",
+    "商用授权无版权问题",
+    "多风格选择",
+    "快速生成",
+    "参数可调"
+  ],
+  "cons": [
+    "免费版功能有限",
+    "高级功能需付费",
+    "依赖网络",
+    "音乐风格相对固定"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "视频背景音乐",
+    "播客配乐",
+    "游戏音乐",
+    "广告配乐",
+    "个人创作",
+    "商业用途"
+  ],
+  "needsReview": []
+}

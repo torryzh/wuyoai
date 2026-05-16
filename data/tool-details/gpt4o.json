@@ -1,0 +1,44 @@
+{
+  "id": "gpt4o",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://baike.baidu.com/item/GPT-4o"],
+  "confidence": "high",
+  "description": "GPT-4o 是 OpenAI 于 2024 年 5 月 14 日推出的多模态语言模型，名称中的 o 代表 Omni（全能），标志着其支持文本、音频及图像的全模态交互能力。可实时处理 50 种语言，响应音频输入的平均时间为 320 毫秒，处理速度较前代提升 200%，API 调用成本降低 50%。采用端到端神经网络架构，实现了跨模态信息的统一处理，在数学解题、图表解读、3D 图像生成等场景中展现出突破性表现。2025 年 2 月升级至 o3 pro 智力级别，3 月推出图像生成功能。2026 年 2 月 13 日正式退役。",
+  "features": [
+    { "name": "全模态交互", "desc": "支持文本、音频、图像的全模态输入输出", "confidence": "high", "source": "baike" },
+    { "name": "50 种语言", "desc": "实时处理 50 种语言，非英语文本性能显著提高", "confidence": "high", "source": "baike" },
+    { "name": "快速响应", "desc": "音频输入响应时间 320 毫秒，处理速度提升 200%", "confidence": "high", "source": "baike" },
+    { "name": "端到端架构", "desc": "统一处理跨模态信息，非拼接式多模态", "confidence": "high", "source": "baike" },
+    { "name": "视觉解析", "desc": "支持图像理解、图表解读、3D 图像生成", "confidence": "high", "source": "baike" },
+    { "name": "免费开放", "desc": "基础版本向所有用户免费开放", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "基础版本免费，达到限额后切换到 GPT-3.5",
+    "plans": [
+      { "name": "ChatGPT Plus", "price": "$20/月", "features": ["完整 GPT-4o 访问", "更高用量", "优先响应"], "confidence": "high", "source": "baike" }
+    ]
+  },
+  "pros": [
+    "全模态交互，非拼接式多模态",
+    "处理速度提升 200%，响应极快",
+    "API 成本降低 50%，性价比高",
+    "基础版本免费开放",
+    "50 种语言支持，国际化能力强"
+  ],
+  "cons": [
+    "2026 年 2 月已正式退役",
+    "免费版有使用限额",
+    "曾遭遇性能下降事故",
+    "部分用户认为情感交互不如前代"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册 ChatGPT 即可使用，界面简洁",
+  "useCases": [
+    "多模态对话",
+    "图像理解和生成",
+    "实时语音交互",
+    "代码编写和调试",
+    "多语言翻译"
+  ],
+  "needsReview": []
+}

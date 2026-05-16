@@ -1,0 +1,47 @@
+{
+  "id": "grammarly-go",
+  "fetchedAt": "2026-05-16T06:00:00Z",
+  "sources": ["https://www.grammarly.com/ai"],
+  "confidence": "high",
+  "description": "GrammarlyGO 是 Grammarly 推出的 AI 写作助手，将 AI 能力集成到 Grammarly 的语法检查和写作辅助工具中。支持 AI 代理、AI 助手功能，可在桌面端、移动端和浏览器中使用。提供语法检查、抄袭检测、AI 检测、人性化改写、释义工具等功能。支持多种语言，适用于个人、团队和企业。被超过 500 万研究人员和众多《财富》500 强企业使用。",
+  "features": [
+    { "name": "AI 代理", "desc": "智能 AI 代理自动处理写作任务", "confidence": "high", "source": "official" },
+    { "name": "语法检查", "desc": "实时语法和拼写检查", "confidence": "high", "source": "official" },
+    { "name": "抄袭检测", "desc": "检测文本抄袭和相似内容", "confidence": "high", "source": "official" },
+    { "name": "AI 检测", "desc": "检测文本是否由 AI 生成", "confidence": "high", "source": "official" },
+    { "name": "人性化改写", "desc": "将 AI 生成的文本改写为更自然的人类风格", "confidence": "high", "source": "official" },
+    { "name": "多平台支持", "desc": "支持桌面端、移动端和浏览器", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础版免费，包含基本语法检查",
+    "plans": [
+      { "name": "Premium", "price": "$12/月", "features": ["高级语法检查", "抄袭检测", "AI 检测", "风格建议"], "confidence": "high", "source": "official" },
+      { "name": "Business", "price": "$15/人/月", "features": ["团队管理", "品牌语气", "分析仪表板", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["自定义解决方案", "高级安全", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "语法检查业界领先",
+    "多平台支持（桌面/移动/浏览器）",
+    "AI 检测功能独特",
+    "人性化改写功能实用",
+    "企业级安全和合规"
+  ],
+  "cons": [
+    "高级功能需付费",
+    "中文支持相对较弱",
+    "AI 功能相对较新",
+    "与专业写作工具相比创意辅助有限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "安装浏览器扩展或桌面应用即可使用",
+  "useCases": [
+    "商务邮件和文档写作",
+    "学术论文和作业",
+    "内容创作和编辑",
+    "团队协作写作",
+    "多语言写作辅助",
+    "AI 内容检测"
+  ],
+  "needsReview": []
+}

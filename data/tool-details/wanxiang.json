@@ -1,0 +1,46 @@
+{
+  "id": "wanxiang",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://wanxiang.aliyun.com", "https://baike.baidu.com/item/通义万相"],
+  "confidence": "high",
+  "description": "通义万相是阿里云推出的 AI 图像生成模型，是通义大模型家族的重要成员。支持文生图、图生图、图像编辑、风格迁移等功能。基于阿里云自研的扩散模型技术，生成质量高，支持中文提示词优化。深度集成阿里云生态，提供 API 接口和在线平台。广泛应用于设计、营销、教育等场景。",
+  "features": [
+    { "name": "文生图", "desc": "文字描述生成高质量图像", "confidence": "high", "source": "baike" },
+    { "name": "图生图", "desc": "基于现有图像进行风格转换和优化", "confidence": "high", "source": "baike" },
+    { "name": "图像编辑", "desc": "AI 驱动的图像编辑和修改", "confidence": "high", "source": "baike" },
+    { "name": "风格迁移", "desc": "将一种风格应用到另一张图像", "confidence": "high", "source": "baike" },
+    { "name": "中文优化", "desc": "针对中文提示词进行优化", "confidence": "high", "source": "baike" },
+    { "name": "API 接口", "desc": "提供 API 接口，支持开发者集成", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "提供免费试用额度",
+    "plans": [
+      { "name": "基础版", "price": "免费", "features": ["基础生图", "有限额度", "有水印"], "confidence": "high", "source": "official" },
+      { "name": "专业版", "price": "按量计费", "features": ["高级生图", "无限额度", "无水印", "API 访问"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "中文提示词优化，适合国内用户",
+    "深度集成阿里云生态",
+    "API 接口支持开发者",
+    "生成质量高",
+    "免费试用额度"
+  ],
+  "cons": [
+    "国际影响力有限",
+    "部分功能需要付费",
+    "依赖阿里云账号",
+    "风格相对固定"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "阿里云账号登录即可使用",
+  "useCases": [
+    "创意设计",
+    "营销素材",
+    "教育演示",
+    "品牌设计",
+    "社交媒体内容",
+    "产品展示"
+  ],
+  "needsReview": []
+}

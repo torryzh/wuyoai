@@ -1,0 +1,46 @@
+{
+  "id": "shengshu",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.shengshu-ai.com"],
+  "confidence": "high",
+  "description": "生数科技是一家专注于 AI 视频生成的公司，推出 Vidu 系列视频生成模型。支持文生视频、图生视频、视频编辑等功能。采用先进的扩散模型技术，生成质量高，时长可达 8 秒以上。广泛应用于短视频制作、广告创意、影视预览等场景。",
+  "features": [
+    { "name": "文生视频", "desc": "文字描述生成高质量视频", "confidence": "high", "source": "official" },
+    { "name": "图生视频", "desc": "图像转动态视频", "confidence": "high", "source": "official" },
+    { "name": "视频编辑", "desc": "AI 驱动的视频编辑和优化", "confidence": "high", "source": "official" },
+    { "name": "长时长", "desc": "支持 8 秒以上视频生成", "confidence": "high", "source": "official" },
+    { "name": "高质量", "desc": "先进的扩散模型技术", "confidence": "high", "source": "official" },
+    { "name": "多场景", "desc": "短视频、广告、影视预览等", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "提供免费试用额度",
+    "plans": [
+      { "name": "基础版", "price": "免费", "features": ["基础视频生成", "有限额度", "有水印"], "confidence": "high", "source": "official" },
+      { "name": "专业版", "price": "按量计费", "features": ["高级视频生成", "无限额度", "无水印"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "视频生成质量高",
+    "支持长时长视频（8 秒+）",
+    "免费试用额度",
+    "多场景应用",
+    "技术领先"
+  ],
+  "cons": [
+    "生成速度较慢",
+    "免费额度有限",
+    "复杂场景需多次尝试",
+    "依赖网络"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "注册即可使用，需要学习提示词技巧",
+  "useCases": [
+    "短视频制作",
+    "广告创意",
+    "影视预览",
+    "社交媒体内容",
+    "产品展示",
+    "创意探索"
+  ],
+  "needsReview": []
+}

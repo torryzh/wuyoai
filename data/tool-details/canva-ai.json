@@ -1,0 +1,27 @@
+{
+  "id": "canva-ai",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://www.canva.com"],
+  "confidence": "high",
+  "description": "Canva AI 是 Canva 推出的 AI 设计助手，集成在 Canva 设计平台中。支持 AI 图像生成、文案生成、设计建议等功能。深度集成 Canva 生态，被数亿用户使用，是在线设计领域的领导者。",
+  "features": [
+    { "name": "AI图像生成", "desc": "文字描述生成设计素材", "confidence": "high", "source": "official" },
+    { "name": "AI文案", "desc": "AI生成设计文案", "confidence": "high", "source": "official" },
+    { "name": "设计建议", "desc": "AI提供设计优化建议", "confidence": "high", "source": "official" },
+    { "name": "模板丰富", "desc": "海量设计模板", "confidence": "high", "source": "official" },
+    { "name": "团队协作", "desc": "支持团队协作设计", "confidence": "high", "source": "official" },
+    { "name": "Canva集成", "desc": "深度集成Canva平台", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "Canva用户可免费使用基础AI功能",
+    "plans": [
+      { "name": "Canva Pro", "price": "$12.99/月", "features": ["完整AI功能", "无限模板", "品牌套件"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["深度集成Canva", "模板丰富", "团队协作", "免费基础功能", "用户量大"],
+  "cons": ["高级功能需Pro订阅", "依赖Canva平台", "部分AI功能有限", "依赖网络"],
+  "difficulty": "easy",
+  "difficultyNote": "Canva用户可直接使用",
+  "useCases": ["平面设计", "社交媒体图片", "演示文稿", "品牌设计", "团队协作"],
+  "needsReview": []
+}

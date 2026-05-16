@@ -1,0 +1,46 @@
+{
+  "id": "zapier-ai",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://zapier.com", "https://baike.baidu.com/item/Zapier AI"],
+  "confidence": "high",
+  "description": "Zapier AI 是 Zapier 推出的 AI 自动化工具，支持通过自然语言创建自动化工作流。集成 5000+ 应用，支持跨应用数据流转。被众多企业和个人用户使用，提升工作效率。",
+  "features": [
+    { "name": "自然语言", "desc": "通过自然语言创建自动化", "confidence": "high", "source": "baike" },
+    { "name": "多应用集成", "desc": "集成 5000+ 应用", "confidence": "high", "source": "baike" },
+    { "name": "工作流自动化", "desc": "自动化跨应用工作流", "confidence": "high", "source": "baike" },
+    { "name": "AI 辅助", "desc": "AI 辅助创建和优化工作流", "confidence": "high", "source": "baike" },
+    { "name": "数据同步", "desc": "跨应用数据同步", "confidence": "high", "source": "baike" },
+    { "name": "触发器", "desc": "支持多种触发条件", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Starter", "price": "$19.99/月", "features": ["750 任务/月", "基础功能", "3 个 Premium 应用"], "confidence": "high", "source": "official" },
+      { "name": "Professional", "price": "$49/月", "features": ["2000 任务/月", "高级功能", "无限 Premium 应用"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "5000+ 应用集成",
+    "自然语言创建自动化",
+    "AI 辅助优化",
+    "跨应用数据同步",
+    "提升工作效率"
+  ],
+  "cons": [
+    "免费版任务限制",
+    "高级功能需付费",
+    "学习曲线较陡",
+    "部分应用集成有限"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "需要了解基本自动化概念",
+  "useCases": [
+    "工作流自动化",
+    "数据同步",
+    "跨应用集成",
+    "营销自动化",
+    "销售自动化",
+    "效率提升"
+  ],
+  "needsReview": []
+}

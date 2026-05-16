@@ -1,0 +1,46 @@
+{
+  "id": "sourcegraph-cody",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://sourcegraph.com/cody", "https://baike.baidu.com/item/Sourcegraph Cody"],
+  "confidence": "high",
+  "description": "Sourcegraph Cody 是一款 AI 代码助手，专注于代码理解和导航。支持代码搜索、代码解释、代码补全等功能。基于 Sourcegraph 的代码搜索技术，可快速理解大型代码库。支持多种编程语言和 IDE。",
+  "features": [
+    { "name": "代码搜索", "desc": "基于 Sourcegraph 的代码搜索技术", "confidence": "high", "source": "baike" },
+    { "name": "代码理解", "desc": "快速理解大型代码库", "confidence": "high", "source": "baike" },
+    { "name": "代码解释", "desc": "解释代码功能和逻辑", "confidence": "high", "source": "baike" },
+    { "name": "代码补全", "desc": "智能代码补全", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持多种编程语言", "confidence": "high", "source": "baike" },
+    { "name": "IDE 集成", "desc": "支持 VS Code 等主流 IDE", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$9/月", "features": ["无限补全", "高级功能", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["企业安全", "团队管理", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "代码搜索能力强",
+    "大型代码库理解",
+    "价格亲民",
+    "多语言支持",
+    "IDE 集成广泛"
+  ],
+  "cons": [
+    "免费版功能有限",
+    "依赖 Sourcegraph 平台",
+    "中文文档有限",
+    "社区较小"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "安装 IDE 插件即可使用",
+  "useCases": [
+    "代码搜索",
+    "代码理解",
+    "代码调试",
+    "大型代码库导航",
+    "团队协作",
+    "代码学习"
+  ],
+  "needsReview": []
+}

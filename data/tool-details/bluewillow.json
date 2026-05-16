@@ -1,0 +1,43 @@
+{
+  "id": "bluewillow",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.bluewillow.ai", "https://baike.baidu.com/item/BlueWillow"],
+  "confidence": "high",
+  "description": "BlueWillow 是一款 AI 图像生成工具，支持文生图功能。基于扩散模型技术，可生成高质量图像。提供多种风格选择，适合创意设计和艺术创作。",
+  "features": [
+    { "name": "文生图", "desc": "文字描述生成图像", "confidence": "high", "source": "baike" },
+    { "name": "多风格", "desc": "支持多种艺术风格", "confidence": "high", "source": "baike" },
+    { "name": "高质量", "desc": "生成高质量图像", "confidence": "high", "source": "baike" },
+    { "name": "免费使用", "desc": "提供免费使用额度", "confidence": "high", "source": "baike" },
+    { "name": "快速生成", "desc": "快速生成图像", "confidence": "high", "source": "baike" },
+    { "name": "社区分享", "desc": "支持社区分享", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费使用",
+    "plans": []
+  },
+  "pros": [
+    "免费使用",
+    "多风格支持",
+    "图像质量高",
+    "快速生成",
+    "社区活跃"
+  ],
+  "cons": [
+    "功能相对简单",
+    "依赖网络",
+    "部分风格可能有限",
+    "高级功能可能有限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面简洁",
+  "useCases": [
+    "创意设计",
+    "艺术创作",
+    "社交媒体内容",
+    "图像生成",
+    "设计探索",
+    "个人娱乐"
+  ],
+  "needsReview": []
+}

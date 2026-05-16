@@ -1,0 +1,48 @@
+{
+  "id": "claude",
+  "fetchedAt": "2026-05-16T05:00:00Z",
+  "sources": ["https://claude.ai", "https://baike.baidu.com/item/Claude"],
+  "confidence": "high",
+  "description": "Claude 是由 Anthropic 公司开发的大型语言模型家族，2023 年 3 月 15 日发布初代版本。创始团队包含 OpenAI 前核心成员及 GPT-3 开发人员，采用 Constitutional AI 训练方法，注重安全性与伦理规范。支持多模态处理、代码生成及跨模态推理，Claude 3 系列的 Opus 模型在本科/研究生知识、数学等领域基准测试中表现优于 GPT-4 和 Gemini 1.0 Ultra。2025 年 5 月发布的 Claude 4 可连续工作 7 小时，像人类完成完整工作班次。2025 年 9 月发布的 Claude Sonnet 4.5 被官方称为'世界上最好的编程模型'。",
+  "features": [
+    { "name": "超长上下文", "desc": "支持百万 Token 上下文处理，可处理超长文档和代码库", "confidence": "high", "source": "baike" },
+    { "name": "多模态处理", "desc": "支持文本、图像、代码等多种模态输入，可解析流程图与技术图纸", "confidence": "high", "source": "baike" },
+    { "name": "混合推理", "desc": "Claude 3.7 Sonnet 起支持混合推理，用户可调控'思考预算'", "confidence": "high", "source": "baike" },
+    { "name": "Claude Code", "desc": "AI 编程助手，支持 MCP 协议，可连接远程服务器", "confidence": "high", "source": "baike" },
+    { "name": "记忆功能", "desc": "可保存用户偏好和历史对话，提供个性化服务", "confidence": "high", "source": "baike" },
+    { "name": "多智能体系统", "desc": "通过多智能体协作实现复杂任务，性能提升 90.2%", "confidence": "high", "source": "baike" },
+    { "name": "长时间工作", "desc": "Claude 4 可连续工作 7 小时，完成完整工作班次", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版可使用 Claude 3.5 Haiku，支持基础对话",
+    "plans": [
+      { "name": "Pro", "price": "$20/月", "features": ["Claude 3.5 Sonnet 完整访问", "更高用量", "优先使用"], "confidence": "high", "source": "official" },
+      { "name": "Team", "price": "$25/人/月", "features": ["团队协作", "管理控制", "更高用量"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["无限用量", "企业级安全", "专属支持", "SSO"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "安全性高，采用 Constitutional AI 训练方法，产生有害输出的可能性较小",
+    "推理能力强，在多项基准测试中优于 GPT-4",
+    "支持超长上下文（百万 Token），适合处理长文档",
+    "Claude 4 可连续工作 7 小时，适合复杂任务",
+    "编程能力突出，Sonnet 4.5 被称为'最好的编程模型'"
+  ],
+  "cons": [
+    "2025 年 9 月起停止向中国资本控股企业提供服务",
+    "香港地区禁止使用",
+    "免费版功能有限",
+    "偶发服务中断（2026 年 3 月全球宕机）"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面简洁直观，支持网页端和移动端",
+  "useCases": [
+    "长文档分析和总结",
+    "代码编写和调试",
+    "多模态内容理解",
+    "复杂任务自动化",
+    "安全敏感场景的 AI 对话",
+    "学术研究和写作"
+  ],
+  "needsReview": []
+}

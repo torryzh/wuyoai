@@ -1,0 +1,25 @@
+{
+  "id": "khanmigo",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.khanacademy.org/khan-labs"],
+  "confidence": "high",
+  "description": "Khanmigo 是可汗学院推出的AI学习助手，基于GPT-4技术。提供个性化的学习辅导，支持数学、科学、编程等多个学科。以苏格拉底式教学法著称，引导学生思考而非直接给答案。",
+  "features": [
+    { "name": "个性化辅导", "desc": "根据学生水平个性化辅导", "confidence": "high", "source": "official" },
+    { "name": "苏格拉底式", "desc": "引导思考而非直接给答案", "confidence": "high", "source": "official" },
+    { "name": "多学科", "desc": "支持数学、科学、编程等", "confidence": "high", "source": "official" },
+    { "name": "作业辅导", "desc": "辅助完成作业", "confidence": "high", "source": "official" },
+    { "name": "学习追踪", "desc": "追踪学习进度", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "可汗学院用户免费", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "可汗学院用户免费",
+    "plans": []
+  },
+  "pros": ["教育场景专业", "苏格拉底式教学", "免费使用", "多学科支持", "个性化辅导"],
+  "cons": ["依赖可汗学院平台", "国内访问可能受限", "英文为主", "部分功能有限"],
+  "difficulty": "easy",
+  "difficultyNote": "可汗学院用户可直接使用",
+  "useCases": ["学习辅导", "作业帮助", "数学学习", "编程学习", "考试准备"],
+  "needsReview": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "cursor",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://cursor.sh", "https://baike.baidu.com/item/Cursor"],
+  "confidence": "high",
+  "description": "Cursor 是一款 AI 代码编辑器，基于 VS Code 构建，集成了强大的 AI 编程助手。支持代码生成、代码补全、代码解释、错误修复等功能。采用 GPT-4、Claude 等先进模型，提供智能的编程辅助。被众多开发者誉为'最好的 AI 编程工具'。",
+  "features": [
+    { "name": "AI 代码生成", "desc": "自然语言描述生成代码", "confidence": "high", "source": "baike" },
+    { "name": "代码补全", "desc": "智能代码补全和预测", "confidence": "high", "source": "baike" },
+    { "name": "代码解释", "desc": "解释代码功能和逻辑", "confidence": "high", "source": "baike" },
+    { "name": "错误修复", "desc": "自动检测和修复代码错误", "confidence": "high", "source": "baike" },
+    { "name": "多模型", "desc": "支持 GPT-4、Claude 等模型", "confidence": "high", "source": "baike" },
+    { "name": "VS Code 兼容", "desc": "基于 VS Code，兼容所有扩展", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$20/月", "features": ["无限 AI 补全", "GPT-4 访问", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Business", "price": "$40/月", "features": ["团队管理", "企业安全", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "AI 编程体验极佳",
+    "基于 VS Code，学习成本低",
+    "支持多模型（GPT-4、Claude）",
+    "代码补全准确",
+    "被誉为最好的 AI 编程工具"
+  ],
+  "cons": [
+    "Pro 版价格较高",
+    "依赖网络",
+    "部分功能需付费",
+    "中文文档有限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "VS Code 用户可直接上手",
+  "useCases": [
+    "代码编写",
+    "代码调试",
+    "代码学习",
+    "快速原型开发",
+    "团队协作",
+    "代码重构"
+  ],
+  "needsReview": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "topaz-ai",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.topazlabs.com"],
+  "confidence": "high",
+  "description": "Topaz AI 是一款专业的AI图像和视频增强工具，专注于提升图像和视频质量。支持图像放大、降噪、锐化、人脸增强等功能。被专业摄影师和视频制作者广泛使用，是图像增强领域的标杆产品。",
+  "features": [
+    { "name": "图像放大", "desc": "AI无损放大图像", "confidence": "high", "source": "official" },
+    { "name": "降噪处理", "desc": "智能去除图像噪点", "confidence": "high", "source": "official" },
+    { "name": "锐化增强", "desc": "提升图像清晰度", "confidence": "high", "source": "official" },
+    { "name": "人脸增强", "desc": "专门优化人脸细节", "confidence": "high", "source": "official" },
+    { "name": "视频增强", "desc": "支持视频质量提升", "confidence": "high", "source": "official" },
+    { "name": "批量处理", "desc": "支持批量处理", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "无免费版",
+    "plans": [
+      { "name": "Photo AI", "price": "$199/年", "features": ["图像增强全套功能", "无限使用"], "confidence": "high", "source": "official" },
+      { "name": "Video AI", "price": "$299/年", "features": ["视频增强全套功能", "无限使用"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["图像增强效果专业", "支持批量处理", "专业摄影师首选", "持续更新", "效果显著"],
+  "cons": ["价格较高", "无免费版", "依赖本地硬件", "处理速度较慢"],
+  "difficulty": "medium",
+  "difficultyNote": "需要一定的图像处理知识",
+  "useCases": ["照片修复", "图像放大", "视频增强", "专业摄影", "图像处理"],
+  "needsReview": []
+}

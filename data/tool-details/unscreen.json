@@ -1,0 +1,45 @@
+{
+  "id": "unscreen",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.unscreen.com", "https://baike.baidu.com/item/Unscreen"],
+  "confidence": "high",
+  "description": "Unscreen 是一款 AI 视频背景移除工具，支持自动移除视频背景。基于 AI 技术，可实时识别和移除背景，无需绿幕。支持视频和 GIF 格式，被众多视频创作者使用。",
+  "features": [
+    { "name": "背景移除", "desc": "自动移除视频背景", "confidence": "high", "source": "baike" },
+    { "name": "无需绿幕", "desc": "无需绿幕即可移除背景", "confidence": "high", "source": "baike" },
+    { "name": "实时处理", "desc": "实时识别和移除背景", "confidence": "high", "source": "baike" },
+    { "name": "多格式", "desc": "支持视频和 GIF 格式", "confidence": "high", "source": "baike" },
+    { "name": "高质量", "desc": "移除效果自然", "confidence": "high", "source": "baike" },
+    { "name": "API 接口", "desc": "提供 API 接口", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$9/月", "features": ["无限视频", "高清导出", "无水印"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "无需绿幕",
+    "背景移除效果好",
+    "实时处理",
+    "多格式支持",
+    "API 接口"
+  ],
+  "cons": [
+    "免费版有水印",
+    "复杂背景可能处理不完美",
+    "依赖网络",
+    "部分功能需付费"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "上传视频即可使用",
+  "useCases": [
+    "视频背景移除",
+    "视频编辑",
+    "内容创作",
+    "虚拟背景",
+    "视频制作",
+    "社交媒体内容"
+  ],
+  "needsReview": []
+}

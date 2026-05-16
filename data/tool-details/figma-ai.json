@@ -1,0 +1,46 @@
+{
+  "id": "figma-ai",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.figma.com", "https://baike.baidu.com/item/Figma AI"],
+  "confidence": "high",
+  "description": "Figma AI 是 Figma 推出的 AI 设计助手，集成在 Figma 设计工具中。支持自动生成设计稿、布局建议、组件推荐等功能。基于 AI 技术，提供智能的设计辅助，提升设计效率。",
+  "features": [
+    { "name": "自动生成", "desc": "AI 自动生成设计稿", "confidence": "high", "source": "baike" },
+    { "name": "布局建议", "desc": "智能布局和排版建议", "confidence": "high", "source": "baike" },
+    { "name": "组件推荐", "desc": "推荐合适的设计组件", "confidence": "high", "source": "baike" },
+    { "name": "Figma 集成", "desc": "深度集成 Figma 设计工具", "confidence": "high", "source": "baike" },
+    { "name": "设计优化", "desc": "AI 优化设计效果", "confidence": "high", "source": "baike" },
+    { "name": "快速迭代", "desc": "支持快速设计迭代", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "Figma 用户可免费使用基础功能",
+    "plans": [
+      { "name": "Figma Professional", "price": "$15/月", "features": ["完整 Figma 功能", "AI 辅助", "团队协作"], "confidence": "high", "source": "official" },
+      { "name": "Figma Organization", "price": "$45/月", "features": ["企业级功能", "高级安全", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "深度集成 Figma",
+    "AI 设计辅助",
+    "提升设计效率",
+    "快速迭代",
+    "专业设计工具"
+  ],
+  "cons": [
+    "依赖 Figma 账号",
+    "部分功能需付费",
+    "AI 生成可能需调整",
+    "学习曲线较陡"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "需要 Figma 使用基础",
+  "useCases": [
+    "UI 设计",
+    "网页设计",
+    "移动应用设计",
+    "原型设计",
+    "设计迭代",
+    "团队协作"
+  ],
+  "needsReview": []
+}

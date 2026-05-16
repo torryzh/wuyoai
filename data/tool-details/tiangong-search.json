@@ -1,0 +1,43 @@
+{
+  "id": "tiangong-search",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.tiangong.cn", "https://baike.baidu.com/item/天工AI搜索"],
+  "confidence": "high",
+  "description": "天工AI搜索是昆仑万维推出的AI搜索引擎，支持自然语言提问和智能回答。基于大语言模型，提供精准的搜索结果和知识问答。支持多模态搜索，包括文本、图像等。",
+  "features": [
+    { "name": "自然语言搜索", "desc": "支持自然语言提问", "confidence": "high", "source": "baike" },
+    { "name": "智能回答", "desc": "AI 生成精准回答", "confidence": "high", "source": "baike" },
+    { "name": "多模态", "desc": "支持文本、图像搜索", "confidence": "high", "source": "baike" },
+    { "name": "知识问答", "desc": "基于大模型的知识问答", "confidence": "high", "source": "baike" },
+    { "name": "实时信息", "desc": "获取实时网络信息", "confidence": "high", "source": "baike" },
+    { "name": "中文优化", "desc": "针对中文搜索优化", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费使用",
+    "plans": []
+  },
+  "pros": [
+    "免费使用",
+    "中文搜索优化",
+    "自然语言交互",
+    "多模态搜索",
+    "实时信息"
+  ],
+  "cons": [
+    "国际影响力有限",
+    "搜索结果可能不全",
+    "依赖网络",
+    "部分功能可能不稳定"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可使用",
+  "useCases": [
+    "信息搜索",
+    "知识问答",
+    "实时资讯",
+    "中文搜索",
+    "学习研究",
+    "日常查询"
+  ],
+  "needsReview": []
+}

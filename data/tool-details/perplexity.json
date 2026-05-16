@@ -1,0 +1,45 @@
+{
+  "id": "perplexity",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.perplexity.ai"],
+  "confidence": "high",
+  "description": "Perplexity 是一款AI搜索引擎，将大语言模型与实时网络搜索结合。用户提问后，AI自动搜索网络、整合信息并生成带引用的答案。支持多轮对话、学术搜索、文件分析等功能。被誉为'AI搜索的标杆'，被众多研究人员和专业人士使用。2024年估值超过90亿美元。",
+  "features": [
+    { "name": "AI搜索", "desc": "大模型+实时网络搜索，生成带引用的答案", "confidence": "high", "source": "official" },
+    { "name": "多轮对话", "desc": "支持基于搜索结果的多轮对话", "confidence": "high", "source": "official" },
+    { "name": "学术搜索", "desc": "专门的学术论文搜索模式", "confidence": "high", "source": "official" },
+    { "name": "文件分析", "desc": "支持上传文件进行分析", "confidence": "high", "source": "official" },
+    { "name": "来源引用", "desc": "每个回答都附带来源链接", "confidence": "high", "source": "official" },
+    { "name": "Pro搜索", "desc": "更深入的搜索和分析", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本搜索",
+    "plans": [
+      { "name": "Pro", "price": "$20/月", "features": ["无限Pro搜索", "GPT-4/Claude模型", "文件上传", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "搜索结果带引用，可溯源",
+    "整合多个信息源，答案全面",
+    "支持学术搜索",
+    "界面简洁，体验流畅",
+    "免费版功能够用"
+  ],
+  "cons": [
+    "国内访问受限",
+    "Pro版价格较高",
+    "部分搜索结果可能不准确",
+    "依赖网络连接"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可使用，无需注册",
+  "useCases": [
+    "信息搜索和研究",
+    "学术论文查找",
+    "新闻和时事查询",
+    "技术问题解答",
+    "文件分析",
+    "深度研究"
+  ],
+  "needsReview": []
+}

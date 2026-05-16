@@ -1,0 +1,43 @@
+{
+  "id": "tongyi-lingma",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://tongyi.aliyun.com/lingma", "https://baike.baidu.com/item/通义灵码"],
+  "confidence": "high",
+  "description": "通义灵码是阿里云推出的 AI 代码助手，基于通义大模型。支持代码生成、代码补全、代码解释、错误修复等功能。深度集成阿里云生态，提供智能的编程辅助。支持多种编程语言和 IDE。",
+  "features": [
+    { "name": "AI 代码生成", "desc": "自然语言描述生成代码", "confidence": "high", "source": "baike" },
+    { "name": "代码补全", "desc": "智能代码补全和预测", "confidence": "high", "source": "baike" },
+    { "name": "代码解释", "desc": "解释代码功能和逻辑", "confidence": "high", "source": "baike" },
+    { "name": "错误修复", "desc": "自动检测和修复代码错误", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持多种编程语言", "confidence": "high", "source": "baike" },
+    { "name": "阿里云集成", "desc": "深度集成阿里云生态", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费使用",
+    "plans": []
+  },
+  "pros": [
+    "完全免费使用",
+    "中文优化",
+    "阿里云生态集成",
+    "多语言支持",
+    "持续更新"
+  ],
+  "cons": [
+    "国际影响力有限",
+    "依赖阿里账号",
+    "功能相对简单",
+    "社区较小"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "阿里云账号登录即可使用",
+  "useCases": [
+    "代码编写",
+    "代码调试",
+    "代码学习",
+    "快速开发",
+    "阿里云开发",
+    "团队协作"
+  ],
+  "needsReview": []
+}

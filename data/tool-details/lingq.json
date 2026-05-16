@@ -1,0 +1,27 @@
+{
+  "id": "lingq",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://www.lingq.com"],
+  "confidence": "high",
+  "description": "LingQ 是一款AI语言学习平台，支持通过阅读和听力学习语言。基于AI技术，提供个性化学习内容和词汇追踪。支持多种语言，被众多语言学习者使用。",
+  "features": [
+    { "name": "阅读学习", "desc": "通过阅读学习语言", "confidence": "high", "source": "official" },
+    { "name": "听力学习", "desc": "通过听力学习语言", "confidence": "high", "source": "official" },
+    { "name": "词汇追踪", "desc": "AI追踪学习词汇", "confidence": "high", "source": "official" },
+    { "name": "个性化", "desc": "个性化学习内容", "confidence": "high", "source": "official" },
+    { "name": "多语言", "desc": "支持多种语言", "confidence": "high", "source": "official" },
+    { "name": "内容丰富", "desc": "丰富的学习内容", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基础功能",
+    "plans": [
+      { "name": "Premium", "price": "$12.99/月", "features": ["无限学习", "所有功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["阅读学习方法独特", "词汇追踪准确", "多语言支持", "内容丰富", "个性化学习"],
+  "cons": ["价格较高", "免费版功能有限", "依赖网络", "部分语言支持有限"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["语言学习", "阅读学习", "听力学习", "词汇积累", "考试准备"],
+  "needsReview": []
+}

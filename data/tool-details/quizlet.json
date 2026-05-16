@@ -1,0 +1,27 @@
+{
+  "id": "quizlet",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://quizlet.com"],
+  "confidence": "high",
+  "description": "Quizlet 是一款流行的学习工具，支持创建和分享学习卡片。AI功能可自动生成学习卡片和练习题。被数亿学生和教师使用，是学习领域的领导者。",
+  "features": [
+    { "name": "学习卡片", "desc": "创建和分享学习卡片", "confidence": "high", "source": "official" },
+    { "name": "AI生成", "desc": "AI自动生成学习卡片", "confidence": "high", "source": "official" },
+    { "name": "多种模式", "desc": "学习、测试、匹配等多种模式", "confidence": "high", "source": "official" },
+    { "name": "社区分享", "desc": "分享和发现学习集", "confidence": "high", "source": "official" },
+    { "name": "多平台", "desc": "网页和移动应用", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "基础功能免费", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础功能免费",
+    "plans": [
+      { "name": "Plus", "price": "$3.99/月", "features": ["无广告", "离线学习", "高级功能"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["学习工具领导者", "AI生成卡片", "社区活跃", "免费版够用", "多平台支持"],
+  "cons": ["高级功能需付费", "依赖网络", "部分功能有广告", "中文支持有限"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["学习记忆", "考试复习", "语言学习", "知识整理", "教学辅助"],
+  "needsReview": []
+}

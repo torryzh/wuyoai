@@ -1,0 +1,46 @@
+{
+  "id": "copilot-microsoft",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://copilot.microsoft.com", "https://baike.baidu.com/item/Microsoft Copilot"],
+  "confidence": "high",
+  "description": "Microsoft Copilot 是微软推出的 AI 助手，集成在 Windows、Office、Edge 等产品中。支持对话、写作、编程、图像生成等多种功能。基于 GPT-4 和 DALL-E 模型，提供智能的 AI 辅助。",
+  "features": [
+    { "name": "Windows 集成", "desc": "深度集成 Windows 系统", "confidence": "high", "source": "baike" },
+    { "name": "Office 集成", "desc": "集成 Word、Excel、PowerPoint 等", "confidence": "high", "source": "baike" },
+    { "name": "对话功能", "desc": "支持自然语言对话", "confidence": "high", "source": "baike" },
+    { "name": "写作辅助", "desc": "AI 写作和内容生成", "confidence": "high", "source": "baike" },
+    { "name": "图像生成", "desc": "基于 DALL-E 的图像生成", "confidence": "high", "source": "baike" },
+    { "name": "编程辅助", "desc": "代码生成和调试", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Copilot Pro", "price": "$20/月", "features": ["GPT-4 访问", "Office 集成", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Microsoft 365 Copilot", "price": "$30/人/月", "features": ["完整 Office 集成", "企业安全", "团队协作"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "深度集成微软生态",
+    "多场景应用",
+    "GPT-4 和 DALL-E 支持",
+    "免费版功能丰富",
+    "持续更新"
+  ],
+  "cons": [
+    "依赖微软账号",
+    "部分功能需付费",
+    "国内访问可能受限",
+    "隐私 concerns"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "微软账号登录即可使用",
+  "useCases": [
+    "日常对话",
+    "写作辅助",
+    "Office 文档处理",
+    "图像生成",
+    "编程辅助",
+    "信息查询"
+  ],
+  "needsReview": []
+}

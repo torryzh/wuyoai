@@ -1,0 +1,45 @@
+{
+  "id": "magicul",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://magicul.io", "https://baike.baidu.com/item/Magicul"],
+  "confidence": "high",
+  "description": "Magicul 是一款 AI 设计工具，支持从文字描述生成 UI 设计和网页设计。基于 AI 技术，可快速生成专业设计稿。提供多种设计模板和风格，支持导出到 Figma 等工具。",
+  "features": [
+    { "name": "文字生成设计", "desc": "文字描述生成 UI 设计", "confidence": "high", "source": "baike" },
+    { "name": "多模板", "desc": "提供多种设计模板", "confidence": "high", "source": "baike" },
+    { "name": "快速生成", "desc": "快速生成设计稿", "confidence": "high", "source": "baike" },
+    { "name": "Figma 导出", "desc": "支持导出到 Figma", "confidence": "high", "source": "baike" },
+    { "name": "专业设计", "desc": "生成专业级设计", "confidence": "high", "source": "baike" },
+    { "name": "多风格", "desc": "支持多种设计风格", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Pro", "price": "$12/月", "features": ["无限生成", "高级功能", "Figma 导出"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "文字生成设计独特",
+    "快速生成",
+    "Figma 导出",
+    "专业设计质量",
+    "多模板选择"
+  ],
+  "cons": [
+    "免费试用有限",
+    "复杂设计需调整",
+    "依赖网络",
+    "部分功能需付费"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "UI 设计",
+    "网页设计",
+    "快速原型",
+    "设计探索",
+    "创意设计",
+    "设计迭代"
+  ],
+  "needsReview": []
+}

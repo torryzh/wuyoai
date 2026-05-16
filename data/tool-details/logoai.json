@@ -1,0 +1,46 @@
+{
+  "id": "logoai",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://logo.ai", "https://baike.baidu.com/item/LogoAI"],
+  "confidence": "high",
+  "description": "LogoAI 是一款 AI Logo 设计工具，支持从文字描述生成专业 Logo。基于 AI 技术，可快速生成多种 Logo 方案。提供多种设计风格和颜色选择，支持导出多种格式。",
+  "features": [
+    { "name": "AI Logo 生成", "desc": "文字描述生成专业 Logo", "confidence": "high", "source": "baike" },
+    { "name": "多方案", "desc": "生成多种 Logo 方案", "confidence": "high", "source": "baike" },
+    { "name": "多风格", "desc": "支持多种设计风格", "confidence": "high", "source": "baike" },
+    { "name": "颜色选择", "desc": "提供丰富的颜色选择", "confidence": "high", "source": "baike" },
+    { "name": "多格式导出", "desc": "支持导出 PNG、SVG 等格式", "confidence": "high", "source": "baike" },
+    { "name": "快速生成", "desc": "快速生成 Logo 设计", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Basic", "price": "$29", "features": ["基础 Logo", "PNG 格式", "有水印"], "confidence": "high", "source": "official" },
+      { "name": "Premium", "price": "$59", "features": ["高级 Logo", "多格式", "无水印", "商用授权"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "AI Logo 生成快速",
+    "多方案选择",
+    "多风格支持",
+    "多格式导出",
+    "价格相对亲民"
+  ],
+  "cons": [
+    "免费版有水印",
+    "复杂 Logo 需人工调整",
+    "依赖网络",
+    "部分风格可能不理想"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "输入品牌名称即可使用",
+  "useCases": [
+    "品牌 Logo 设计",
+    "创业公司品牌",
+    "个人品牌",
+    "活动 Logo",
+    "快速设计",
+    "设计探索"
+  ],
+  "needsReview": []
+}

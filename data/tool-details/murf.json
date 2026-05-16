@@ -1,0 +1,47 @@
+{
+  "id": "murf",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://murf.ai", "https://baike.baidu.com/item/Murf AI"],
+  "confidence": "high",
+  "description": "Murf AI 是一款专业的 AI 语音合成平台，支持 20+ 语言和 120+ 语音。提供高质量的文本转语音、语音克隆、配音等功能。广泛应用于视频配音、播客、有声读物、教育内容等场景。支持语音风格调整、情感控制、语速调节等高级功能。",
+  "features": [
+    { "name": "多语言", "desc": "支持 20+ 语言和 120+ 语音", "confidence": "high", "source": "baike" },
+    { "name": "高质量语音", "desc": "自然流畅的语音合成", "confidence": "high", "source": "baike" },
+    { "name": "语音克隆", "desc": "克隆特定人物的语音", "confidence": "high", "source": "baike" },
+    { "name": "情感控制", "desc": "调整语音的情感和语气", "confidence": "high", "source": "baike" },
+    { "name": "语速调节", "desc": "灵活调整语音速度", "confidence": "high", "source": "baike" },
+    { "name": "API 接口", "desc": "提供 API 接口支持集成", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Creator", "price": "$26/月", "features": ["2 小时语音/月", "基础语音", "有水印"], "confidence": "high", "source": "official" },
+      { "name": "Business", "price": "$79/月", "features": ["5 小时语音/月", "高级语音", "无水印", "语音克隆"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["无限语音", "API 访问", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "语音质量高，自然流畅",
+    "20+ 语言支持",
+    "情感控制功能",
+    "API 接口支持",
+    "多场景应用"
+  ],
+  "cons": [
+    "免费版有水印",
+    "高级功能价格较高",
+    "依赖网络",
+    "部分语言支持有限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "视频配音",
+    "播客制作",
+    "有声读物",
+    "教育内容",
+    "产品演示",
+    "多语言内容"
+  ],
+  "needsReview": []
+}

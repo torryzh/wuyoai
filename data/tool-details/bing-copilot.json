@@ -1,0 +1,45 @@
+{
+  "id": "bing-copilot",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://copilot.microsoft.com"],
+  "confidence": "high",
+  "description": "Bing Copilot（现Microsoft Copilot）是微软推出的AI助手，集成在Bing搜索和Edge浏览器中。基于GPT-4模型，支持对话问答、内容生成、图像创建等功能。深度集成微软生态，可免费使用。被全球数亿用户使用，是访问GPT-4能力的免费途径之一。",
+  "features": [
+    { "name": "AI搜索", "desc": "基于GPT-4的智能搜索问答", "confidence": "high", "source": "official" },
+    { "name": "内容生成", "desc": "支持文章、邮件、代码等内容生成", "confidence": "high", "source": "official" },
+    { "name": "图像创建", "desc": "基于DALL-E的AI图像生成", "confidence": "high", "source": "official" },
+    { "name": "免费GPT-4", "desc": "免费使用GPT-4能力", "confidence": "high", "source": "official" },
+    { "name": "Edge集成", "desc": "深度集成Edge浏览器", "confidence": "high", "source": "official" },
+    { "name": "多模态", "desc": "支持文本、图像、语音交互", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费使用",
+    "plans": [
+      { "name": "Copilot Pro", "price": "$20/月", "features": ["GPT-4 Turbo", "Office集成", "优先访问"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "免费使用GPT-4能力",
+    "深度集成微软生态",
+    "支持图像生成",
+    "访问稳定，国内可用",
+    "持续更新迭代"
+  ],
+  "cons": [
+    "国内版本功能可能受限",
+    "Pro版价格较高",
+    "依赖微软账号",
+    "部分功能需Edge浏览器"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可使用，微软账号登录",
+  "useCases": [
+    "智能搜索问答",
+    "内容生成和写作",
+    "图像创建",
+    "代码辅助",
+    "学习研究",
+    "日常助手"
+  ],
+  "needsReview": []
+}

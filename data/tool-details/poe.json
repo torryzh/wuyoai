@@ -1,0 +1,27 @@
+{
+  "id": "poe",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://poe.com"],
+  "confidence": "high",
+  "description": "Poe 是 Quora 推出的AI对话平台，提供多种AI模型的统一访问界面。用户可以在一个平台上使用ChatGPT、Claude、Gemini等多种AI模型。支持创建自定义机器人，被众多AI爱好者使用。",
+  "features": [
+    { "name": "多模型", "desc": "统一访问多种AI模型", "confidence": "high", "source": "official" },
+    { "name": "自定义机器人", "desc": "创建自定义AI机器人", "confidence": "high", "source": "official" },
+    { "name": "社区分享", "desc": "分享和发现机器人", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "基础功能免费", "confidence": "high", "source": "official" },
+    { "name": "多平台", "desc": "网页和移动应用", "confidence": "high", "source": "official" },
+    { "name": "Quora出品", "desc": "Quora公司出品", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版有每日限额",
+    "plans": [
+      { "name": "Subscriber", "price": "$19.99/月", "features": ["无限使用", "所有模型", "优先响应"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["多模型统一访问", "自定义机器人", "免费版可用", "社区活跃", "Quora出品"],
+  "cons": ["国内访问受限", "免费版有限额", "部分模型需付费", "依赖网络"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["AI对话", "模型对比", "机器人创建", "学习研究", "内容创作"],
+  "needsReview": []
+}

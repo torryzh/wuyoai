@@ -1,0 +1,45 @@
+{
+  "id": "yuanfudao-ai",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.yuanfudao.com", "https://baike.baidu.com/item/猿辅导AI"],
+  "confidence": "high",
+  "description": "猿辅导AI是猿辅导推出的 AI 教育工具，支持作业批改、题目解析、学习辅导等功能。基于 AI 技术，可智能分析学生学习情况。提供个性化学习建议，被众多学生和家长使用。",
+  "features": [
+    { "name": "作业批改", "desc": "AI 自动批改作业", "confidence": "high", "source": "baike" },
+    { "name": "题目解析", "desc": "智能解析题目答案", "confidence": "high", "source": "baike" },
+    { "name": "学习辅导", "desc": "提供个性化学习辅导", "confidence": "high", "source": "baike" },
+    { "name": "学情分析", "desc": "分析学生学习情况", "confidence": "high", "source": "baike" },
+    { "name": "个性化", "desc": "提供个性化学习建议", "confidence": "high", "source": "baike" },
+    { "name": "多学科", "desc": "支持多学科辅导", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "VIP", "price": "¥198/年", "features": ["无限使用", "高级功能", "专属辅导"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "教育场景优化",
+    "作业批改准确",
+    "个性化辅导",
+    "多学科支持",
+    "免费版功能丰富"
+  ],
+  "cons": [
+    "免费版有次数限制",
+    "高级功能需付费",
+    "依赖网络",
+    "部分功能可能不稳定"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "作业批改",
+    "题目解析",
+    "学习辅导",
+    "学情分析",
+    "个性化学习",
+    "家庭教育"
+  ],
+  "needsReview": []
+}

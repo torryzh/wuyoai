@@ -1,0 +1,25 @@
+{
+  "id": "meta-ai-research",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://ai.meta.com/research"],
+  "confidence": "high",
+  "description": "Meta AI Research 是Meta的AI研究部门，发布Llama、SAM、AudioCraft等突破性研究成果。提供研究论文、开源项目、技术博客等资源。是AI研究领域的重要参考。",
+  "features": [
+    { "name": "前沿研究", "desc": "AI领域前沿研究成果", "confidence": "high", "source": "official" },
+    { "name": "开源项目", "desc": "Llama、SAM等开源项目", "confidence": "high", "source": "official" },
+    { "name": "论文发布", "desc": "发布研究论文", "confidence": "high", "source": "official" },
+    { "name": "技术博客", "desc": "技术博客和研究解读", "confidence": "high", "source": "official" },
+    { "name": "免费资源", "desc": "完全免费", "confidence": "high", "source": "official" },
+    { "name": "学术影响", "desc": "AI研究领域权威", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "完全免费",
+    "plans": []
+  },
+  "pros": ["AI研究权威", "开源项目丰富", "免费资源", "学术影响力大", "持续更新"],
+  "cons": ["内容专业", "依赖网络", "部分研究不完整", "英文为主"],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可阅读",
+  "useCases": ["AI研究", "技术学习", "论文阅读", "开源项目", "行业趋势"],
+  "needsReview": []
+}

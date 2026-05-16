@@ -1,0 +1,27 @@
+{
+  "id": "feishu-minutes",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://www.feishu.cn"],
+  "confidence": "high",
+  "description": "飞书妙计是字节跳动推出的AI会议记录工具，集成在飞书办公套件中。支持实时转录、会议摘要、行动项提取等功能。深度集成飞书生态，被众多企业团队使用。",
+  "features": [
+    { "name": "实时转录", "desc": "实时转录会议内容", "confidence": "high", "source": "official" },
+    { "name": "会议摘要", "desc": "自动生成会议摘要", "confidence": "high", "source": "official" },
+    { "name": "行动项", "desc": "自动提取行动项", "confidence": "high", "source": "official" },
+    { "name": "飞书集成", "desc": "深度集成飞书生态", "confidence": "high", "source": "official" },
+    { "name": "多语言", "desc": "支持多语言转录", "confidence": "high", "source": "official" },
+    { "name": "搜索功能", "desc": "支持会议内容搜索", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "飞书用户可免费使用基础功能",
+    "plans": [
+      { "name": "企业版", "price": "按需报价", "features": ["完整功能", "企业管理", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["深度集成飞书", "中文转录准确", "免费基础功能", "团队协作", "企业级安全"],
+  "cons": ["依赖飞书平台", "部分功能需付费", "依赖网络", "仅限飞书用户"],
+  "difficulty": "easy",
+  "difficultyNote": "飞书用户可直接使用",
+  "useCases": ["会议记录", "会议总结", "行动项提取", "团队协作", "企业办公"],
+  "needsReview": []
+}

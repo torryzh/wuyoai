@@ -1,0 +1,46 @@
+{
+  "id": "sora",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://openai.com/sora"],
+  "confidence": "high",
+  "description": "Sora 是 OpenAI 推出的AI视频生成模型，能够根据文字描述生成高质量视频。支持文生视频、图生视频、视频编辑等功能。2024年2月首次展示，12月向ChatGPT Plus/Pro用户开放。2025年经历下架风波后重新上线。视频质量业界领先，可生成长达1分钟的连贯视频，被视频创作者和专业人士广泛关注。",
+  "features": [
+    { "name": "文生视频", "desc": "根据文字描述生成高质量视频", "confidence": "high", "source": "official" },
+    { "name": "图生视频", "desc": "将静态图像转为动态视频", "confidence": "high", "source": "official" },
+    { "name": "长视频", "desc": "可生成长达1分钟的连贯视频", "confidence": "high", "source": "official" },
+    { "name": "物理模拟", "desc": "理解物理规律，生成逼真运动", "confidence": "high", "source": "official" },
+    { "name": "视频编辑", "desc": "支持视频拼接、剪辑等操作", "confidence": "high", "source": "official" },
+    { "name": "ChatGPT集成", "desc": "在ChatGPT中直接使用", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "ChatGPT Plus用户可使用",
+    "plans": [
+      { "name": "ChatGPT Plus", "price": "$20/月", "features": ["基础视频生成", "有限额度"], "confidence": "high", "source": "official" },
+      { "name": "ChatGPT Pro", "price": "$200/月", "features": ["更多视频生成额度", "优先处理"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "视频质量业界领先",
+    "理解物理规律，运动逼真",
+    "支持长视频生成（1分钟）",
+    "集成ChatGPT，使用方便",
+    "OpenAI出品，持续更新"
+  ],
+  "cons": [
+    "国内访问受限",
+    "需要ChatGPT Plus订阅",
+    "生成速度较慢",
+    "复杂场景仍有瑕疵"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "ChatGPT Plus用户可直接在ChatGPT中使用",
+  "useCases": [
+    "短视频创作",
+    "广告和营销视频",
+    "概念视频预览",
+    "社交媒体内容",
+    "创意探索",
+    "视频制作"
+  ],
+  "needsReview": []
+}

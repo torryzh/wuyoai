@@ -1,0 +1,45 @@
+{
+  "id": "huolongguo",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.huolongguo.com", "https://baike.baidu.com/item/火龙果写作"],
+  "confidence": "high",
+  "description": "火龙果写作是一款 AI 写作辅助工具，支持文章生成、改写、润色等功能。基于大语言模型，提供智能的写作辅助。支持多种写作场景，被众多写作者使用。",
+  "features": [
+    { "name": "文章生成", "desc": "AI 生成文章内容", "confidence": "high", "source": "baike" },
+    { "name": "文章改写", "desc": "智能改写和优化文章", "confidence": "high", "source": "baike" },
+    { "name": "文章润色", "desc": "润色文章语言表达", "confidence": "high", "source": "baike" },
+    { "name": "多场景", "desc": "支持多种写作场景", "confidence": "high", "source": "baike" },
+    { "name": "中文优化", "desc": "针对中文写作优化", "confidence": "high", "source": "baike" },
+    { "name": "快速生成", "desc": "快速生成文章", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "VIP", "price": "¥98/年", "features": ["无限生成", "高级功能", "无广告"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "中文写作优化",
+    "多写作场景支持",
+    "快速生成",
+    "免费版功能丰富",
+    "界面友好"
+  ],
+  "cons": [
+    "免费版有次数限制",
+    "高级功能需付费",
+    "依赖网络",
+    "部分功能可能不稳定"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "文章写作",
+    "内容创作",
+    "文章改写",
+    "文案撰写",
+    "写作辅助",
+    "学习写作"
+  ],
+  "needsReview": []
+}

@@ -2,6 +2,7 @@
 const { t } = useI18n()
 const { query, isOpen, results, open, close } = useSearch()
 const router = useRouter()
+const localePath = useLocalePath()
 
 const onKeydown = (e: KeyboardEvent) => {
   if (e.key === 'Escape') close()
@@ -9,16 +10,22 @@ const onKeydown = (e: KeyboardEvent) => {
 
 const goToTool = (id: string) => {
   close()
-  router.push(`/tools/${id}`)
+  router.push(localePath(`/tools/${id}`))
+}
+
+const handleKeydown = (e: KeyboardEvent) => {
+  if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+    e.preventDefault()
+    open()
+  }
 }
 
 onMounted(() => {
-  document.addEventListener('keydown', (e) => {
-    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-      e.preventDefault()
-      open()
-    }
-  })
+  document.addEventListener('keydown', handleKeydown)
+})
+
+onUnmounted(() => {
+  document.removeEventListener('keydown', handleKeydown)
 })
 </script>
 

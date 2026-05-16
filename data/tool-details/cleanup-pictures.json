@@ -1,0 +1,45 @@
+{
+  "id": "cleanup-pictures",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://cleanup.pictures", "https://baike.baidu.com/item/Cleanup.pictures"],
+  "confidence": "high",
+  "description": "Cleanup.pictures 是一款 AI 图像清理工具，支持移除图像中不需要的元素。基于 AI 技术，可智能填充移除区域，保持图像自然。支持移除人物、物体、文字、瑕疵等。操作简单，效果出色。",
+  "features": [
+    { "name": "元素移除", "desc": "移除图像中不需要的元素", "confidence": "high", "source": "baike" },
+    { "name": "智能填充", "desc": "AI 智能填充移除区域", "confidence": "high", "source": "baike" },
+    { "name": "多类型", "desc": "支持移除人物、物体、文字等", "confidence": "high", "source": "baike" },
+    { "name": "自然效果", "desc": "保持图像自然，无痕迹", "confidence": "high", "source": "baike" },
+    { "name": "操作简单", "desc": "涂抹即可移除", "confidence": "high", "source": "baike" },
+    { "name": "高质量", "desc": "处理后图像质量高", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$5/月", "features": ["无限处理", "高清导出", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "移除效果自然",
+    "操作简单易用",
+    "多类型元素支持",
+    "处理速度快",
+    "免费版功能丰富"
+  ],
+  "cons": [
+    "免费版有次数限制",
+    "复杂背景可能处理不完美",
+    "依赖网络",
+    "部分功能需付费"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "上传图片，涂抹需要移除的区域即可",
+  "useCases": [
+    "照片清理",
+    "背景移除",
+    "瑕疵修复",
+    "水印去除",
+    "图像优化",
+    "电商图片处理"
+  ],
+  "needsReview": []
+}

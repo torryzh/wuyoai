@@ -1,0 +1,28 @@
+{
+  "id": "seaart",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.seaart.ai"],
+  "confidence": "high",
+  "description": "SeaArt 是一款AI图像生成工具，支持文生图、图生图、图像编辑等功能。提供多种AI模型和风格，支持训练自定义模型。以易用性和丰富的社区资源著称，被众多AI绘画爱好者使用。",
+  "features": [
+    { "name": "文生图", "desc": "文字描述生成图像", "confidence": "high", "source": "official" },
+    { "name": "图生图", "desc": "基于图像生成新图", "confidence": "high", "source": "official" },
+    { "name": "多模型", "desc": "多种AI模型可选", "confidence": "high", "source": "official" },
+    { "name": "自定义模型", "desc": "训练专属AI模型", "confidence": "high", "source": "official" },
+    { "name": "社区资源", "desc": "丰富的社区资源", "confidence": "high", "source": "official" },
+    { "name": "免费额度", "desc": "提供免费使用额度", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版有每日额度",
+    "plans": [
+      { "name": "Basic", "price": "$9.9/月", "features": ["更多额度", "无水印"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$29.9/月", "features": ["无限额度", "优先生成"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["易用性好", "社区资源丰富", "多模型选择", "免费额度充足", "支持自定义模型"],
+  "cons": ["依赖网络", "部分功能需付费", "英文界面", "复杂场景需调整"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["AI绘画", "创意设计", "社交媒体内容", "模型训练", "艺术创作"],
+  "needsReview": []
+}

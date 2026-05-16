@@ -1,0 +1,28 @@
+{
+  "id": "outranking",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.outranking.io"],
+  "confidence": "high",
+  "description": "Outranking 是一款AI SEO内容优化工具，支持内容规划、写作、优化等功能。基于AI技术，提供关键词研究、内容评分、竞争对手分析等功能。被众多SEO专家和内容营销团队使用。",
+  "features": [
+    { "name": "内容规划", "desc": "AI驱动的内容规划", "confidence": "high", "source": "official" },
+    { "name": "内容写作", "desc": "AI辅助内容写作", "confidence": "high", "source": "official" },
+    { "name": "SEO优化", "desc": "内容SEO评分和建议", "confidence": "high", "source": "official" },
+    { "name": "关键词研究", "desc": "AI关键词研究", "confidence": "high", "source": "official" },
+    { "name": "竞争对手分析", "desc": "分析竞争对手内容", "confidence": "high", "source": "official" },
+    { "name": "内容评分", "desc": "内容质量评分", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "无免费版",
+    "plans": [
+      { "name": "Starter", "price": "$49/月", "features": ["基础功能", "有限文章"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$99/月", "features": ["高级功能", "无限文章"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["SEO优化专业", "内容规划全面", "竞争对手分析", "内容评分准确", "适合营销团队"],
+  "cons": ["价格较高", "无免费版", "学习曲线较陡", "依赖网络"],
+  "difficulty": "medium",
+  "difficultyNote": "需要SEO基础知识",
+  "useCases": ["SEO内容优化", "内容营销", "关键词研究", "竞争对手分析", "内容规划"],
+  "needsReview": []
+}

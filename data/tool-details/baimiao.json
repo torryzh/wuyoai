@@ -1,0 +1,45 @@
+{
+  "id": "baimiao",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://baimiao.91aiji.com", "https://baike.baidu.com/item/白描"],
+  "confidence": "high",
+  "description": "白描是一款国产 OCR 文字识别工具，支持从图像中提取文字。基于 AI 技术，识别准确率高，特别针对中文优化。支持批量识别、表格识别、公式识别等功能。提供网页版、桌面版、移动版。",
+  "features": [
+    { "name": "文字识别", "desc": "从图像提取文字", "confidence": "high", "source": "baike" },
+    { "name": "中文优化", "desc": "针对中文识别优化", "confidence": "high", "source": "baike" },
+    { "name": "批量识别", "desc": "支持批量图像识别", "confidence": "high", "source": "baike" },
+    { "name": "表格识别", "desc": "支持表格结构识别", "confidence": "high", "source": "baike" },
+    { "name": "公式识别", "desc": "支持数学公式识别", "confidence": "high", "source": "baike" },
+    { "name": "多平台", "desc": "网页、桌面、移动多平台", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "VIP", "price": "¥68/年", "features": ["无限识别", "高级功能", "无广告"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "中文识别准确",
+    "批量识别支持",
+    "表格识别",
+    "公式识别",
+    "多平台支持"
+  ],
+  "cons": [
+    "免费版有次数限制",
+    "高级功能需付费",
+    "依赖网络",
+    "部分复杂排版识别不准"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "上传图片即可使用",
+  "useCases": [
+    "文字识别",
+    "中文 OCR",
+    "表格识别",
+    "公式识别",
+    "文档数字化",
+    "数据录入"
+  ],
+  "needsReview": []
+}

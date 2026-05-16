@@ -1,0 +1,25 @@
+{
+  "id": "doubao-ppt",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.doubao.com"],
+  "confidence": "high",
+  "description": "豆包PPT是字节跳动推出的AI演示文稿生成工具，集成在豆包应用中。支持从文字描述生成专业PPT，提供多种模板和设计风格。免费使用，界面简洁易用。",
+  "features": [
+    { "name": "AI生成PPT", "desc": "文字描述生成PPT", "confidence": "high", "source": "official" },
+    { "name": "多模板", "desc": "提供多种PPT模板", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "快速生成演示文稿", "confidence": "high", "source": "official" },
+    { "name": "中文优化", "desc": "针对中文场景优化", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "免费使用", "confidence": "high", "source": "official" },
+    { "name": "简洁易用", "desc": "界面简洁，操作简单", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费使用",
+    "plans": []
+  },
+  "pros": ["免费使用", "中文优化", "快速生成", "多模板", "简洁易用"],
+  "cons": ["功能相对简单", "依赖豆包App", "模板有限", "设计自由度低"],
+  "difficulty": "easy",
+  "difficultyNote": "豆包App内使用",
+  "useCases": ["PPT制作", "演示文稿", "工作报告", "学习展示", "快速汇报"],
+  "needsReview": []
+}

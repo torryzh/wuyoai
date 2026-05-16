@@ -1,0 +1,47 @@
+{
+  "id": "d-id",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.d-id.com", "https://baike.baidu.com/item/D-ID"],
+  "confidence": "high",
+  "description": "D-ID 是一款 AI 数字人视频生成平台，专注于创建逼真的 AI 虚拟主播。支持文本转视频、图像动画化、实时对话等功能。提供多种预设数字人形象，支持 100+ 语言。广泛应用于营销、教育、客户服务等场景。被众多企业用于创建培训视频和产品演示。",
+  "features": [
+    { "name": "文本转视频", "desc": "文字描述生成数字人视频", "confidence": "high", "source": "baike" },
+    { "name": "图像动画化", "desc": "将静态图像转为动态视频", "confidence": "high", "source": "baike" },
+    { "name": "实时对话", "desc": "支持与数字人实时对话", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持 100+ 语言", "confidence": "high", "source": "baike" },
+    { "name": "预设形象", "desc": "提供多种预设数字人形象", "confidence": "high", "source": "baike" },
+    { "name": "API 接口", "desc": "提供 API 接口支持集成", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Lite", "price": "$5.9/月", "features": ["10 分钟视频/月", "基础功能", "有水印"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$29/月", "features": ["30 分钟视频/月", "高级功能", "无水印"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["无限视频", "API 访问", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "数字人形象逼真",
+    "100+ 语言支持",
+    "实时对话功能",
+    "API 接口支持",
+    "价格相对亲民"
+  ],
+  "cons": [
+    "免费版有水印",
+    "高级功能需付费",
+    "依赖网络",
+    "复杂场景需调整"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "营销视频",
+    "培训视频",
+    "客户服务",
+    "教育内容",
+    "产品演示",
+    "多语言内容"
+  ],
+  "needsReview": []
+}

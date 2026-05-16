@@ -1,0 +1,43 @@
+{
+  "id": "sd-webui",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://github.com/AUTOMATIC1111/stable-diffusion-webui", "https://baike.baidu.com/item/Stable Diffusion WebUI"],
+  "confidence": "high",
+  "description": "Stable Diffusion WebUI 是一个开源的 Stable Diffusion 图形界面，支持本地部署和使用。提供文生图、图生图、图像编辑等功能。基于 Gradio 构建，界面友好。被众多 AI 绘画爱好者使用。",
+  "features": [
+    { "name": "图形界面", "desc": "友好的图形用户界面", "confidence": "high", "source": "baike" },
+    { "name": "文生图", "desc": "文字描述生成图像", "confidence": "high", "source": "baike" },
+    { "name": "图生图", "desc": "基于现有图像生成", "confidence": "high", "source": "baike" },
+    { "name": "本地部署", "desc": "支持本地部署使用", "confidence": "high", "source": "baike" },
+    { "name": "开源免费", "desc": "完全开源免费", "confidence": "high", "source": "baike" },
+    { "name": "插件扩展", "desc": "支持插件扩展功能", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "完全免费开源",
+    "plans": []
+  },
+  "pros": [
+    "完全免费开源",
+    "本地部署，数据可控",
+    "界面友好",
+    "插件扩展丰富",
+    "社区活跃"
+  ],
+  "cons": [
+    "需要 GPU 硬件",
+    "安装配置复杂",
+    "依赖本地环境",
+    "学习曲线较陡"
+  ],
+  "difficulty": "hard",
+  "difficultyNote": "需要一定的技术背景和 GPU 硬件",
+  "useCases": [
+    "AI 绘画",
+    "图像生成",
+    "创意设计",
+    "本地部署",
+    "学习研究",
+    "插件开发"
+  ],
+  "needsReview": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "360-ai-search",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.bing.com/search?q=360+AI搜索", "https://baike.baidu.com/item/360AI搜索"],
+  "confidence": "high",
+  "description": "360AI搜索是360集团旗下的AI搜索应用，于2024年4月推出测试版，同年6月6日在北京正式发布。基于\"我搜你看，你问我答\"的定位，将大模型与搜索深度结合，通过思考模型、搜索模型、阅读模型、写作模型、追问模型5大场景模型协同工作，可自动提炼、整合、重组信息，为用户呈现精准答案。支持内容朗读、改写以及对网页、视频、图片等区域进行单独搜索。支持多语言搜索、多模态搜索及多任务搜索，2024年7月用户访问量突破9000万次，曾进入全球AI产品增速黑马榜。",
+  "features": [
+    { "name": "5大场景模型", "desc": "思考、搜索、阅读、写作、追问模型协同工作", "confidence": "high", "source": "baike" },
+    { "name": "智能整合", "desc": "自动提炼、整合、重组信息，呈现精准答案", "confidence": "high", "source": "baike" },
+    { "name": "多模态搜索", "desc": "支持网页、视频、图片等区域单独搜索", "confidence": "high", "source": "baike" },
+    { "name": "多语言搜索", "desc": "支持多语言搜索", "confidence": "high", "source": "baike" },
+    { "name": "内容朗读", "desc": "支持搜索结果内容朗读", "confidence": "high", "source": "baike" },
+    { "name": "慢思考模式", "desc": "支持深度思考的慢思考模式", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费使用",
+    "plans": []
+  },
+  "pros": [
+    "大模型与搜索深度结合",
+    "5大场景模型协同，搜索更智能",
+    "支持多模态搜索（网页/视频/图片）",
+    "2024年7月访问量突破9000万次",
+    "免费使用",
+    "支持内容朗读和改写"
+  ],
+  "cons": [
+    "依赖360账号",
+    "部分功能可能需要登录",
+    "依赖网络",
+    "搜索结果可能受广告影响"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可使用，界面简洁",
+  "useCases": [
+    "智能搜索",
+    "信息整合",
+    "多模态搜索",
+    "内容朗读",
+    "深度研究",
+    "日常查询"
+  ],
+  "needsReview": []
+}

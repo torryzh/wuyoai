@@ -1,0 +1,47 @@
+{
+  "id": "frase",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.frase.io"],
+  "confidence": "high",
+  "description": "Frase 是一个代理式 SEO 和 GEO（生成式搜索引擎优化）平台，帮助内容在 Google 上排名并被 AI 引用。集成了 AI 代理（80+ 技能）、AI 搜索追踪、内容守卫、内容监控等功能。支持分析竞争对手、创建优化内容、追踪在 Google、ChatGPT 和 Perplexity 上的可见性。被数千个内容和营销团队使用，提供 7 天免费试用。",
+  "features": [
+    { "name": "AI 代理", "desc": "80+ 技能，自动执行 SEO 和内容任务", "confidence": "high", "source": "official" },
+    { "name": "AI 搜索追踪", "desc": "追踪在 Google、ChatGPT、Perplexity 上的可见性", "confidence": "high", "source": "official" },
+    { "name": "内容守卫", "desc": "监控内容质量和 SEO 表现", "confidence": "high", "source": "official" },
+    { "name": "竞争对手分析", "desc": "分析前 10 名竞争对手，识别内容差距", "confidence": "high", "source": "official" },
+    { "name": "SEO 简报", "desc": "自动生成优化的内容大纲和主题", "confidence": "high", "source": "official" },
+    { "name": "GEO 优化", "desc": "针对 AI 搜索引擎的优化", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "7 天免费试用，无需信用卡",
+    "plans": [
+      { "name": "Solo", "price": "$15/月", "features": ["1 用户", "10 篇文章/月", "基础功能"], "confidence": "high", "source": "official" },
+      { "name": "Basic", "price": "$45/月", "features": ["1 用户", "30 篇文章/月", "高级功能"], "confidence": "high", "source": "official" },
+      { "name": "Team", "price": "$115/月", "features": ["3 用户", "无限文章", "团队协作"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "AI 代理自动执行 SEO 任务",
+    "追踪 AI 搜索引擎可见性（GEO）",
+    "竞争对手分析功能强大",
+    "7 天免费试用",
+    "被数千团队使用"
+  ],
+  "cons": [
+    "价格相对较高",
+    "学习曲线较陡",
+    "中文支持有限",
+    "高级功能需付费"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "需要一定的 SEO 知识，但界面友好",
+  "useCases": [
+    "SEO 内容优化",
+    "竞争对手分析",
+    "内容营销",
+    "AI 搜索优化（GEO）",
+    "博客和文章写作",
+    "内容策略制定"
+  ],
+  "needsReview": []
+}

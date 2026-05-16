@@ -1,0 +1,45 @@
+{
+  "id": "consensus",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://consensus.app", "https://baike.baidu.com/item/Consensus"],
+  "confidence": "high",
+  "description": "Consensus 是一款 AI 学术搜索引擎，专注于从学术论文中提取共识和证据。支持自然语言提问，自动搜索相关论文并提取关键结论。被众多研究人员和学生使用。",
+  "features": [
+    { "name": "学术搜索", "desc": "从学术论文中搜索答案", "confidence": "high", "source": "baike" },
+    { "name": "共识提取", "desc": "提取论文中的共识和证据", "confidence": "high", "source": "baike" },
+    { "name": "自然语言", "desc": "支持自然语言提问", "confidence": "high", "source": "baike" },
+    { "name": "论文引用", "desc": "提供论文引用和来源", "confidence": "high", "source": "baike" },
+    { "name": "快速回答", "desc": "快速提供基于证据的答案", "confidence": "high", "source": "baike" },
+    { "name": "多学科", "desc": "支持多学科领域", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Premium", "price": "$8.99/月", "features": ["无限搜索", "高级功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "学术搜索专业",
+    "共识提取独特",
+    "自然语言提问",
+    "论文引用完整",
+    "免费版功能丰富"
+  ],
+  "cons": [
+    "免费版有搜索限制",
+    "依赖学术数据库",
+    "部分学科覆盖有限",
+    "高级功能需付费"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面简洁",
+  "useCases": [
+    "学术研究",
+    "文献综述",
+    "证据查找",
+    "论文写作",
+    "学习研究",
+    "科学验证"
+  ],
+  "needsReview": []
+}

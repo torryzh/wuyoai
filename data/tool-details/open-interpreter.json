@@ -1,0 +1,43 @@
+{
+  "id": "open-interpreter",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://openinterpreter.com", "https://baike.baidu.com/item/Open Interpreter"],
+  "confidence": "high",
+  "description": "Open Interpreter 是一个开源的 AI 代码执行工具，支持通过自然语言执行代码。可在本地环境中运行代码，支持多种编程语言。提供交互式命令行界面，被众多开发者使用。",
+  "features": [
+    { "name": "自然语言", "desc": "通过自然语言执行代码", "confidence": "high", "source": "baike" },
+    { "name": "本地执行", "desc": "在本地环境中运行代码", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持多种编程语言", "confidence": "high", "source": "baike" },
+    { "name": "开源", "desc": "完全开源免费", "confidence": "high", "source": "baike" },
+    { "name": "交互式", "desc": "交互式命令行界面", "confidence": "high", "source": "baike" },
+    { "name": "代码执行", "desc": "执行代码并返回结果", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "完全免费开源",
+    "plans": []
+  },
+  "pros": [
+    "完全免费开源",
+    "本地执行代码",
+    "自然语言交互",
+    "多语言支持",
+    "社区活跃"
+  ],
+  "cons": [
+    "需要技术背景",
+    "安全风险",
+    "依赖本地环境",
+    "部分功能可能不稳定"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "需要基本的命令行和编程知识",
+  "useCases": [
+    "代码执行",
+    "自动化任务",
+    "数据处理",
+    "系统管理",
+    "学习编程",
+    "快速原型"
+  ],
+  "needsReview": []
+}

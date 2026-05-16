@@ -1,0 +1,46 @@
+{
+  "id": "360zhineng",
+  "fetchedAt": "2026-05-16T06:00:00Z",
+  "sources": ["https://ai.360.cn"],
+  "confidence": "medium",
+  "description": "360智脑是360集团推出的AI大模型产品，围绕'安全'和'人工智能'双主线发展。提供AI对话、文本生成、图片生成/理解、代码辅助、搜索增强等功能。结合360搜索引擎能力，具备知识问答和企业知识库RAG能力。面向个人用户、中小企业和行业客户提供差异化服务，包括纳米AI搜索、360智绘、360AI办公等应用。",
+  "features": [
+    { "name": "AI对话", "desc": "类似ChatGPT的智能对话问答能力", "confidence": "high", "source": "official" },
+    { "name": "文本生成", "desc": "文案、报告、翻译等内容生成", "confidence": "high", "source": "official" },
+    { "name": "图片生成", "desc": "AI绘图与图像分析能力", "confidence": "high", "source": "official" },
+    { "name": "代码辅助", "desc": "编程代码生成与调试", "confidence": "high", "source": "official" },
+    { "name": "搜索增强", "desc": "结合360搜索引擎提供实时信息", "confidence": "high", "source": "official" },
+    { "name": "安全大模型", "desc": "360安全大模型，保障AI应用安全", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础功能免费使用",
+    "plans": [
+      { "name": "API", "price": "按token计费", "features": ["开发者API访问", "按量付费"], "confidence": "medium", "source": "general" },
+      { "name": "企业版", "price": "按需报价", "features": ["定制化部署", "企业级服务"], "confidence": "medium", "source": "general" }
+    ]
+  },
+  "pros": [
+    "360安全基因，AI应用安全性高",
+    "搜索能力强，信息获取准确",
+    "国产自主可控",
+    "面向B端和C端差异化服务",
+    "生态应用丰富"
+  ],
+  "cons": [
+    "模型能力与国际顶尖有差距",
+    "部分功能仍在迭代中",
+    "英文能力相对较弱",
+    "API文档不够完善"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册360账号即可使用，界面简洁",
+  "useCases": [
+    "日常问答和知识查询",
+    "文案写作和内容创作",
+    "图片生成和编辑",
+    "代码辅助编程",
+    "企业智能客服",
+    "安全相关AI应用"
+  ],
+  "needsReview": ["pricing"]
+}

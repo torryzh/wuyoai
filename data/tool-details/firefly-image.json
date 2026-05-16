@@ -1,0 +1,28 @@
+{
+  "id": "firefly-image",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://www.adobe.com/products/firefly.html"],
+  "confidence": "high",
+  "description": "Adobe Firefly Image是Adobe推出的AI图像生成工具，专注于创意设计。支持文生图、图像编辑、风格迁移等功能。基于Adobe Stock授权数据训练，商业安全。被专业设计师广泛使用。",
+  "features": [
+    { "name": "文生图", "desc": "文字描述生成图像", "confidence": "high", "source": "official" },
+    { "name": "图像编辑", "desc": "AI驱动的图像编辑", "confidence": "high", "source": "official" },
+    { "name": "风格迁移", "desc": "将风格应用到图像", "confidence": "high", "source": "official" },
+    { "name": "商业安全", "desc": "基于授权数据训练", "confidence": "high", "source": "official" },
+    { "name": "Adobe集成", "desc": "深度集成Adobe生态", "confidence": "high", "source": "official" },
+    { "name": "专业质量", "desc": "专业级图像质量", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "提供免费试用额度",
+    "plans": [
+      { "name": "Firefly", "price": "$4.99/月", "features": ["100积分/月", "基础功能"], "confidence": "high", "source": "official" },
+      { "name": "Creative Cloud", "price": "$54.99/月", "features": ["完整Adobe套件", "无限使用"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["商业安全", "专业质量", "Adobe生态", "免费试用", "持续更新"],
+  "cons": ["需要Adobe订阅", "部分功能需付费", "依赖网络", "学习曲线较陡"],
+  "difficulty": "easy",
+  "difficultyNote": "Adobe用户可直接使用",
+  "useCases": ["创意设计", "图像生成", "设计素材", "品牌设计", "专业设计"],
+  "needsReview": []
+}

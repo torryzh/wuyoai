@@ -1,0 +1,46 @@
+{
+  "id": "gamma",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://gamma.app", "https://baike.baidu.com/item/Gamma"],
+  "confidence": "high",
+  "description": "Gamma 是一款 AI 演示文稿生成工具，支持从文字描述生成专业的 PPT、文档和网页。提供多种模板和设计风格，支持实时协作和分享。被众多企业和教育机构使用。",
+  "features": [
+    { "name": "AI 生成", "desc": "文字描述生成演示文稿", "confidence": "high", "source": "baike" },
+    { "name": "多格式", "desc": "支持 PPT、文档、网页等格式", "confidence": "high", "source": "baike" },
+    { "name": "模板库", "desc": "提供大量专业模板", "confidence": "high", "source": "baike" },
+    { "name": "实时协作", "desc": "支持多人实时协作编辑", "confidence": "high", "source": "baike" },
+    { "name": "分享功能", "desc": "支持链接分享和嵌入", "confidence": "high", "source": "baike" },
+    { "name": "设计优化", "desc": "AI 自动优化设计和布局", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Pro", "price": "$10/月", "features": ["无限生成", "高级模板", "无水印"], "confidence": "high", "source": "official" },
+      { "name": "Business", "price": "$20/月", "features": ["团队协作", "品牌定制", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "AI 生成速度快",
+    "设计专业美观",
+    "多格式支持",
+    "实时协作",
+    "免费版功能丰富"
+  ],
+  "cons": [
+    "免费版有水印",
+    "高级模板需付费",
+    "依赖网络",
+    "复杂设计需调整"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "演示文稿制作",
+    "文档撰写",
+    "网页设计",
+    "团队协作",
+    "教育课件",
+    "商业展示"
+  ],
+  "needsReview": []
+}

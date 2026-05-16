@@ -1,0 +1,25 @@
+{
+  "id": "paperswithcode",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://paperswithcode.com"],
+  "confidence": "high",
+  "description": "Papers with Code 是一个AI论文和代码平台，将学术论文与实现代码关联。用户可以找到论文的开源实现、基准测试结果。被众多AI研究者和开发者使用，是AI研究的重要资源。",
+  "features": [
+    { "name": "论文代码关联", "desc": "论文与实现代码关联", "confidence": "high", "source": "official" },
+    { "name": "基准测试", "desc": "模型基准测试结果", "confidence": "high", "source": "official" },
+    { "name": "开源实现", "desc": "论文的开源实现", "confidence": "high", "source": "official" },
+    { "name": "排行榜", "desc": "模型性能排行榜", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "完全免费", "confidence": "high", "source": "official" },
+    { "name": "资源丰富", "desc": "海量AI论文资源", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "完全免费",
+    "plans": []
+  },
+  "pros": ["论文代码关联独特", "基准测试权威", "免费使用", "资源丰富", "AI研究必备"],
+  "cons": ["英文为主", "需要技术背景", "部分论文缺失", "依赖网络"],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可使用",
+  "useCases": ["论文查找", "代码实现", "基准测试", "AI研究", "技术调研"],
+  "needsReview": []
+}

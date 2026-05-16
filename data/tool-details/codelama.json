@@ -1,0 +1,25 @@
+{
+  "id": "codelama",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://ai.meta.com/research/publications/code-llama"],
+  "confidence": "high",
+  "description": "Code Llama 是Meta推出的代码生成大模型，基于Llama 2微调。支持代码生成、代码补全、代码解释等功能。开源免费，支持多种编程语言。被众多开发者和研究者使用，是开源代码模型的代表。",
+  "features": [
+    { "name": "代码生成", "desc": "自然语言生成代码", "confidence": "high", "source": "official" },
+    { "name": "代码补全", "desc": "智能代码补全", "confidence": "high", "source": "official" },
+    { "name": "代码解释", "desc": "解释代码功能", "confidence": "high", "source": "official" },
+    { "name": "开源免费", "desc": "完全开源免费", "confidence": "high", "source": "official" },
+    { "name": "多语言", "desc": "支持多种编程语言", "confidence": "high", "source": "official" },
+    { "name": "本地部署", "desc": "支持本地部署", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "完全免费开源",
+    "plans": []
+  },
+  "pros": ["完全免费开源", "Meta出品，质量保证", "支持本地部署", "多语言支持", "社区活跃"],
+  "cons": ["需要GPU硬件", "部署配置复杂", "依赖本地环境", "部分功能需技术背景"],
+  "difficulty": "hard",
+  "difficultyNote": "需要一定的技术背景和GPU硬件",
+  "useCases": ["代码生成", "代码补全", "代码学习", "本地部署", "研究开发"],
+  "needsReview": []
+}

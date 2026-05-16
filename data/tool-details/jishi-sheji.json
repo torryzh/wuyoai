@@ -1,0 +1,27 @@
+{
+  "id": "jishi-sheji",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://js.design"],
+  "confidence": "high",
+  "description": "即时设计 AI 是即时设计推出的AI设计工具，集成在国产设计平台中。支持AI生成设计稿、智能布局、组件推荐等功能。是国产Figma替代品，被众多设计师使用。",
+  "features": [
+    { "name": "AI生成设计", "desc": "AI生成UI设计稿", "confidence": "high", "source": "official" },
+    { "name": "智能布局", "desc": "AI优化设计布局", "confidence": "high", "source": "official" },
+    { "name": "组件推荐", "desc": "推荐合适的设计组件", "confidence": "high", "source": "official" },
+    { "name": "国产替代", "desc": "国产Figma替代品", "confidence": "high", "source": "official" },
+    { "name": "协作功能", "desc": "支持团队协作", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "基础功能免费", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "专业版", "price": "¥30/月", "features": ["完整功能", "团队协作", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["国产替代Figma", "AI设计辅助", "免费基础功能", "中文友好", "团队协作"],
+  "cons": ["生态不如Figma", "部分功能需付费", "依赖网络", "学习曲线较陡"],
+  "difficulty": "medium",
+  "difficultyNote": "需要设计基础知识",
+  "useCases": ["UI设计", "网页设计", "团队协作", "设计协作", "国产替代"],
+  "needsReview": []
+}

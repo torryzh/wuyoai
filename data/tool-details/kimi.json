@@ -1,0 +1,45 @@
+{
+  "id": "kimi",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://kimi.moonshot.cn"],
+  "confidence": "high",
+  "description": "Kimi 是月之暗面推出的AI助手，以超长上下文处理能力著称。支持200万token超长上下文，可处理整本书籍或大型代码库。提供深度研究、PPT生成、文档分析、代码编写等功能。2025年发布K2.6版本，新增Agent集群、Kimi Code等能力。在国内AI助手市场中用户量领先，特别擅长长文档理解和复杂任务处理。",
+  "features": [
+    { "name": "超长上下文", "desc": "支持200万token超长上下文，可处理整本书籍", "confidence": "high", "source": "official" },
+    { "name": "深度研究", "desc": "AI驱动的深度研究和信息整合", "confidence": "high", "source": "official" },
+    { "name": "Kimi Code", "desc": "专业编程助手，支持代码生成和调试", "confidence": "high", "source": "official" },
+    { "name": "Agent集群", "desc": "多Agent协作处理复杂任务", "confidence": "high", "source": "official" },
+    { "name": "文档分析", "desc": "支持PDF、Word等文档分析和总结", "confidence": "high", "source": "official" },
+    { "name": "PPT生成", "desc": "AI自动生成演示文稿", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费使用，有每日对话次数限制",
+    "plans": [
+      { "name": "Kimi+会员", "price": "¥59/月", "features": ["无限对话", "优先响应", "高级功能"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "超长上下文能力业界领先（200万token）",
+    "长文档理解能力强",
+    "国内用户体验好，访问稳定",
+    "免费版功能丰富",
+    "持续快速迭代"
+  ],
+  "cons": [
+    "免费版有对话次数限制",
+    "英文能力相对较弱",
+    "部分高级功能需付费",
+    "与国际顶尖模型有差距"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站或下载App即可使用，界面友好",
+  "useCases": [
+    "长文档分析和总结",
+    "深度研究和信息整合",
+    "代码编写和调试",
+    "PPT和文档生成",
+    "学术论文阅读",
+    "复杂任务处理"
+  ],
+  "needsReview": []
+}

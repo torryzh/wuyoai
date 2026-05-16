@@ -1,0 +1,49 @@
+{
+  "id": "tongyi",
+  "fetchedAt": "2026-05-16T05:00:00Z",
+  "sources": ["https://tongyi.aliyun.com", "https://baike.baidu.com/item/千问大模型"],
+  "confidence": "high",
+  "description": "千问大模型（Qwen）是阿里巴巴集团通义实验室于 2023 年 8 月推出的开源大语言模型系列，涵盖密集模型与混合专家（MoE）架构，参数规模覆盖 0.5B 至 3970B。支持 119 种语言，截至 2026 年 1 月衍生模型数突破 20 万款，成为全球首个达成此目标的开源大模型，全球下载量突破 10 亿次。2026 年 2 月推出的 Qwen3.5-Plus 以 3970 亿参数实现原生多模态突破，登顶全球开源模型榜首，推理效率提升 19 倍且 API 成本仅为同类产品的 1/18。其应用生态覆盖高德地图、淘宝闪购等生活服务，千问 App 实现语音交互、图像识别等功能，公测首周下载量超千万。",
+  "features": [
+    { "name": "开源生态", "desc": "Apache 2.0 协议开源，衍生模型超 20 万款，全球下载量突破 10 亿次", "confidence": "high", "source": "baike" },
+    { "name": "混合推理", "desc": "Qwen3 集成'快思考'与'慢思考'混合推理功能，预训练数据达 36T tokens", "confidence": "high", "source": "baike" },
+    { "name": "多模态能力", "desc": "支持文本、图像、语音、视频多种模态，Qwen3.5-Plus 实现原生多模态突破", "confidence": "high", "source": "baike" },
+    { "name": "119 种语言", "desc": "支持 119 种语言，包括实时翻译能力", "confidence": "high", "source": "baike" },
+    { "name": "代码生成", "desc": "Qwen3-Coder-Next 扩展代码生成能力，支持消费级显卡部署", "confidence": "high", "source": "baike" },
+    { "name": "图像生成", "desc": "万相 2.1/2.6 视频生成模型，Qwen-Image-Edit 图像编辑模型", "confidence": "high", "source": "baike" },
+    { "name": "语音合成", "desc": "Qwen3-TTS 支持多音色、多语种和多方言的语音合成", "confidence": "high", "source": "baike" },
+    { "name": "生态集成", "desc": "接入淘宝闪购、支付宝、高德地图等阿里生态应用", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "千问 App 免费使用，支持基础对话、图像识别、语音交互",
+    "plans": [
+      { "name": "API 标准版", "price": "按量计费", "features": ["Qwen3.5-Plus 调用", "标准响应速度"], "confidence": "high", "source": "official" },
+      { "name": "API 高级版", "price": "按量计费（更低成本）", "features": ["Qwen3.5-Plus 完整访问", "更高并发", "优先响应"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "完全开源，Apache 2.0 协议，商用友好",
+    "衍生模型数量全球第一（20 万+），生态活跃",
+    "API 成本仅为同类产品的 1/18，性价比极高",
+    "深度集成阿里生态（淘宝、支付宝、高德）",
+    "支持 119 种语言，国际化能力强",
+    "2026 年米兰冬奥会官方大模型，国际认可"
+  ],
+  "cons": [
+    "部分高级功能需要阿里云账号",
+    "海外访问速度可能较慢",
+    "与阿里生态绑定较深"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "千问 App 注册即用，界面简洁；开发者可通过阿里云 API 快速接入",
+  "useCases": [
+    "日常对话和知识问答",
+    "代码编写和调试",
+    "多语言翻译",
+    "图像生成和编辑",
+    "语音交互",
+    "电商和生活服务（外卖、机票、政务）",
+    "学术研究（NeurIPS 最佳论文）"
+  ],
+  "needsReview": []
+}

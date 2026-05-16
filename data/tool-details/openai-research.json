@@ -1,0 +1,43 @@
+{
+  "id": "openai-research",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://openai.com/research", "https://baike.baidu.com/item/OpenAI Research"],
+  "confidence": "high",
+  "description": "OpenAI Research 是 OpenAI 的研究部门，专注于人工智能前沿研究。发布 GPT、DALL-E、Sora 等突破性研究成果。提供研究论文、博客、技术报告等资源。是 AI 研究领域的重要参考。",
+  "features": [
+    { "name": "前沿研究", "desc": "AI 领域前沿研究成果", "confidence": "high", "source": "baike" },
+    { "name": "论文发布", "desc": "发布研究论文和技术报告", "confidence": "high", "source": "baike" },
+    { "name": "开源项目", "desc": "部分研究成果开源", "confidence": "high", "source": "baike" },
+    { "name": "博客文章", "desc": "技术博客和研究解读", "confidence": "high", "source": "baike" },
+    { "name": "模型发布", "desc": "发布 GPT、DALL-E 等模型", "confidence": "high", "source": "baike" },
+    { "name": "学术合作", "desc": "与学术机构合作研究", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "完全免费",
+    "plans": []
+  },
+  "pros": [
+    "AI 研究权威",
+    "前沿研究成果",
+    "开源项目",
+    "免费资源",
+    "学术影响力大"
+  ],
+  "cons": [
+    "内容相对专业",
+    "部分研究可能不完整",
+    "依赖网络",
+    "更新频率不定"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可阅读",
+  "useCases": [
+    "AI 研究",
+    "技术学习",
+    "论文阅读",
+    "行业趋势",
+    "学术参考",
+    "技术探索"
+  ],
+  "needsReview": []
+}

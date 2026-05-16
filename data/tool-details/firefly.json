@@ -1,0 +1,46 @@
+{
+  "id": "firefly",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.adobe.com/products/firefly.html", "https://baike.baidu.com/item/Adobe Firefly"],
+  "confidence": "high",
+  "description": "Adobe Firefly 是 Adobe 推出的创意生成式 AI 模型，深度集成在 Adobe 创意套件中。支持文生图、图像编辑、风格迁移、创意素材生成等功能。专注于商业安全的 AI 生成内容，所有训练数据均来自 Adobe Stock 授权内容。广泛应用于设计、摄影、视频制作等创意工作流程。",
+  "features": [
+    { "name": "商业安全", "desc": "所有训练数据来自 Adobe Stock，无版权风险", "confidence": "high", "source": "official" },
+    { "name": "Adobe 集成", "desc": "深度集成 Photoshop、Illustrator 等创意软件", "confidence": "high", "source": "official" },
+    { "name": "文生图", "desc": "文字描述生成高质量图像", "confidence": "high", "source": "official" },
+    { "name": "图像编辑", "desc": "AI 驱动的图像编辑和优化", "confidence": "high", "source": "official" },
+    { "name": "风格迁移", "desc": "将一种风格应用到另一张图像", "confidence": "high", "source": "official" },
+    { "name": "创意素材", "desc": "生成纹理、图案、背景等创意素材", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "免费": "提供免费试用额度",
+    "plans": [
+      { "name": "Firefly", "price": "$4.99/月", "features": ["100 积分/月", "基础功能", "Adobe 集成"], "confidence": "high", "source": "official" },
+      { "name": "Creative Cloud", "price": "$54.99/月", "features": ["完整 Adobe 套件", "Firefly 集成", "无限使用"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "商业安全，无版权风险",
+    "深度集成 Adobe 创意套件",
+    "专业级图像质量",
+    "持续更新迭代",
+    "适合专业设计师"
+  ],
+  "cons": [
+    "需要 Adobe 订阅",
+    "部分功能需要 Creative Cloud",
+    "中文提示词支持有限",
+    "生成速度受服务器影响"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "Adobe 用户可直接使用，界面友好",
+  "useCases": [
+    "平面设计",
+    "摄影后期",
+    "视频制作",
+    "品牌素材",
+    "创意探索",
+    "商业设计"
+  ],
+  "needsReview": []
+}

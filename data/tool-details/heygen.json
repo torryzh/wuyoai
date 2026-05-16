@@ -1,0 +1,47 @@
+{
+  "id": "heygen",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.heygen.com", "https://baike.baidu.com/item/HeyGen"],
+  "confidence": "high",
+  "description": "HeyGen 是一款 AI 数字人视频生成平台，支持创建逼真的 AI 虚拟主播。提供 100+ 预设数字人形象，支持 40+ 语言和口型同步。广泛应用于营销视频、培训视频、产品演示等场景。支持自定义数字人、语音克隆、多场景模板等功能。",
+  "features": [
+    { "name": "AI 数字人", "desc": "100+ 预设数字人形象", "confidence": "high", "source": "baike" },
+    { "name": "多语言", "desc": "支持 40+ 语言和口型同步", "confidence": "high", "source": "baike" },
+    { "name": "自定义数字人", "desc": "可创建专属数字人形象", "confidence": "high", "source": "baike" },
+    { "name": "语音克隆", "desc": "克隆特定人物的语音", "confidence": "high", "source": "baike" },
+    { "name": "场景模板", "desc": "提供多种视频场景模板", "confidence": "high", "source": "baike" },
+    { "name": "快速生成", "desc": "几分钟即可生成视频", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Creator", "price": "$29/月", "features": ["10 分钟视频/月", "基础数字人", "有水印"], "confidence": "high", "source": "official" },
+      { "name": "Business", "price": "$89/月", "features": ["30 分钟视频/月", "高级数字人", "无水印", "自定义数字人"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["无限视频", "专属支持", "API 访问"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "数字人形象逼真",
+    "40+ 语言支持",
+    "快速生成视频",
+    "自定义数字人",
+    "多场景模板"
+  ],
+  "cons": [
+    "免费版有水印",
+    "高级功能价格较高",
+    "依赖网络",
+    "复杂场景需调整"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "营销视频",
+    "培训视频",
+    "产品演示",
+    "多语言内容",
+    "社交媒体",
+    "企业宣传"
+  ],
+  "needsReview": []
+}

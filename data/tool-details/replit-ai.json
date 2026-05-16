@@ -1,0 +1,46 @@
+{
+  "id": "replit-ai",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://replit.com", "https://baike.baidu.com/item/Replit AI"],
+  "confidence": "high",
+  "description": "Replit AI 是一个在线代码编辑器和 AI 编程助手，支持多种编程语言。提供代码生成、代码补全、错误修复等功能。内置云开发环境，无需本地配置。支持实时协作和部署。",
+  "features": [
+    { "name": "在线编辑器", "desc": "云端代码编辑器，无需本地配置", "confidence": "high", "source": "baike" },
+    { "name": "AI 代码生成", "desc": "自然语言描述生成代码", "confidence": "high", "source": "baike" },
+    { "name": "代码补全", "desc": "智能代码补全", "confidence": "high", "source": "baike" },
+    { "name": "错误修复", "desc": "自动检测和修复代码错误", "confidence": "high", "source": "baike" },
+    { "name": "实时协作", "desc": "支持多人实时协作", "confidence": "high", "source": "baike" },
+    { "name": "一键部署", "desc": "支持一键部署应用", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "免费版支持基本功能",
+    "plans": [
+      { "name": "Replit Core", "price": "$20/月", "features": ["无限 AI 补全", "高级功能", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Teams", "price": "$15/人/月", "features": ["团队协作", "企业安全", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "在线开发，无需本地配置",
+    "AI 编程辅助",
+    "实时协作",
+    "一键部署",
+    "多语言支持"
+  ],
+  "cons": [
+    "依赖网络",
+    "免费版功能有限",
+    "性能受网络影响",
+    "部分高级功能需付费"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": [
+    "在线编程",
+    "快速原型开发",
+    "团队协作",
+    "学习编程",
+    "应用部署",
+    "代码实验"
+  ],
+  "needsReview": []
+}

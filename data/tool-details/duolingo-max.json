@@ -1,0 +1,27 @@
+{
+  "id": "duolingo-max",
+  "fetchedAt": "2026-05-16T09:00:00Z",
+  "sources": ["https://www.duolingo.com"],
+  "confidence": "high",
+  "description": "Duolingo Max 是 Duolingo 推出的 AI 增强语言学习订阅服务。基于 GPT-4 技术，提供 AI 对话练习、语法解释、错误分析等功能。是语言学习领域的领导者，被数亿用户使用。",
+  "features": [
+    { "name": "AI对话", "desc": "与AI进行语言对话练习", "confidence": "high", "source": "official" },
+    { "name": "语法解释", "desc": "AI解释语法规则", "confidence": "high", "source": "official" },
+    { "name": "错误分析", "desc": "AI分析学习错误", "confidence": "high", "source": "official" },
+    { "name": "个性化", "desc": "根据水平个性化学习", "confidence": "high", "source": "official" },
+    { "name": "多语言", "desc": "支持多种语言学习", "confidence": "high", "source": "official" },
+    { "name": "游戏化", "desc": "游戏化学习体验", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "Duolingo基础版免费",
+    "plans": [
+      { "name": "Max", "price": "$30/月", "features": ["AI对话", "语法解释", "无广告", "无限生命"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["语言学习领导者", "AI对话练习", "游戏化体验", "多语言支持", "用户量大"],
+  "cons": ["Max版价格较高", "依赖Duolingo平台", "部分功能需付费", "依赖网络"],
+  "difficulty": "easy",
+  "difficultyNote": "Duolingo用户可直接升级",
+  "useCases": ["语言学习", "口语练习", "语法学习", "考试准备", "日常学习"],
+  "needsReview": []
+}

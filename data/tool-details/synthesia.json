@@ -1,0 +1,28 @@
+{
+  "id": "synthesia",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.synthesia.io"],
+  "confidence": "high",
+  "description": "Synthesia 是一款AI视频生成平台，专注于创建专业的数字人视频。支持150+数字人形象，140+语言。广泛应用于企业培训、营销视频、产品演示等场景。被众多《财富》500强企业使用。",
+  "features": [
+    { "name": "数字人视频", "desc": "150+数字人形象", "confidence": "high", "source": "official" },
+    { "name": "多语言", "desc": "支持140+语言", "confidence": "high", "source": "official" },
+    { "name": "自定义形象", "desc": "可创建专属数字人", "confidence": "high", "source": "official" },
+    { "name": "模板丰富", "desc": "提供多种视频模板", "confidence": "high", "source": "official" },
+    { "name": "企业级", "desc": "被《财富》500强使用", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "分钟级生成视频", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Starter", "price": "$18/月", "features": ["10分钟视频/月", "基础功能"], "confidence": "high", "source": "official" },
+      { "name": "Creator", "price": "$64/月", "features": ["30分钟视频/月", "高级功能", "自定义形象"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["数字人形象丰富", "140+语言支持", "企业级安全", "快速生成", "专业质量"],
+  "cons": ["价格较高", "免费试用有限", "依赖网络", "复杂场景需调整"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面友好",
+  "useCases": ["企业培训", "营销视频", "产品演示", "多语言内容", "数字人视频"],
+  "needsReview": []
+}

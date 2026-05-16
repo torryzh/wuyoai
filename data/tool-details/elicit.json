@@ -1,0 +1,46 @@
+{
+  "id": "elicit",
+  "fetchedAt": "2026-05-16T06:00:00Z",
+  "sources": ["https://elicit.com"],
+  "confidence": "high",
+  "description": "Elicit 是一款 AI 科研助手，帮助研究人员提高 10 倍的循证效率。搜索超过 1.38 亿篇学术论文和 54.5 万项临床试验，使用语义搜索技术，无需知道所有关键词即可获得相关结果。自动生成结构化研究报告，支持引用。被超过 500 万研究人员使用，包括众多知名机构。支持从快速问答到多月综合评审的全流程研究。",
+  "features": [
+    { "name": "语义搜索", "desc": "搜索 1.38 亿+ 学术论文，无需精确关键词", "confidence": "high", "source": "official" },
+    { "name": "临床试验搜索", "desc": "搜索 54.5 万+ 临床试验数据", "confidence": "high", "source": "official" },
+    { "name": "自动报告生成", "desc": "自动生成带引用的结构化研究报告", "confidence": "high", "source": "official" },
+    { "name": "循证研究", "desc": "帮助研究人员提高 10 倍循证效率", "confidence": "high", "source": "official" },
+    { "name": "全流程支持", "desc": "从快速问答到多月综合评审", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础版免费，支持基本搜索",
+    "plans": [
+      { "name": "Plus", "price": "$10/月", "features": ["无限搜索", "高级过滤", "导出功能"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$49/月", "features": ["自动报告", "API 访问", "优先支持"], "confidence": "high", "source": "official" },
+      { "name": "Enterprise", "price": "联系销售", "features": ["团队协作", "自定义集成", "专属支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "学术论文数据库庞大（1.38 亿+）",
+    "语义搜索降低检索门槛",
+    "自动生成研究报告节省时间",
+    "500 万+ 研究人员使用",
+    "支持临床试验数据搜索"
+  ],
+  "cons": [
+    "主要面向英文文献",
+    "高级功能需付费",
+    "中文文献覆盖有限",
+    "依赖论文数据库的更新"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，搜索界面直观",
+  "useCases": [
+    "文献综述",
+    "系统评价",
+    "临床试验研究",
+    "学术论文写作",
+    "研究方向探索",
+    "循证医学研究"
+  ],
+  "needsReview": []
+}

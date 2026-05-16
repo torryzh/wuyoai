@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Nuxt generated
+.nuxt/
+.output/
+dist/
+
+# Environment
+.vercel
+.env*.local
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# Temporary data files
+data/batch-input.json
+data/good-content-tools.json
+
+# OS
+.DS_Store
+Thumbs.db

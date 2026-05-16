@@ -1,0 +1,43 @@
+{
+  "id": "riffusion",
+  "fetchedAt": "2026-05-16T07:00:00Z",
+  "sources": ["https://www.riffusion.com"],
+  "confidence": "high",
+  "description": "Riffusion 是一款 AI 音乐生成工具，通过文本描述生成音乐。采用频谱图扩散技术，可生成多种风格的音乐片段。支持实时生成和调整，适合创意探索和音乐实验。",
+  "features": [
+    { "name": "文本生成音乐", "desc": "文字描述生成音乐片段", "confidence": "high", "source": "official" },
+    { "name": "频谱图技术", "desc": "采用频谱图扩散技术", "confidence": "high", "source": "official" },
+    { "name": "多风格", "desc": "支持多种音乐风格", "confidence": "high", "source": "official" },
+    { "name": "实时生成", "desc": "支持实时生成和调整", "confidence": "high", "source": "official" },
+    { "name": "创意探索", "desc": "适合音乐实验和创意探索", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "提供免费使用", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费使用",
+    "plans": []
+  },
+  "pros": [
+    "完全免费使用",
+    "技术新颖（频谱图扩散）",
+    "实时生成",
+    "适合创意探索",
+    "界面简洁"
+  ],
+  "cons": [
+    "生成质量参差不齐",
+    "功能相对简单",
+    "依赖网络",
+    "音乐长度有限"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用，界面简洁",
+  "useCases": [
+    "音乐实验",
+    "创意探索",
+    "背景音乐",
+    "短视频配乐",
+    "个人娱乐",
+    "学习音乐"
+  ],
+  "needsReview": []
+}

@@ -1,4 +1,6 @@
 <script setup lang="ts">
+const localePath = useLocalePath()
+
 defineProps<{
   tool: {
     id: string
@@ -12,7 +14,7 @@ defineProps<{
 </script>
 
 <template>
-  <NuxtLink :to="`/tools/${tool.id}`" class="tool-card card">
+  <NuxtLink :to="localePath(`/tools/${tool.id}`)" class="tool-card card">
     <div class="card-header">
       <div class="tool-icon">
         {{ tool.name.charAt(0).toUpperCase() }}

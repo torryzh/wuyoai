@@ -1,0 +1,28 @@
+{
+  "id": "udio",
+  "fetchedAt": "2026-05-16T08:00:00Z",
+  "sources": ["https://www.udio.com"],
+  "confidence": "high",
+  "description": "Udio 是一款AI音乐生成工具，与Suno类似，支持文字描述生成完整歌曲。以音乐质量和人声逼真度著称，支持多种音乐风格。被音乐创作者和爱好者使用。",
+  "features": [
+    { "name": "文生音乐", "desc": "文字描述生成完整歌曲", "confidence": "high", "source": "official" },
+    { "name": "高质量人声", "desc": "人声逼真度高", "confidence": "high", "source": "official" },
+    { "name": "多风格", "desc": "支持多种音乐风格", "confidence": "high", "source": "official" },
+    { "name": "歌词生成", "desc": "自动生成歌词", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "快速生成音乐", "confidence": "high", "source": "official" },
+    { "name": "社区分享", "desc": "支持社区分享", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费版有限额度",
+    "plans": [
+      { "name": "Standard", "price": "$10/月", "features": ["1200积分/月", "商用授权"], "confidence": "high", "source": "official" },
+      { "name": "Pro", "price": "$30/月", "features": ["4800积分/月", "优先生成"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["音乐质量高", "人声逼真", "多风格支持", "社区活跃", "商用授权"],
+  "cons": ["免费额度有限", "依赖网络", "部分风格效果不稳定", "价格较高"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["音乐创作", "短视频配乐", "个人娱乐", "音乐学习", "社交媒体内容"],
+  "needsReview": []
+}
