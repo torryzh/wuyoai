@@ -1,0 +1,27 @@
+{
+  "id": "zhipu-qingyan",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://chatglm.cn"],
+  "confidence": "high",
+  "description": "智谱清言是智谱 AI 推出的对话产品，基于 GLM 大模型。支持多模态交互，包括文本、图像、代码等。是国产大模型的代表之一，被众多用户使用。",
+  "features": [
+    { "name": "多模态交互", "desc": "支持文本、图像、代码等多种模态", "confidence": "high", "source": "official" },
+    { "name": "GLM 模型", "desc": "基于智谱自研 GLM 大模型", "confidence": "high", "source": "official" },
+    { "name": "中文优化", "desc": "针对中文场景深度优化", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "基础功能免费", "confidence": "high", "source": "official" },
+    { "name": "插件丰富", "desc": "支持多种插件扩展", "confidence": "high", "source": "official" },
+    { "name": "持续更新", "desc": "模型持续迭代升级", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础功能免费",
+    "plans": [
+      { "name": "API", "price": "按量计费", "features": ["开发者 API 访问", "按 token 计费"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["国产大模型代表", "多模态支持", "中文优化", "免费使用", "插件丰富"],
+  "cons": ["与国际顶尖有差距", "部分功能不稳定", "依赖网络", "API 文档不完善"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["日常对话", "内容创作", "代码辅助", "学习研究", "知识问答"],
+  "needsReview": []
+}

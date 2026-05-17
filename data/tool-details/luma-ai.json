@@ -1,0 +1,27 @@
+{
+  "id": "luma-ai",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://lumalabs.ai"],
+  "confidence": "high",
+  "description": "Luma AI 是一款 AI 视频生成工具，支持文字生成视频、3D 场景生成。基于先进的 AI 技术，可生成高质量的视频内容。被众多创作者和企业使用。",
+  "features": [
+    { "name": "文字生成视频", "desc": "文字描述生成视频", "confidence": "high", "source": "official" },
+    { "name": "3D 场景生成", "desc": "AI 生成 3D 场景", "confidence": "high", "source": "official" },
+    { "name": "高质量输出", "desc": "生成高质量视频", "confidence": "high", "source": "official" },
+    { "name": "快速生成", "desc": "快速生成视频内容", "confidence": "high", "source": "official" },
+    { "name": "多场景", "desc": "支持多种视频场景", "confidence": "high", "source": "official" },
+    { "name": "API 接口", "desc": "提供 API 接口", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Pro", "price": "$29.99/月", "features": ["无限生成", "高清输出", "优先处理"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["视频质量高", "3D 生成独特", "快速生成", "API 支持", "创作者友好"],
+  "cons": ["免费试用有限", "高级功能需付费", "依赖网络", "复杂场景需调整"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["视频创作", "3D 场景生成", "社交媒体内容", "广告制作", "创意探索"],
+  "needsReview": []
+}

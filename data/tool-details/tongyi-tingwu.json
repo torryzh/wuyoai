@@ -1,0 +1,27 @@
+{
+  "id": "tongyi-tingwu",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://tingwu.aliyun.com"],
+  "confidence": "high",
+  "description": "通义听悟是阿里推出的AI音频处理工具，支持语音转文字、会议纪要、内容总结等功能。深度集成阿里云生态，被众多企业和个人用户使用。",
+  "features": [
+    { "name": "语音转文字", "desc": "高精度语音转文字", "confidence": "high", "source": "official" },
+    { "name": "会议纪要", "desc": "自动生成会议纪要", "confidence": "high", "source": "official" },
+    { "name": "内容总结", "desc": "自动总结音频内容", "confidence": "high", "source": "official" },
+    { "name": "多语言", "desc": "支持多语言识别", "confidence": "high", "source": "official" },
+    { "name": "阿里云集成", "desc": "深度集成阿里云生态", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "基础功能免费", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础功能免费",
+    "plans": [
+      { "name": "Pro", "price": "按量计费", "features": ["更高精度", "更长音频", "更多功能"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["语音转文字准确", "会议纪要实用", "阿里云集成", "免费使用", "多语言支持"],
+  "cons": ["高级功能需付费", "依赖网络", "部分方言识别有限", "依赖阿里账号"],
+  "difficulty": "easy",
+  "difficultyNote": "阿里云账号登录即可使用",
+  "useCases": ["会议记录", "语音转文字", "内容总结", "学习笔记", "采访记录"],
+  "needsReview": []
+}

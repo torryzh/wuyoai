@@ -1,0 +1,27 @@
+{
+  "id": "hailuo-ai",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://hailuoai.com"],
+  "confidence": "high",
+  "description": "海螺AI是MiniMax旗下AI产品，提供对话、创作、视频生成等多种AI能力。在视频生成领域表现出色，是国产AI视频生成的代表产品之一。",
+  "features": [
+    { "name": "视频生成", "desc": "AI生成高质量视频", "confidence": "high", "source": "official" },
+    { "name": "对话交互", "desc": "智能对话问答", "confidence": "high", "source": "official" },
+    { "name": "内容创作", "desc": "AI辅助内容创作", "confidence": "high", "source": "official" },
+    { "name": "多模态", "desc": "支持多种模态交互", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "基础功能免费", "confidence": "high", "source": "official" },
+    { "name": "国产出品", "desc": "MiniMax出品", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础功能免费",
+    "plans": [
+      { "name": "Pro", "price": "按量计费", "features": ["高级功能", "更高用量"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["视频生成出色", "多模态支持", "免费使用", "国产出品", "持续更新"],
+  "cons": ["部分功能不稳定", "依赖网络", "高级功能需付费", "知名度有限"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["视频生成", "对话交互", "内容创作", "社交媒体", "创意探索"],
+  "needsReview": []
+}

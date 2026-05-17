@@ -1,0 +1,45 @@
+{
+  "id": "deepseek",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://chat.deepseek.com"],
+  "confidence": "high",
+  "description": "DeepSeek（深度求索）是一家中国 AI 公司，推出了一系列高性能大语言模型。DeepSeek-V3 和 DeepSeek-R1 在多项基准测试中表现优异，与国际顶尖模型竞争。完全开源，支持免费使用，是国产大模型的代表之一。在编程、数学、推理等领域表现出色。",
+  "features": [
+    { "name": "高性能模型", "desc": "DeepSeek-V3/R1 在多项基准测试中表现优异", "confidence": "high", "source": "official" },
+    { "name": "完全开源", "desc": "模型权重完全开源，可商用", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "在线版本免费使用", "confidence": "high", "source": "official" },
+    { "name": "编程能力强", "desc": "在编程和代码生成领域表现出色", "confidence": "high", "source": "official" },
+    { "name": "推理能力", "desc": "DeepSeek-R1 具有强大的推理能力", "confidence": "high", "source": "official" },
+    { "name": "中文优化", "desc": "针对中文场景深度优化", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "在线版本免费使用",
+    "plans": [
+      { "name": "API", "price": "按量计费", "features": ["开发者 API 访问", "按 token 计费"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "性能优异，与国际顶尖模型竞争",
+    "完全开源，社区活跃",
+    "免费使用，性价比极高",
+    "中文优化出色",
+    "编程和推理能力强"
+  ],
+  "cons": [
+    "在线服务可能不稳定",
+    "部分高级功能需 API 调用",
+    "依赖网络",
+    "文档相对较少"
+  ],
+  "difficulty": "easy",
+  "difficultyNote": "访问网站即可使用，API 需要技术背景",
+  "useCases": [
+    "日常对话问答",
+    "代码编写和调试",
+    "数学和逻辑推理",
+    "内容创作",
+    "学术研究",
+    "开发者 API 集成"
+  ],
+  "needsReview": []
+}

@@ -4185,5 +4185,448 @@
       ]
     },
     "featured": false
+  },
+  {
+    "id": "deepseek",
+    "name": {
+      "zh": "DeepSeek",
+      "en": "DeepSeek"
+    },
+    "url": "https://chat.deepseek.com",
+    "logo": "",
+    "description": {
+      "zh": "深度求索推出的 AI 大模型，性能优异且开源，国产大模型代表",
+      "en": "AI large language model by DeepSeek, excellent performance and open source"
+    },
+    "categories": [
+      "chat",
+      "code"
+    ],
+    "tags": {
+      "zh": [
+        "免费",
+        "开源",
+        "国产"
+      ],
+      "en": [
+        "Free",
+        "Open Source",
+        "Chinese"
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "zhipu-qingyan",
+    "name": {
+      "zh": "智谱清言",
+      "en": "ChatGLM"
+    },
+    "url": "https://chatglm.cn",
+    "logo": "",
+    "description": {
+      "zh": "智谱 AI 推出的对话产品，基于 GLM 大模型，支持多模态交互",
+      "en": "Chat product by Zhipu AI, based on GLM model, supporting multimodal interaction"
+    },
+    "categories": [
+      "chat"
+    ],
+    "tags": {
+      "zh": [
+        "免费+付费",
+        "国产",
+        "多模态"
+      ],
+      "en": [
+        "Free+Paid",
+        "Chinese",
+        "Multimodal"
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "claude-code",
+    "name": {
+      "zh": "Claude Code",
+      "en": "Claude Code"
+    },
+    "url": "https://claude.ai/code",
+    "logo": "",
+    "description": {
+      "zh": "Anthropic 推出的 AI 编程智能体，可自主执行编程任务、调试代码、管理项目",
+      "en": "AI coding agent by Anthropic, can autonomously execute coding tasks, debug code, and manage projects"
+    },
+    "categories": [
+      "code",
+      "agent"
+    ],
+    "tags": {
+      "zh": [
+        "付费",
+        "智能体",
+        "编程"
+      ],
+      "en": [
+        "Paid",
+        "Agent",
+        "Coding"
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "codex",
+    "name": {
+      "zh": "Codex",
+      "en": "Codex"
+    },
+    "url": "https://openai.com/codex",
+    "logo": "",
+    "description": {
+      "zh": "OpenAI 推出的 AI 编程智能体，基于 GPT 模型，可自主完成复杂编程任务",
+      "en": "AI coding agent by OpenAI, based on GPT model, can autonomously complete complex coding tasks"
+    },
+    "categories": [
+      "code",
+      "agent"
+    ],
+    "tags": {
+      "zh": [
+        "付费",
+        "智能体",
+        "编程"
+      ],
+      "en": [
+        "Paid",
+        "Agent",
+        "Coding"
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "trae",
+    "name": {
+      "zh": "Trae",
+      "en": "Trae"
+    },
+    "url": "https://trae.ai",
+    "logo": "",
+    "description": {
+      "zh": "字节跳动推出的 AI IDE，集成 AI 编程助手，支持智能代码补全和生成",
+      "en": "AI IDE by ByteDance, integrated with AI coding assistant, supporting intelligent code completion and generation"
+    },
+    "categories": [
+      "code"
+    ],
+    "tags": {
+      "zh": [
+        "免费",
+        "字节",
+        "IDE"
+      ],
+      "en": [
+        "Free",
+        "ByteDance",
+        "IDE"
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "lingyiwanwu",
+    "name": {
+      "zh": "零一万物",
+      "en": "Yi"
+    },
+    "url": "https://yi.ai",
+    "logo": "",
+    "description": {
+      "zh": "李开复创办的 AI 公司推出的大模型，性能优异，支持多种应用场景",
+      "en": "Large language model by Yi.ai founded by Kai-Fu Lee, excellent performance"
+    },
+    "categories": [
+      "chat"
+    ],
+    "tags": {
+      "zh": [
+        "免费+付费",
+        "国产",
+        "李开复"
+      ],
+      "en": [
+        "Free+Paid",
+        "Chinese",
+        "Kai-Fu Lee"
+      ]
+    },
+    "featured": false
+  },
+  {
+    "id": "baichuan",
+    "name": {
+      "zh": "百川智能",
+      "en": "Baichuan"
+    },
+    "url": "https://www.baichuan-ai.com",
+    "logo": "",
+    "description": {
+      "zh": "百川智能推出的大模型，专注于中文理解和生成，国产大模型代表",
+      "en": "Large language model by Baichuan AI, focusing on Chinese understanding and generation"
+    },
+    "categories": [
+      "chat"
+    ],
+    "tags": {
+      "zh": [
+        "免费+付费",
+        "国产",
+        "中文优化"
+      ],
+      "en": [
+        "Free+Paid",
+        "Chinese",
+        "Chinese Optimized"
+      ]
+    },
+    "featured": false
+  },
+  {
+    "id": "hailuo-ai",
+    "name": {
+      "zh": "海螺AI",
+      "en": "Hailuo AI"
+    },
+    "url": "https://hailuoai.com",
+    "logo": "",
+    "description": {
+      "zh": "MiniMax 旗下 AI 产品，提供对话、创作、视频生成等多种 AI 能力",
+      "en": "AI product by MiniMax, providing chat, creation, video generation and other AI capabilities"
+    },
+    "categories": [
+      "chat",
+      "video"
+    ],
+    "tags": {
+      "zh": [
+        "免费+付费",
+        "国产",
+        "多模态"
+      ],
+      "en": [
+        "Free+Paid",
+        "Chinese",
+        "Multimodal"
+      ]
+    },
+    "featured": false
+  },
+  {
+    "id": "openclaw",
+    "name": {
+      "zh": "OpenClaw",
+      "en": "OpenClaw"
+    },
+    "url": "https://openclaw.com",
+    "logo": "",
+    "description": {
+      "zh": "AI 智能体平台，支持自主执行多步任务，可连接多种工具和服务",
+      "en": "AI agent platform, supporting autonomous multi-step task execution, connecting various tools and services"
+    },
+    "categories": [
+      "agent"
+    ],
+    "tags": {
+      "zh": [
+        "智能体",
+        "自动化",
+        "多步任务"
+      ],
+      "en": [
+        "Agent",
+        "Automation",
+        "Multi-step"
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "workbuddy",
+    "name": {
+      "zh": "WorkBuddy",
+      "en": "WorkBuddy"
+    },
+    "url": "https://workbuddy.ai",
+    "logo": "",
+    "description": {
+      "zh": "AI 智能体平台，专注于工作场景的自动化任务执行",
+      "en": "AI agent platform, focusing on automated task execution in work scenarios"
+    },
+    "categories": [
+      "agent"
+    ],
+    "tags": {
+      "zh": [
+        "智能体",
+        "工作自动化",
+        "效率"
+      ],
+      "en": [
+        "Agent",
+        "Work Automation",
+        "Efficiency"
+      ]
+    },
+    "featured": false
+  },
+  {
+    "id": "luma-ai",
+    "name": {
+      "zh": "Luma AI",
+      "en": "Luma AI"
+    },
+    "url": "https://lumalabs.ai",
+    "logo": "",
+    "description": {
+      "zh": "AI 视频生成工具，支持文字生成视频、3D 场景生成",
+      "en": "AI video generation tool, supporting text-to-video and 3D scene generation"
+    },
+    "categories": [
+      "video"
+    ],
+    "tags": {
+      "zh": [
+        "免费+付费",
+        "视频生成",
+        "3D"
+      ],
+      "en": [
+        "Free+Paid",
+        "Video Generation",
+        "3D"
+      ]
+    },
+    "featured": true
+  },
+  {
+    "id": "windsurf",
+    "name": {
+      "zh": "Windsurf",
+      "en": "Windsurf"
+    },
+    "url": "https://windsurf.ai",
+    "logo": "",
+    "description": {
+      "zh": "AI 编程工具，提供智能代码补全、代码生成和调试功能",
+      "en": "AI coding tool, providing intelligent code completion, code generation and debugging"
+    },
+    "categories": [
+      "code"
+    ],
+    "tags": {
+      "zh": [
+        "免费+付费",
+        "编程",
+        "代码补全"
+      ],
+      "en": [
+        "Free+Paid",
+        "Coding",
+        "Code Completion"
+      ]
+    },
+    "featured": false
+  },
+  {
+    "id": "tongyi-tingwu",
+    "name": {
+      "zh": "通义听悟",
+      "en": "Tingwu"
+    },
+    "url": "https://tingwu.aliyun.com",
+    "logo": "",
+    "description": {
+      "zh": "阿里推出的 AI 音频处理工具，支持语音转文字、会议纪要、内容总结",
+      "en": "AI audio processing tool by Alibaba, supporting speech-to-text, meeting minutes, content summary"
+    },
+    "categories": [
+      "audio",
+      "office"
+    ],
+    "tags": {
+      "zh": [
+        "免费+付费",
+        "阿里",
+        "语音转文字"
+      ],
+      "en": [
+        "Free+Paid",
+        "Alibaba",
+        "Speech-to-Text"
+      ]
+    },
+    "featured": false
+  },
+  {
+    "id": "xunfei-tingjian",
+    "name": {
+      "zh": "讯飞听见",
+      "en": "iFlytek Tingjian"
+    },
+    "url": "https://www.iting.com",
+    "logo": "",
+    "description": {
+      "zh": "科大讯飞推出的 AI 音频处理工具，支持语音转文字、实时字幕、会议记录",
+      "en": "AI audio processing tool by iFlytek, supporting speech-to-text, real-time subtitles, meeting records"
+    },
+    "categories": [
+      "audio",
+      "office"
+    ],
+    "tags": {
+      "zh": [
+        "免费+付费",
+        "讯飞",
+        "语音转文字"
+      ],
+      "en": [
+        "Free+Paid",
+        "iFlytek",
+        "Speech-to-Text"
+      ]
+    },
+    "featured": false
+  },
+  {
+    "id": "hermes-agent",
+    "name": {
+      "zh": "Hermes Agent",
+      "en": "Hermes Agent"
+    },
+    "url": "https://hermes-agent.org",
+    "logo": "",
+    "description": {
+      "zh": "Nous Research 开发的开源自主 AI 智能体，专为持久运行和自我成长设计，支持微信、Telegram 等多平台访问",
+      "en": "Open-source autonomous AI agent by Nous Research, designed for persistent operation and self-growth, supporting WeChat, Telegram and other platforms"
+    },
+    "categories": [
+      "agent"
+    ],
+    "tags": {
+      "zh": [
+        "免费",
+        "开源",
+        "智能体",
+        "微信"
+      ],
+      "en": [
+        "Free",
+        "Open Source",
+        "Agent",
+        "WeChat"
+      ]
+    },
+    "featured": true
   }
 ]

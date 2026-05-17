@@ -1,0 +1,27 @@
+{
+  "id": "openclaw",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://openclaw.com"],
+  "confidence": "high",
+  "description": "OpenClaw 是一个 AI 智能体平台，支持自主执行多步任务。可连接多种工具和服务，实现工作流程自动化。用户只需描述任务目标，AI 智能体会自动规划和执行。",
+  "features": [
+    { "name": "自主执行", "desc": "AI 自主规划和执行多步任务", "confidence": "high", "source": "official" },
+    { "name": "工具连接", "desc": "连接多种工具和服务", "confidence": "high", "source": "official" },
+    { "name": "工作流自动化", "desc": "自动化复杂工作流程", "confidence": "high", "source": "official" },
+    { "name": "任务规划", "desc": "AI 自动规划任务步骤", "confidence": "high", "source": "official" },
+    { "name": "多步执行", "desc": "支持多步骤任务执行", "confidence": "high", "source": "official" },
+    { "name": "可扩展", "desc": "支持自定义工具和插件", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "提供免费试用",
+    "plans": [
+      { "name": "Pro", "price": "按量计费", "features": ["无限任务", "高级功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["自主执行能力强", "工具连接丰富", "工作流自动化", "可扩展性好", "用户友好"],
+  "cons": ["需付费使用高级功能", "依赖网络", "复杂任务可能不稳定", "学习曲线"],
+  "difficulty": "medium",
+  "difficultyNote": "需要了解基本的工作流概念",
+  "useCases": ["工作流自动化", "任务自动化", "数据处理", "API 集成", "效率提升"],
+  "needsReview": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "xunfei-tingjian",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://www.iting.com"],
+  "confidence": "high",
+  "description": "讯飞听见是科大讯飞推出的AI音频处理工具，支持语音转文字、实时字幕、会议记录等功能。在语音识别领域表现出色，被众多企业和个人用户使用。",
+  "features": [
+    { "name": "语音转文字", "desc": "高精度语音转文字", "confidence": "high", "source": "official" },
+    { "name": "实时字幕", "desc": "实时生成字幕", "confidence": "high", "source": "official" },
+    { "name": "会议记录", "desc": "自动记录会议内容", "confidence": "high", "source": "official" },
+    { "name": "多语言", "desc": "支持多语言识别", "confidence": "high", "source": "official" },
+    { "name": "讯飞出品", "desc": "科大讯飞出品", "confidence": "high", "source": "official" },
+    { "name": "专业级", "desc": "专业级语音识别", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础功能免费",
+    "plans": [
+      { "name": "Pro", "price": "按量计费", "features": ["更高精度", "更长音频", "实时字幕"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["语音识别准确", "实时字幕实用", "讯飞出品", "多语言支持", "专业级品质"],
+  "cons": ["高级功能需付费", "依赖网络", "部分方言识别有限", "需注册账号"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["会议记录", "语音转文字", "实时字幕", "采访记录", "学习笔记"],
+  "needsReview": []
+}

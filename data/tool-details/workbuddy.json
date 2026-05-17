@@ -1,0 +1,27 @@
+{
+  "id": "workbuddy",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://workbuddy.ai"],
+  "confidence": "high",
+  "description": "WorkBuddy是一款AI智能体平台，专注于工作场景的自动化任务执行。可自动完成邮件处理、数据整理、报告生成等工作任务，提升工作效率。",
+  "features": [
+    { "name": "工作自动化", "desc": "自动化工作任务执行", "confidence": "high", "source": "official" },
+    { "name": "邮件处理", "desc": "自动处理邮件", "confidence": "high", "source": "official" },
+    { "name": "数据整理", "desc": "自动整理数据", "confidence": "high", "source": "official" },
+    { "name": "报告生成", "desc": "自动生成报告", "confidence": "high", "source": "official" },
+    { "name": "多平台集成", "desc": "集成多种工作平台", "confidence": "high", "source": "official" },
+    { "name": "效率提升", "desc": "显著提升工作效率", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "提供免费试用",
+    "plans": [
+      { "name": "Pro", "price": "$19/月", "features": ["无限任务", "高级功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["工作场景优化", "多任务自动化", "效率提升显著", "多平台集成", "用户友好"],
+  "cons": ["需付费使用高级功能", "依赖网络", "部分任务不稳定", "学习曲线"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["邮件处理", "数据整理", "报告生成", "工作自动化", "效率提升"],
+  "needsReview": []
+}

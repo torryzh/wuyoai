@@ -1,0 +1,25 @@
+{
+  "id": "trae",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://trae.ai"],
+  "confidence": "high",
+  "description": "Trae 是字节跳动推出的 AI IDE，集成 AI 编程助手，支持智能代码补全、代码生成和调试。基于 VS Code 架构，提供流畅的编程体验。免费使用，是字节跳动在 AI 编程领域的重要产品。",
+  "features": [
+    { "name": "AI 代码补全", "desc": "智能代码补全和预测", "confidence": "high", "source": "official" },
+    { "name": "代码生成", "desc": "自然语言生成代码", "confidence": "high", "source": "official" },
+    { "name": "代码调试", "desc": "AI 辅助代码调试", "confidence": "high", "source": "official" },
+    { "name": "VS Code 架构", "desc": "基于 VS Code，兼容插件", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "完全免费使用", "confidence": "high", "source": "official" },
+    { "name": "中文优化", "desc": "针对中文开发者优化", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "完全免费",
+    "plans": []
+  },
+  "pros": ["完全免费", "VS Code 架构", "中文优化", "字节出品", "持续更新"],
+  "cons": ["相对较新", "插件生态不如 VS Code", "依赖网络", "部分功能不稳定"],
+  "difficulty": "easy",
+  "difficultyNote": "VS Code 用户可直接上手",
+  "useCases": ["日常编程", "代码补全", "代码生成", "代码调试", "学习编程"],
+  "needsReview": []
+}

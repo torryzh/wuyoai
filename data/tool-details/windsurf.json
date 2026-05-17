@@ -1,0 +1,27 @@
+{
+  "id": "windsurf",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://windsurf.ai"],
+  "confidence": "high",
+  "description": "Windsurf是一款AI编程工具，提供智能代码补全、代码生成和调试功能。支持多种编程语言，帮助开发者提升编程效率。",
+  "features": [
+    { "name": "代码补全", "desc": "智能代码补全和预测", "confidence": "high", "source": "official" },
+    { "name": "代码生成", "desc": "自然语言生成代码", "confidence": "high", "source": "official" },
+    { "name": "代码调试", "desc": "AI辅助代码调试", "confidence": "high", "source": "official" },
+    { "name": "多语言", "desc": "支持多种编程语言", "confidence": "high", "source": "official" },
+    { "name": "IDE集成", "desc": "支持主流IDE集成", "confidence": "high", "source": "official" },
+    { "name": "免费试用", "desc": "提供免费试用", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "免费试用",
+    "plans": [
+      { "name": "Pro", "price": "$15/月", "features": ["无限使用", "高级功能", "优先支持"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["代码补全准确", "多语言支持", "IDE集成", "免费试用", "效率提升"],
+  "cons": ["需付费使用高级功能", "依赖网络", "部分功能不稳定", "生态较小"],
+  "difficulty": "easy",
+  "difficultyNote": "安装IDE插件即可使用",
+  "useCases": ["日常编程", "代码补全", "代码生成", "代码调试", "学习编程"],
+  "needsReview": []
+}

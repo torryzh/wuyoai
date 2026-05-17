@@ -1,0 +1,46 @@
+{
+  "id": "hermes-agent",
+  "fetchedAt": "2026-05-16T10:30:00Z",
+  "sources": ["https://baike.baidu.com/item/Hermes%20Agent/67487182"],
+  "confidence": "high",
+  "description": "Hermes Agent（昵称：爱马仕）是由 Nous Research 开发的开源自主 AI 智能体，于 2026 年 2 月开源。专为持久运行和自我成长设计，通过 FTS5 检索技术实现跨会话记忆，能自主创建程序化技能。支持 40 多种内置工具，可通过微信、Telegram、Discord、Slack、WhatsApp 等消息平台访问。兼容多种大语言模型（OpenAI、Anthropic、Gemini、MiniMax 等），内置 cron 调度器执行定时任务。具备自我完善系统，支持多 Agent 系统（规划者、执行者、审核者），集成 MCP 协议扩展能力。采用 MIT 开源协议，支持单行命令安装在 Linux、macOS、WSL2 及 Docker 环境。",
+  "features": [
+    { "name": "持久运行", "desc": "专为持久运行和自我成长设计", "confidence": "high", "source": "baike" },
+    { "name": "跨会话记忆", "desc": "FTS5 检索技术实现跨会话记忆", "confidence": "high", "source": "baike" },
+    { "name": "自主技能创建", "desc": "能自主创建程序化技能", "confidence": "high", "source": "baike" },
+    { "name": "40+ 内置工具", "desc": "支持 40 多种内置工具", "confidence": "high", "source": "baike" },
+    { "name": "多平台支持", "desc": "支持微信、Telegram、Discord、Slack、WhatsApp", "confidence": "high", "source": "baike" },
+    { "name": "多模型兼容", "desc": "兼容 OpenAI、Anthropic、Gemini、MiniMax 等", "confidence": "high", "source": "baike" },
+    { "name": "定时任务", "desc": "内置 cron 调度器执行定时任务", "confidence": "high", "source": "baike" },
+    { "name": "多 Agent 系统", "desc": "支持规划者、执行者、审核者角色", "confidence": "high", "source": "baike" }
+  ],
+  "pricing": {
+    "free": "完全免费开源",
+    "plans": []
+  },
+  "pros": [
+    "完全免费开源（MIT 协议）",
+    "支持微信等国内平台",
+    "跨会话记忆能力强",
+    "自主创建技能",
+    "多模型兼容",
+    "社区活跃"
+  ],
+  "cons": [
+    "需要技术背景部署",
+    "依赖本地环境",
+    "部分功能不稳定",
+    "文档相对较少"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "需要命令行基础，支持单行命令安装",
+  "useCases": [
+    "自动化任务执行",
+    "多平台消息助手",
+    "定时任务调度",
+    "多 Agent 协作",
+    "个人 AI 助手",
+    "工作流自动化"
+  ],
+  "needsReview": []
+}

@@ -70,5 +70,11 @@
     "icon": "🔬",
     "name": { "zh": "AI前沿研究", "en": "AI Research" },
     "description": { "zh": "论文、开源模型、技术动态", "en": "Papers, open-source models, and tech trends" }
+  },
+  {
+    "id": "agent",
+    "icon": "🤖",
+    "name": { "zh": "AI智能体", "en": "AI Agent" },
+    "description": { "zh": "自主执行多步任务的AI系统，如Claude Code、Codex、OpenClaw", "en": "AI systems that autonomously execute multi-step tasks, such as Claude Code, Codex, OpenClaw" }
   }
 ]

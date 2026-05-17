@@ -1,0 +1,27 @@
+{
+  "id": "lingyiwanwu",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://yi.ai"],
+  "confidence": "high",
+  "description": "零一万物是李开复创办的 AI 公司，推出了一系列大语言模型。Yi 模型在多项基准测试中表现优异，支持多种应用场景。是国产大模型的重要参与者。",
+  "features": [
+    { "name": "高性能模型", "desc": "Yi 模型性能优异", "confidence": "high", "source": "official" },
+    { "name": "多场景应用", "desc": "支持多种应用场景", "confidence": "high", "source": "official" },
+    { "name": "中文优化", "desc": "针对中文场景优化", "confidence": "high", "source": "official" },
+    { "name": "开源版本", "desc": "提供开源模型版本", "confidence": "high", "source": "official" },
+    { "name": "持续迭代", "desc": "模型持续更新迭代", "confidence": "high", "source": "official" },
+    { "name": "李开复创办", "desc": "李开复创办的 AI 公司", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础功能免费",
+    "plans": [
+      { "name": "API", "price": "按量计费", "features": ["开发者 API 访问", "按 token 计费"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["李开复创办", "性能优异", "中文优化", "开源版本", "持续迭代"],
+  "cons": ["知名度相对较低", "部分功能不稳定", "依赖网络", "生态较小"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["日常对话", "内容创作", "代码辅助", "学习研究", "开发者集成"],
+  "needsReview": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "claude-code",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://claude.ai/code"],
+  "confidence": "high",
+  "description": "Claude Code 是 Anthropic 推出的 AI 编程智能体，可自主执行编程任务、调试代码、管理项目。支持命令行交互，能理解项目上下文，自动完成代码编写、测试、重构等复杂任务。是目前最先进的 AI 编程智能体之一。",
+  "features": [
+    { "name": "自主编程", "desc": "可自主完成复杂编程任务", "confidence": "high", "source": "official" },
+    { "name": "代码调试", "desc": "自动发现和修复代码问题", "confidence": "high", "source": "official" },
+    { "name": "项目管理", "desc": "理解项目结构，管理代码库", "confidence": "high", "source": "official" },
+    { "name": "命令行交互", "desc": "支持命令行界面操作", "confidence": "high", "source": "official" },
+    { "name": "多语言支持", "desc": "支持多种编程语言", "confidence": "high", "source": "official" },
+    { "name": "上下文理解", "desc": "理解项目上下文和代码关系", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "需 Claude Pro/Team 订阅",
+    "plans": [
+      { "name": "Pro", "price": "$20/月", "features": ["Claude Code 访问", "完整功能"], "confidence": "high", "source": "official" },
+      { "name": "Team", "price": "$25/人/月", "features": ["团队协作", "更高用量"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": [
+    "最先进的 AI 编程智能体",
+    "自主完成复杂任务",
+    "理解项目上下文",
+    "支持多种编程语言",
+    "持续更新迭代"
+  ],
+  "cons": [
+    "需付费订阅",
+    "依赖网络",
+    "复杂任务可能需要多次交互",
+    "学习曲线较陡"
+  ],
+  "difficulty": "medium",
+  "difficultyNote": "需要命令行基础和编程经验",
+  "useCases": [
+    "自动化编程任务",
+    "代码调试和修复",
+    "项目重构",
+    "代码审查",
+    "测试编写",
+    "技术债务清理"
+  ],
+  "needsReview": []
+}

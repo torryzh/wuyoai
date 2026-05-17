@@ -1,0 +1,27 @@
+{
+  "id": "baichuan",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://www.baichuan-ai.com"],
+  "confidence": "high",
+  "description": "百川智能推出的大语言模型，专注于中文理解和生成。在中文场景下表现出色，是国产大模型的代表之一。支持多种应用场景，包括对话、写作、代码等。",
+  "features": [
+    { "name": "中文理解", "desc": "专注于中文理解和生成", "confidence": "high", "source": "official" },
+    { "name": "多场景", "desc": "支持对话、写作、代码等多种场景", "confidence": "high", "source": "official" },
+    { "name": "高性能", "desc": "在中文基准测试中表现优异", "confidence": "high", "source": "official" },
+    { "name": "开源版本", "desc": "提供开源模型版本", "confidence": "high", "source": "official" },
+    { "name": "免费使用", "desc": "基础功能免费", "confidence": "high", "source": "official" },
+    { "name": "持续更新", "desc": "模型持续迭代升级", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "基础功能免费",
+    "plans": [
+      { "name": "API", "price": "按量计费", "features": ["开发者 API 访问", "按 token 计费"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["中文优化出色", "多场景支持", "开源版本", "免费使用", "持续更新"],
+  "cons": ["知名度相对较低", "与国际顶尖有差距", "依赖网络", "生态较小"],
+  "difficulty": "easy",
+  "difficultyNote": "注册即可使用",
+  "useCases": ["日常对话", "中文写作", "代码辅助", "学习研究", "知识问答"],
+  "needsReview": []
+}

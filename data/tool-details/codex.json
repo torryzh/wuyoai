@@ -1,0 +1,27 @@
+{
+  "id": "codex",
+  "fetchedAt": "2026-05-16T10:00:00Z",
+  "sources": ["https://openai.com/codex"],
+  "confidence": "high",
+  "description": "Codex是OpenAI推出的AI编程智能体，基于GPT模型，可自主完成复杂编程任务。支持代码生成、调试、重构等功能，是目前最先进的AI编程工具之一。",
+  "features": [
+    { "name": "自主编程", "desc": "可自主完成复杂编程任务", "confidence": "high", "source": "official" },
+    { "name": "代码生成", "desc": "自然语言生成代码", "confidence": "high", "source": "official" },
+    { "name": "代码调试", "desc": "自动发现和修复代码问题", "confidence": "high", "source": "official" },
+    { "name": "代码重构", "desc": "智能代码重构", "confidence": "high", "source": "official" },
+    { "name": "多语言支持", "desc": "支持多种编程语言", "confidence": "high", "source": "official" },
+    { "name": "OpenAI 出品", "desc": "OpenAI 出品", "confidence": "high", "source": "official" }
+  ],
+  "pricing": {
+    "free": "需 OpenAI 订阅",
+    "plans": [
+      { "name": "Pro", "price": "$20/月", "features": ["Codex 访问", "完整功能"], "confidence": "high", "source": "official" }
+    ]
+  },
+  "pros": ["最先进的AI编程工具", "OpenAI出品", "自主编程能力强", "多语言支持", "持续更新"],
+  "cons": ["需付费订阅", "依赖网络", "复杂任务需多次交互", "学习曲线"],
+  "difficulty": "medium",
+  "difficultyNote": "需要编程基础",
+  "useCases": ["自动化编程", "代码生成", "代码调试", "代码重构", "技术债务清理"],
+  "needsReview": []
+}
